@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -106,6 +107,8 @@
             </list>
           </option>
           <option name="id" value="1491587551980" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
