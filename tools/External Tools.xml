@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
-  <tool name="Run unit tests in docker container" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Run tests in docker container" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/projects/OnShift/bazman/bazman/run_tests.sh" />
+      <option name="COMMAND" value="$USER_HOME$/run_tests.sh" />
       <option name="PARAMETERS" value="$FileRelativePath$" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/OnShift/bazman/" />
     </exec>
