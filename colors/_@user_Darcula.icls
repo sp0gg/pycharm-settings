@@ -1,14 +1,14 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="2.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-03-19T08:44:52</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-04-12T12:29:15</property>
+    <property name="modified">2017-04-17T11:06:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="30" />
-  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata for Powerline" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
   <attributes>
     <option name="PY.STRING.U">
