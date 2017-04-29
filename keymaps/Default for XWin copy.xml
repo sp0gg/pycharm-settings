@@ -11,6 +11,8 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="IpnbRunAllCellsAction" />
+  <action id="Run" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
@@ -27,6 +29,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Tool_External Tools_Run unit tests in docker container">
+    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />

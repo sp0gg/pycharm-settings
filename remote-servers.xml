@@ -1,0 +1,10 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="bazman" type="docker">
+      <configuration />
+    </remote-server>
+    <remote-server name="authapp" type="docker">
+      <configuration />
+    </remote-server>
+  </component>
+</application>
