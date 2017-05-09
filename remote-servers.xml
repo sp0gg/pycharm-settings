@@ -1,10 +1,9 @@
 <application>
   <component name="RemoteServers">
     <remote-server name="bazman" type="docker">
-      <configuration />
-    </remote-server>
-    <remote-server name="authapp" type="docker">
-      <configuration />
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+      </configuration>
     </remote-server>
   </component>
 </application>
