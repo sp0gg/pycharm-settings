@@ -12,7 +12,6 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="IpnbRunAllCellsAction" />
-  <action id="Run" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
