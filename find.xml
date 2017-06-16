@@ -14,10 +14,14 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.py</mask>
-      <mask>*</mask>
       <mask>*te</mask>
       <mask>*test</mask>
       <mask>*test*</mask>
+      <mask>*</mask>
+      <mask>*r</mask>
+      <mask>*re</mask>
+      <mask>*req</mask>
+      <mask>*req*</mask>
     </recentFileMasks>
   </component>
 </application>
