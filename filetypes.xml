@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="whl" type="Native" />
       <mapping ext="gz" type="Native" />
+      <mapping ext="pip" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
