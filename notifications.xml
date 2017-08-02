@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Docker" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
+    <notification groupId="Skeletons" shouldLog="false" />
+  </component>
+</application>
