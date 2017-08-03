@@ -13,15 +13,22 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>*te</mask>
       <mask>*test</mask>
       <mask>*test*</mask>
-      <mask>*</mask>
       <mask>*r</mask>
       <mask>*re</mask>
       <mask>*req</mask>
       <mask>*req*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
+      <mask>(*.py)</mask>
+      <mask>(*.py</mask>
+      <mask>(*.p</mask>
+      <mask>(*.</mask>
+      <mask>(*</mask>
+      <mask>(</mask>
     </recentFileMasks>
   </component>
 </application>
