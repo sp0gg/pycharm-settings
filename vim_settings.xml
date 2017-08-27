@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503869111145">
-        <mark key="[" line="228" column="21" />
-        <mark key="]" line="228" column="23" />
-        <mark key="." line="228" column="23" />
+      <file name="/Dummy.txt" timestamp="1503870259105">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503869664231" />
       <file name="/a.dummy" timestamp="1503869073684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,50 +17,81 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1503870453887">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="o" line="13" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/client/python/setup.py" />
+      <jump line="10" column="41" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="13" column="46" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">KQoKICAgIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0dXAoCg==</text>
+        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dXAoCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MgICMgY3VzdG9tIGNvbW1hbmQgbm90IG5lZWRlZCBpZiB3aGVlbCBpcyBub3QgaW5zdGFsbGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">ICAgIHBhc3MgICMgY3VzdG9tIGNvbW1hbmQgbm90IG5lZWRlZCBpZiB3aGVlbCBpcyBub3QgaW5zdGFsbGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNtZF9jbGFzc19kaWN0WydiZGlzdF93aGVlbCddID0gQ3VzdG9tQmRpc3RXaGVlbENvbW1hbmQK</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgIGNtZF9jbGFzc19kaWN0WydiZGlzdF93aGVlbCddID0gQ3VzdG9tQmRpc3RXaGVlbENvbW1hbmQK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmRpc3Rfd2hlZWwucnVuKHNlbGYpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
+      </register>
+      <register name="/" type="4">
+        <text>',</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>',</last-search>
+      <last-offset />
+      <last-pattern>',</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>',</entry>
+      </history-search>
       <history-cmd />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
