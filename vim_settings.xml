@@ -32,7 +32,7 @@
         <mark key="'" line="10" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1503869073684">
+      <file name="/a.dummy" timestamp="1503940634312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
@@ -42,24 +42,16 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1503870453887">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="o" line="13" column="46" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1503935110921">
         <mark key="'" line="511" column="10" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503926470749" />
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503940359896">
-        <mark key="'" line="347" column="0" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503941020280">
+        <mark key="'" line="172" column="40" />
+        <mark key="[" line="172" column="94" />
+        <mark key="]" line="172" column="92" />
+        <mark key="^" line="172" column="92" />
+        <mark key="." line="172" column="92" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
@@ -145,7 +137,6 @@
       <jump line="306" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="18" column="46" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="45" column="58" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="54" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="55" column="77" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="57" column="39" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
@@ -160,25 +151,27 @@
       <jump line="338" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="40" column="29" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="340" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="172" column="40" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PHONE_TYPE</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>PHONE_TYPE</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>PHONE_TYPE</text>
+        <text>_get</text>
       </register>
-      <register name="0" type="4">
-        <text>_get_communication_method</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNlbmRfbWV0aG9kX25hbWVfdG9fY29tbXVuaWNhdGlvbl90eXBlID0gewogICAgICAgICdTTVMnOiAnVEVYVCcsCiAgICAgICAgJ0lWUic6ICdQSE9ORScsCiAgICAgICAgJ2VtYWlsJzogJ0VNQUlMJywKICAgICAgICAnUHVzaCc6ICdQVVNIJwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZW5kX21ldGhvZF9uYW1lX3RvX2NvbW11bmljYXRpb25fdHlwZVtzZW5kX21ldGhvZF9uYW1lXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2Qoc2VuZF9tZXRob2RfbmFtZSk6CiAgICBzZW5kX21ldGhvZF9uYW1lX3RvX2NvbW11bmljYXRpb25fdHlwZSA9IHsKICAgICAgICAnU01TJzogJ1RFWFQnLAogICAgICAgICdJVlInOiAnUEhPTkUnLAogICAgICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAgICAgJ1B1c2gnOiAnUFVTSCcKICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -187,25 +180,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZXMuYXBwZW5kKHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ2lzX2NvbW11bmljYXRpb25fZW5hYmxlZCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzX2lkICE9IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZXMuYXBwZW5kKHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I0tCRC00MTlfYWRkX2NvbW11bmljYXRpb25fZmllbGRzIDIwMTctMDgtMjNUMTA6NTQ6NTBaIEpvZSBOZWxzb24gPGpuZWxzb25Ab25zaGlmdC5jb20+ICMgQWRkIGZpZWxkcyBmb3IgY29tbXVuaWNhdGlvbiwgbW92ZSBwcmVmZXJlbmNlcyB0byBwcmVmZXJlbmNlcyB0YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgJ2lzX2NvbW11bmljYXRpb25fZW5hYmxlZCc6Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>PHONE_TYPE</last-search>
+      <last-search>_get</last-search>
       <last-offset />
-      <last-pattern>PHONE_TYPE</last-pattern>
+      <last-pattern>_get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -229,6 +222,7 @@
         <entry>employee.name</entry>
         <entry>prefer</entry>
         <entry>PHONE_TYPE</entry>
+        <entry>_get</entry>
       </history-search>
       <history-cmd />
       <history-expr />
