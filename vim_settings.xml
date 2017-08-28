@@ -27,11 +27,12 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503871058042">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -84,43 +85,48 @@
       <jump line="18" column="71" filename="$USER_HOME$/projects/profile-service/server/models/profile.py" />
       <jump line="19" column="38" filename="$USER_HOME$/projects/profile-service/server/models/profile.py" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/profile-service/server/models/profile.py" />
+      <jump line="14" column="12" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>, back_populates='profile'</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScsCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">KQoKICAgIA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2V0dXAoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MgICMgY3VzdG9tIGNvbW1hbmQgbm90IG5lZWRlZCBpZiB3aGVlbCBpcyBub3QgaW5zdGFsbGVkCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
       </register>
       <register name="-" type="4">
-        <text>, back_populates='profile'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>back_populates</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScsCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">KQoKICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2V0dXAoCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
