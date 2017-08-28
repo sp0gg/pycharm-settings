@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503933112451">
+      <file name="/Dummy.txt" timestamp="1503935761882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -20,6 +20,9 @@
       </file>
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1503935081785">
+        <mark key="'" line="826" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1503869073684">
         <mark key="[" line="0" column="0" />
@@ -46,12 +49,16 @@
         <mark key="^" line="13" column="46" />
         <mark key="o" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1503935110921">
+        <mark key="'" line="511" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503926470749" />
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503933490988">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="9" />
-        <mark key="]" line="57" column="9" />
-        <mark key="." line="57" column="9" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503935750876">
+        <mark key="'" line="144" column="33" />
+        <mark key="[" line="121" column="57" />
+        <mark key="]" line="122" column="66" />
+        <mark key="." line="122" column="66" />
+        <mark key="^" line="122" column="66" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
@@ -83,6 +90,9 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
+      <file name="/dummy.sql" timestamp="1503935209457">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/client/python/setup.py" />
@@ -106,6 +116,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" />
       <jump line="105" column="16" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="851" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="909" column="43" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="910" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="917" column="30" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="517" column="167" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="141" column="115" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="518" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="522" column="79" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="523" column="81" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="524" column="164" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="529" column="108" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="530" column="130" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="531" column="47" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="231" column="50" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="826" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="511" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="127" column="8" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="142" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -115,7 +144,7 @@
         <text encoding="base64">cHJvZmlsZV9zZXJ2aWNlX2NsaWVudCA=</text>
       </register>
       <register name="/" type="4">
-        <text>address</text>
+        <text>phone</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
@@ -149,9 +178,9 @@
       </register>
     </registers>
     <search>
-      <last-search>address</last-search>
+      <last-search>phone</last-search>
       <last-offset />
-      <last-pattern>address</last-pattern>
+      <last-pattern>phone</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -160,6 +189,14 @@
         <entry>',</entry>
         <entry>back_populates</entry>
         <entry>address</entry>
+        <entry>view</entry>
+        <entry>def view</entry>
+        <entry>destination</entry>
+        <entry>call_</entry>
+        <entry>call_.*_number</entry>
+        <entry>call_this_number</entry>
+        <entry>send_method</entry>
+        <entry>phone</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -183,6 +220,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
