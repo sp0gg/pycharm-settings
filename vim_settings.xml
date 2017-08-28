@@ -21,12 +21,6 @@
       <file name="/a.dummy" timestamp="1503869073684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-      </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
         <mark key="'" line="19" column="8" />
         <mark key="[" line="14" column="30" />
@@ -48,6 +42,13 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
         <mark key="o" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503926470749" />
+      <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
+        <mark key="'" line="10" column="32" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="55" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
