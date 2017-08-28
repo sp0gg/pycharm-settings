@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1503935761882">
+      <file name="/Dummy.txt" timestamp="1503936418166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -34,13 +34,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1503870453887">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="13" column="47" />
@@ -53,18 +46,21 @@
         <mark key="'" line="511" column="10" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503926470749" />
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503935750876">
-        <mark key="'" line="144" column="33" />
-        <mark key="[" line="121" column="57" />
-        <mark key="]" line="122" column="66" />
-        <mark key="." line="122" column="66" />
-        <mark key="^" line="122" column="66" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503936797822">
+        <mark key="'" line="122" column="58" />
+        <mark key="[" line="137" column="42" />
+        <mark key="]" line="137" column="42" />
+        <mark key="." line="137" column="42" />
+        <mark key="^" line="137" column="42" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
         <mark key="[" line="16" column="55" />
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1503936413636">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -90,7 +86,7 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1503935209457">
+      <file name="/dummy.sql" timestamp="1503935879726">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -115,7 +111,6 @@
       <jump line="19" column="8" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" />
       <jump line="105" column="16" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="851" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="909" column="43" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="910" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
@@ -135,52 +130,65 @@
       <jump line="511" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="127" column="8" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="142" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="136" column="24" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="530" column="13" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="180" column="64" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="306" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="18" column="46" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="44" column="48" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="45" column="58" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="54" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="55" column="77" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="57" column="39" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="122" column="58" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJvZmlsZV9zZXJ2aWNlX2NsaWVudCA=</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvZmlsZV9zZXJ2aWNlX2NsaWVudCA=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>phone</text>
+        <text>is_commun</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzX2lkICE9IDEwLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">I0tCRC00MTlfYWRkX2NvbW11bmljYXRpb25fZmllbGRzIDIwMTctMDgtMjNUMTA6NTQ6NTBaIEpvZSBOZWxzb24gPGpuZWxzb25Ab25zaGlmdC5jb20+ICMgQWRkIGZpZWxkcyBmb3IgY29tbXVuaWNhdGlvbiwgbW92ZSBwcmVmZXJlbmNlcyB0byBwcmVmZXJlbmNlcyB0YWJsZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">KQoKICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0dXAoCg==</text>
+        <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
       </register>
     </registers>
     <search>
-      <last-search>phone</last-search>
+      <last-search>is_commun</last-search>
       <last-offset />
-      <last-pattern>phone</last-pattern>
+      <last-pattern>is_commun</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -197,6 +205,10 @@
         <entry>call_this_number</entry>
         <entry>send_method</entry>
         <entry>phone</entry>
+        <entry>employee_info</entry>
+        <entry>chain</entry>
+        <entry>shortco</entry>
+        <entry>is_commun</entry>
       </history-search>
       <history-cmd />
       <history-expr />
