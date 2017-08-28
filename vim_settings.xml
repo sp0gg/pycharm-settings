@@ -18,6 +18,9 @@
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
+      <file name="/Python Console" timestamp="1503928288942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1503869073684">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,6 +65,12 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1503928741618">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/profile.py" timestamp="1503871103319">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="24" column="42" />
@@ -88,10 +97,11 @@
       <jump line="22" column="0" filename="$USER_HOME$/projects/profile-service/server/models/profile.py" />
       <jump line="14" column="12" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
       <jump line="19" column="8" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I0tCRC00MTlfYWRkX2NvbW11bmljYXRpb25fZmllbGRzIDIwMTctMDgtMjNUMTA6NTQ6NTBaIEpvZSBOZWxzb24gPGpuZWxzb25Ab25zaGlmdC5jb20+ICMgQWRkIGZpZWxkcyBmb3IgY29tbXVuaWNhdGlvbiwgbW92ZSBwcmVmZXJlbmNlcyB0byBwcmVmZXJlbmNlcyB0YWJsZQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -102,32 +112,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJ0hPTUUnLCAnQ0VMTCcsICdXT1JLJywgJ09USEVSJywKICAgICAgICAgICAgbmFtZT0ncGhvbmVfdHlwZScs</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">I0tCRC00MTlfYWRkX2NvbW11bmljYXRpb25fZmllbGRzIDIwMTctMDgtMjNUMTA6NTQ6NTBaIEpvZSBOZWxzb24gPGpuZWxzb25Ab25zaGlmdC5jb20+ICMgQWRkIGZpZWxkcyBmb3IgY29tbXVuaWNhdGlvbiwgbW92ZSBwcmVmZXJlbmNlcyB0byBwcmVmZXJlbmNlcyB0YWJsZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
+        <text encoding="base64">ICAgICAgICBFbnVtKAogICAgICAgICAgICAnVEVYVCcsICdQSE9ORScsICdFTUFJTCcsICdQVVNIJywKICAgICAgICAgICAgbmFtZT0nY29tbXVuaWNhdGlvbl9tZXRob2QnCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrX3BvcHVsYXRlcz0ncHJvZmlsZScsCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">KQoKICAgIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG5hbWU9J3Byb2ZpbGVfc2VydmljZV9jbGllbnQnLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2V0dXAoCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0dXAoCg==</text>
       </register>
     </registers>
     <search>
@@ -155,6 +165,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
