@@ -37,12 +37,12 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504018932158">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="311" column="13" />
-        <mark key="]" line="356" column="0" />
-        <mark key="^" line="356" column="0" />
-        <mark key="." line="356" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504020071369">
+        <mark key="'" line="267" column="38" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="^" line="353" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
@@ -133,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="127" column="8" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="142" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="136" column="24" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
@@ -233,22 +232,23 @@
       <jump line="155" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="10" column="4" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="15" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="270" column="38" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBlbXBsb3llZS5pZDoKICAgICAgICAgICAgICAgICMgaW1wb3J0IGlwZGI7CiAgICAgICAgICAgICAgICAjIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>ipd</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">eHJlZl90Z191c2VyX3NlcnZpY2UKICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBlbXBsb3llZS5pZDoKICAgICAgICAgICAgICAgICMgaW1wb3J0IGlwZGI7CiAgICAgICAgICAgICAgICAjIGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -257,31 +257,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjcHJpbnQoJ2VtcGxveWVlIHJlc3VsdHM6IHt9Jy5mb3JtYXQoZW1wbG95ZWVfcmVzdWx0cykpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjcHJpbnQoJ3Yyb3JnaWRzOiB7fScuZm9ybWF0KGNoYWluX29yZ19yZXN1bHRzLnYyb3JnX2lkcykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGVtcGxveWVlX2luZm8pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjcHJpbnQoJ2VtcGxveWVlIHJlc3VsdHM6IHt9Jy5mb3JtYXQoZW1wbG95ZWVfcmVzdWx0cykpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjcHJpbnQoJ3Yyb3JnaWRzOiB7fScuZm9ybWF0KGNoYWluX29yZ19yZXN1bHRzLnYyb3JnX2lkcykpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGVtcGxveWVlX2luZm8pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VORF9NRVRIT0RfTkFNRV9UT19DT01NVU5JQ0FUSU9OX01FVEhPRCA9IHsKICAgICdTTVMnOiAnVEVYVCcsCiAgICAnSVZSJzogJ1BIT05FJywKICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAnUHVzaCc6ICdQVVNIJwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>ipd</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>ipd</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
@@ -302,13 +302,13 @@
         <entry>home</entry>
         <entry>_get_preferred_calling_method</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
-        <entry>ipd</entry>
         <entry>if employee.profile_id</entry>
         <entry>user_id</entry>
         <entry>short</entry>
         <entry>shortc</entry>
         <entry>communic</entry>
         <entry>print</entry>
+        <entry>ipd</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
