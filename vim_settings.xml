@@ -37,12 +37,12 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504013058410">
-        <mark key="'" line="137" column="9" />
-        <mark key="[" line="187" column="26" />
-        <mark key="]" line="187" column="26" />
-        <mark key="^" line="139" column="17" />
-        <mark key="." line="187" column="26" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504015557960">
+        <mark key="'" line="156" column="9" />
+        <mark key="[" line="324" column="17" />
+        <mark key="]" line="324" column="17" />
+        <mark key="^" line="345" column="30" />
+        <mark key="." line="324" column="17" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
@@ -65,7 +65,7 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1504008350202">
+      <file name="/dummy.sql" timestamp="1504013996538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1504007484917">
@@ -133,15 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/projects/profile-service/server/models/preferences.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" />
-      <jump line="105" column="16" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="851" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="909" column="43" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="910" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="917" column="30" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="517" column="167" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="141" column="115" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="518" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="522" column="79" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
@@ -166,7 +157,6 @@
       <jump line="55" column="77" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="57" column="39" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="122" column="58" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="140" column="40" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="18" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" />
       <jump line="44" column="23" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
@@ -229,23 +219,33 @@
       <jump line="101" column="46" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="202" column="12" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="232" column="27" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="18" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" />
       <jump line="124" column="20" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="184" column="85" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="234" column="17" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="188" column="25" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="189" column="18" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="231" column="13" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="190" column="12" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="140" column="44" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="307" column="27" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="327" column="68" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="137" column="9" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="156" column="9" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlzIE5vbmU=</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzIE5vbmU=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VORF9NRVRIT0RfTkFNRV9UT19DT01NVU5JQ0FUSU9OX01FVEhPRCA9IHsKICAgICdTTVMnOiAnVEVYVCcsCiAgICAnSVZSJzogJ1BIT05FJywKICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAnUHVzaCc6ICdQVVNIJwp9Cgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">eHJlZl90Z191c2VyX3NlcnZpY2UKICAgICAgICAgICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -289,8 +289,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prefer</entry>
-        <entry>PHONE_TYPE</entry>
         <entry>_get</entry>
         <entry>employee_info</entry>
         <entry>schedule</entry>
@@ -299,7 +297,6 @@
         <entry>ON xref_tg_user_service.user_id = tg_user.id</entry>
         <entry>xref_tg_user_service.</entry>
         <entry>xref_tg_user_service</entry>
-        <entry>user_id</entry>
         <entry>xref_tg_user</entry>
         <entry>xref_tg_user_service.user_id</entry>
         <entry>preferred_</entry>
@@ -308,6 +305,9 @@
         <entry>home</entry>
         <entry>_get_preferred_calling_method</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
+        <entry>ipd</entry>
+        <entry>if employee.profile_id</entry>
+        <entry>user_id</entry>
         <entry>print</entry>
       </history-search>
       <history-cmd>
