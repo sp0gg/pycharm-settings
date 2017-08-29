@@ -27,6 +27,9 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
         <mark key="[" line="211" column="17" />
@@ -34,12 +37,12 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503943193833">
-        <mark key="'" line="175" column="24" />
-        <mark key="[" line="173" column="33" />
-        <mark key="]" line="173" column="33" />
-        <mark key="^" line="172" column="92" />
-        <mark key="." line="173" column="33" />
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503950149502">
+        <mark key="'" line="185" column="57" />
+        <mark key="[" line="185" column="36" />
+        <mark key="]" line="185" column="57" />
+        <mark key="^" line="185" column="57" />
+        <mark key="." line="185" column="57" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
@@ -65,7 +68,7 @@
       <file name="/dummy.sql" timestamp="1503943895341">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503943321537">
+      <file name="/Dummy.txt" timestamp="1503949136397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -80,8 +83,8 @@
         <mark key="]" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1503935081785">
-        <mark key="'" line="826" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1503948854740">
+        <mark key="'" line="788" column="10" />
       </file>
       <file name="/loader_app.py" timestamp="1503936902522">
         <mark key="[" line="142" column="0" />
@@ -101,12 +104,12 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503926470749" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1503943906026">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="36" />
+      <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503948023946" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1503948673499">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1503946235615">
         <mark key="'" line="65" column="17" />
@@ -129,14 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/client/python/setup.py" />
-      <jump line="10" column="41" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
-      <jump line="13" column="46" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization.py" />
-      <jump line="10" column="32" filename="$USER_HOME$/projects/profile-service/server/models/organization.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/models/address.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/models/chain.py" />
       <jump line="24" column="21" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
       <jump line="30" column="67" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
       <jump line="10" column="32" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
@@ -215,43 +210,65 @@
       <jump line="259" column="70" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
       <jump line="76" column="68" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
       <jump line="93" column="68" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="173" column="33" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="271" column="12" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="291" column="24" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="297" column="21" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="302" column="28" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="132" column="16" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="133" column="15" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="290" column="20" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="317" column="20" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="788" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="225" column="26" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="266" column="20" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="279" column="16" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="283" column="91" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="285" column="20" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="343" column="82" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="344" column="91" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="41" column="25" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
+      <jump line="185" column="57" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>_get_preferred_calling_method</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>_get_preferred_calling_method</text>
       </register>
       <register name="/" type="4">
-        <text>.Name</text>
+        <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>preferences_object</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VORF9NRVRIT0RfTkFNRV9UT19DT01NVU5JQ0FUSU9OX01FVEhPRCA9IHsKICAgICdTTVMnOiAnVEVYVCcsCiAgICAnSVZSJzogJ1BIT05FJywKICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAnUHVzaCc6ICdQVVNIJwp9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHByZWZlcmVuY2VzX29iamVjdCBpbiBwcm9maWxlLnByZWZlcmVuY2VzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VORF9NRVRIT0RfTkFNRV9UT19DT01NVU5JQ0FUSU9OX01FVEhPRCA9IHsKICAgICdTTVMnOiAnVEVYVCcsCiAgICAnSVZSJzogJ1BIT05FJywKICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAnUHVzaCc6ICdQVVNIJwp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX29iamVjdC5wcmVmZXJlbmNlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHByZWZlcmVuY2VzX29iamVjdCBpbiBwcm9maWxlLnByZWZlcmVuY2VzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHByb2ZpbGVfb2JqZWN0LnBob25lX251bWJlcnNbMV0uaXNfc2hvcnRfY29kZV9lbmFibGVkLCBUcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzZW5kX21ldGhvZF9uYW1lX3RvX2NvbW11bmljYXRpb25fdHlwZVtzZW5kX21ldGhvZF9uYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX29iamVjdC5wcmVmZXJlbmNlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2Qoc2VuZF9tZXRob2RfbmFtZSk6CiAgICBzZW5kX21ldGhvZF9uYW1lX3RvX2NvbW11bmljYXRpb25fdHlwZSA9IHsKICAgICAgICAnU01TJzogJ1RFWFQnLAogICAgICAgICdJVlInOiAnUEhPTkUnLAogICAgICAgICdlbWFpbCc6ICdFTUFJTCcsCiAgICAgICAgJ1B1c2gnOiAnUFVTSCcKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHByb2ZpbGVfb2JqZWN0LnBob25lX251bWJlcnNbMV0uaXNfc2hvcnRfY29kZV9lbmFibGVkLCBUcnVlKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,26 +278,16 @@
       </register>
     </registers>
     <search>
-      <last-search>.Name</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>.Name</last-pattern>
+      <last-pattern>print</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>address</entry>
-        <entry>view</entry>
-        <entry>def view</entry>
-        <entry>destination</entry>
-        <entry>call_</entry>
-        <entry>call_.*_number</entry>
-        <entry>call_this_number</entry>
-        <entry>send_method</entry>
-        <entry>phone</entry>
-        <entry>chain</entry>
-        <entry>shortco</entry>
-        <entry>is_commun</entry>
         <entry>employee.name</entry>
         <entry>prefer</entry>
         <entry>PHONE_TYPE</entry>
@@ -289,6 +296,18 @@
         <entry>schedule</entry>
         <entry>name</entry>
         <entry>.Name</entry>
+        <entry>ON xref_tg_user_service.user_id = tg_user.id</entry>
+        <entry>xref_tg_user_service.</entry>
+        <entry>xref_tg_user_service</entry>
+        <entry>user_id</entry>
+        <entry>xref_tg_user</entry>
+        <entry>xref_tg_user_service.user_id</entry>
+        <entry>preferred_</entry>
+        <entry>em</entry>
+        <entry>preferences</entry>
+        <entry>home</entry>
+        <entry>_get_preferred_calling_method</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -300,7 +319,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -312,7 +331,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -320,6 +339,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
