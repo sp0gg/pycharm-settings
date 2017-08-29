@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1503946610128">
+      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1503969774651">
         <mark key="'" line="93" column="68" />
-        <mark key="[" line="194" column="49" />
-        <mark key="]" line="194" column="135" />
-        <mark key="." line="194" column="135" />
-        <mark key="^" line="194" column="135" />
+        <mark key="[" line="191" column="40" />
+        <mark key="]" line="191" column="40" />
+        <mark key="." line="191" column="40" />
+        <mark key="^" line="191" column="40" />
       </file>
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
@@ -37,12 +37,12 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503950149502">
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1503969602200">
         <mark key="'" line="185" column="57" />
-        <mark key="[" line="185" column="36" />
-        <mark key="]" line="185" column="57" />
+        <mark key="[" line="185" column="58" />
+        <mark key="]" line="185" column="59" />
         <mark key="^" line="185" column="57" />
-        <mark key="." line="185" column="57" />
+        <mark key="." line="185" column="59" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
@@ -345,6 +345,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
