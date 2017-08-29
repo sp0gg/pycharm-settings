@@ -37,12 +37,12 @@
         <mark key="." line="211" column="17" />
         <mark key="^" line="211" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504011321311">
+      <file name="$USER_HOME$/projects/profile-service/loader/loader_app.py" timestamp="1504013058410">
         <mark key="'" line="137" column="9" />
-        <mark key="[" line="156" column="8" />
-        <mark key="]" line="156" column="8" />
-        <mark key="^" line="156" column="8" />
-        <mark key="." line="156" column="8" />
+        <mark key="[" line="187" column="26" />
+        <mark key="]" line="187" column="26" />
+        <mark key="^" line="139" column="17" />
+        <mark key="." line="187" column="26" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
@@ -236,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IGlzIE5vbmU=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IGlzIE5vbmU=</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
