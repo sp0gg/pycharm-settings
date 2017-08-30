@@ -57,11 +57,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504105067029">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504111487949">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="66" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="46" column="66" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
@@ -69,12 +70,12 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504102970833">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="55" />
-        <mark key="." line="69" column="55" />
-        <mark key="^" line="69" column="55" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504111436932">
+        <mark key="'" line="128" column="8" />
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="28" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="78" column="28" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -165,56 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="147" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="140" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="169" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="312" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="308" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="298" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="293" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="288" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
@@ -256,65 +207,114 @@
       <jump line="522" column="105" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="38" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="45" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="30" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="88" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="93" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="29" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="45" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="31" column="107" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="44" column="57" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="48" column="18" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="98" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="160" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="8" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="143" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="67" column="48" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="47" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="118" column="3" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="120" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="63" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="72" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mobile</text>
+        <text>[0]</text>
       </register>
       <register name="-" type="4">
-        <text>mobile</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
-        <text>mobile_number</text>
+        <text>_make_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2JpbGVfbnVtYmVyID0gbW9iaWxlX3Bob25lWzBdLnBob25lX251bWJlciBpZiBtb2JpbGVfcGhvbmUgZWxzZSBOb25lCg==</text>
+      <register name="0" type="4">
+        <text>_map_call_this_number</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgdXNlciA9IFVzZXIoCiAgICAgICAgICAgIGlkPW9yZ19hc3NpZ25tZW50LnNjaGVkdWxlX3VzZXJfaWQsCiAgICAgICAgICAgIGZpcnN0X25hbWU9cHJvZmlsZV9vYmplY3QuZmlyc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lPXByb2ZpbGVfb2JqZWN0Lmxhc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lX2ZpcnN0X25hbWU9c2VsZi5nZXRfbGFzdF9uYW1lX2ZpcnN0X25hbWUoCiAgICAgICAgICAgICAgICBwcm9maWxlX29iamVjdC5maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QubGFzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QudXNlcl9uYW1lCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGRhdGVfb2ZfYmlydGg9c2VsZi5fZ2V0X2RhdGVfZnJvbV9pbnQocHJvZmlsZV9vYmplY3QuZGF0ZV9vZl9iaXJ0aCksCiAgICAgICAgICAgIHRpdGxlPWVtcGxveW1lbnQuam9iX3RpdGxlLAogICAgICAgICAgICBwcmV0dHlfbW9iaWxlbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihtb2JpbGVfbnVtYmVyIGlmIG1vYmlsZV9udW1iZXIgZWxzZSAnJyksCiAgICAgICAgICAgIHByZXR0eV9ob21lbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihob21lX251bWJlcg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2JpbGVfbnVtYmVyID0gbW9iaWxlX3Bob25lWzBdLnBob25lX251bWJlciBpZiBtb2JpbGVfcGhvbmUgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2Vfc2hvcnRfY29kZSA9IG1vYmlsZV9udW1iZXIuaXNfc2hvcnRfY29kZV9lbmFibGVkIGlmIG1vYmlsZV9udW1iZXIgZWxzZSBGYWxzZQo=</text>
+        <text encoding="base64">CiAgICBkZWYgX21hcF9jYWxsX3RoaXNfbnVtYmVyKHNlbGYsIGNhbGxfZGVzdGluYXRpb24pOgogICAgICAgIGlmIGNhbGxfZGVzdGluYXRpb24gPT0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdC5QaG9uZU51bWJlci5QaG9uZVR5cGUuVmFsdWUoJ0hPTUUnKToKICAgICAgICAgICAgcmV0dXJuICdob21lJwogICAgICAgIGVsaWYgY2FsbF9kZXN0aW5hdGlvbiA9PSBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnQ0VMTCcpOgogICAgICAgICAgICByZXR1cm4gJ21vYmlsZScKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>phone.phone_number for phone in profile_object.phone_numbers
-                         if phone.phone_type == profile_pb2.ProfileObject.PhoneNumber.PhoneType.Value('CELL')</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgcHJvZmlsZS5waG9uZV9udW1iZXJzWzBdCg==</text>
+        <text encoding="base64">CiAgICBkZWYgX21hcF9jYWxsX3RoaXNfbnVtYmVyKHNlbGYsIGNhbGxfZGVzdGluYXRpb24pOgogICAgICAgIGlmIGNhbGxfZGVzdGluYXRpb24gPT0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdC5QaG9uZU51bWJlci5QaG9uZVR5cGUuVmFsdWUoJ0hPTUUnKToKICAgICAgICAgICAgcmV0dXJuICdob21lJwogICAgICAgIGVsaWYgY2FsbF9kZXN0aW5hdGlvbiA9PSBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnQ0VMTCcpOgogICAgICAgICAgICByZXR1cm4gJ21vYmlsZScKICAgICAgICByZXR1cm4gTm9uZQogICAgCiAgICBkZWYgX21hcF9hZGRpdGlvbmFsX2F0dHJpYnV0ZXMoc2VsZiwgc291cmNlX29iamVjdCwgdGFyZ2V0X29iamVjdCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgX21hcF9tb2RlbF9maWVsZHNfdG9fdXNlcihzZWxmLCB1c2VyX21vZGVsLCB1c2VyKToKICAgICAgICBmb3IgYXR0ciwgdmFsdWUgaW4gdXNlcl9tb2RlbC5fX2RpY3RfXy5pdGVyaXRlbXMoKToKICAgICAgICAgICAgYXR0cl9uYW1lID0gc2VsZi5fbWFwX3NxbF9hdHRyX3RvX25vcm1hbF9hdHRyKGF0dHIpCiAgICAgICAgICAgIHNlbGYuX21hcF9hdHRyX2lmX21pc3NpbmcoYXR0cl9uYW1lLCB1c2VyLCB2YWx1ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBfbWFwX2NhbGxfdGhpc19udW1iZXIoY2FsbF9kZXN0aW5hdGlvbik6CiAgICBpZiBjYWxsX2Rlc3RpbmF0aW9uID09IHByb2ZpbGVfcGIyLlByb2ZpbGVPYmplY3QuUGhvbmVOdW1iZXIuUGhvbmVUeXBlLlZhbHVlKCdIT01FJyk6CiAgICAgICAgcmV0dXJuICdob21lJwogICAgZWxpZiBjYWxsX2Rlc3RpbmF0aW9uID09IHByb2ZpbGVfcGIyLlByb2ZpbGVPYmplY3QuUGhvbmVOdW1iZXIuUGhvbmVUeXBlLlZhbHVlKCdDRUxMJyk6CiAgICAgICAgcmV0dXJuICdtb2JpbGUnCiAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q/</text>
       </register>
     </registers>
     <search>
-      <last-search>mobile_number</last-search>
+      <last-search>_make_</last-search>
       <last-offset />
-      <last-pattern>mobile_number</last-pattern>
+      <last-pattern>_make_</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
@@ -322,10 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
-        <entry>if employee.profile_id</entry>
-        <entry>user_id</entry>
-        <entry>shortc</entry>
         <entry>communic</entry>
         <entry>print</entry>
         <entry>ipd</entry>
@@ -340,8 +336,12 @@
         <entry>mobile</entry>
         <entry>'mobile</entry>
         <entry>phone_call_des</entry>
-        <entry>User</entry>
         <entry>mobile_number</entry>
+        <entry>User</entry>
+        <entry>_map_call_this_number</entry>
+        <entry>_map_call</entry>
+        <entry>cell_phone</entry>
+        <entry>_make_</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -383,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
