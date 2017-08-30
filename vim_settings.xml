@@ -57,44 +57,22 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504095402931" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504095659087">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="29" column="8" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504093531232">
         <mark key="'" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/profile.py" timestamp="1503871103319">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="42" />
-      </file>
       <file name="/dummy.sql" timestamp="1504013996538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504007484917">
+      <file name="/Dummy.txt" timestamp="1504095628433">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/employment.py" timestamp="1503871030810">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504093450084">
         <mark key="'" line="788" column="10" />
@@ -133,26 +111,8 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/phone.py" timestamp="1503871047713">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1503928741618">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="341" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="335" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="319" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="310" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="309" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="305" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="278" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="251" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
@@ -247,13 +207,19 @@
       <jump line="219" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="210" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="193" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="17" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="13" column="37" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="5" column="5" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="105" column="36" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="1" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiBlbXBsb3llZS5pZDoKICAgICAgICAgICAgICAgICMgaW1wb3J0IGlwZGI7CiAgICAgICAgICAgICAgICAjIGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>assert</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>assert</text>
       </register>
       <register name="/" type="4">
         <text>profile</text>
