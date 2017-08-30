@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504113550610">
-        <mark key="'" line="81" column="21" />
-        <mark key="[" line="71" column="88" />
-        <mark key="]" line="71" column="92" />
-        <mark key="." line="71" column="92" />
-        <mark key="^" line="71" column="92" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504115119813">
+        <mark key="'" line="109" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="68" column="92" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
@@ -70,12 +70,11 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504113575589">
-        <mark key="'" line="53" column="28" />
-        <mark key="[" line="38" column="88" />
-        <mark key="]" line="38" column="88" />
-        <mark key="^" line="38" column="88" />
-        <mark key="." line="38" column="88" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504113628430">
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -165,51 +164,20 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="219" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="193" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="17" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="13" column="37" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="5" column="5" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="105" column="36" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="1" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="29" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="32" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="98" column="15" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="496" column="102" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="141" column="115" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="517" column="96" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="552" column="252" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="703" column="255" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="229" column="113" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="36" column="92" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="107" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="15" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="495" column="98" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="521" column="89" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="524" column="114" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="533" column="340" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="561" column="199" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="477" column="228" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="485" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="522" column="105" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="38" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="45" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="88" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="45" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="31" column="107" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="44" column="57" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="48" column="18" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="98" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="160" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="8" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="143" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="114" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
@@ -230,25 +198,18 @@
       <jump line="69" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="112" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="117" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="113" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="47" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="118" column="3" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="120" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="106" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="100" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="97" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="80" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="75" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="56" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
@@ -265,64 +226,100 @@
       <jump line="81" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="53" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="45" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="152" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="139" column="68" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="124" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="111" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW9uX21ldGhvZCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">ICd1c2Vfc2hvcnRjb2RlJyw=</text>
       </register>
       <register name="/" type="4">
-        <text>shortco</text>
+        <text>class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAxICAgU01TCiMgMiAgIGVtYWlsCiMgMyAgIElWUgojIDggICBQdXNoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW9uX21ldGhvZCA9IAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgMSAgIFNNUwogICAgIyAyICAgZW1haWwKICAgICMgMyAgIElWUgogICAgIyA4ICAgUHVzaAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE5vbmUsIHVzZXIuY2FsbF90aGlzX251bWJlcikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgKgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fbWFwc19jYWxsX2Rlc3RpbmF0aW9uX25vbmUoc2VsZik6CiAgICAgICAgcHJvZmlsZV9pbmZvID0gc2VsZi5fbWFrZV9wcm9maWxlKCkKICAgICAgICBwcm9maWxlID0gcHJvZmlsZV9pbmZvLnByb2ZpbGUKICAgICAgICBwcm9maWxlLnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24gPSBOb25lCgogICAgICAgIHVzZXIgPSBzZWxmLl9zZXJ2aWNlX21hcHBlci50cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3QocHJvZmlsZV9pbmZvKQo=</text>
+        <text encoding="base64">IAojIDEgICBTTVMKIyAyICAgZW1haWwKIyAzICAgSVZSCiMgOCAgIFB1c2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBjYWxsX3RoaXNfbnVtYmVyLCBwaG9uZV9jYWxsX2Rlc3RpbmF0aW9uCiAgICAgICAgIyBwcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwgcHJlZmVyZW5jZXMuY29tbXVuaWNhdGlvbl9tZXRob2QK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfdHJhbnNmb3JtX21hcHNfY2FsbF9kZXN0aW5hdGlvbl9ub25lKHNlbGYpOgogICAgICAgIHByb2ZpbGVfaW5mbyA9IHNlbGYuX21ha2VfcHJvZmlsZSgpCiAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGVfaW5mby5wcm9maWxlCiAgICAgICAgcHJvZmlsZS5wcmVmZXJlbmNlcy5jYWxsX2Rlc3RpbmF0aW9uID0gTm9uZSAKCiAgICAgICAgdXNlciA9IHNlbGYuX3NlcnZpY2VfbWFwcGVyLnRyYW5zZm9ybV9wcm9maWxlX3RvX3VzZXJsaWtlX29iamVjdChwcm9maWxlX2luZm8pCiAgICAgICAgCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChOb25lLCB1c2VyLmNhbGxfdGhpc19udW1iZXIpCiAgICAgICAgCiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3RfcGVyX2RpZW1faHIoc2VsZik6CiAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGVfcGIyLlByb2ZpbGVJbmZvcm1hdGlvbigKICAgICAgICAgICAgb3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQ9ewogICAgICAgICAgICAgICAgJ3NjaGVkdWxlX3VzZXJfaWQnOiA5OCwKICAgICAgICAgICAgICAgICdzY2hlZHVsZV9yb2xlJzogb3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfcGIyLk9yZ2FuaXphdGlvbkFzc2lnbm1lbnRPYmplY3QuU2NoZWR1bGVSb2xlLlZhbHVlKCdIUicpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGVtcGxveW1lbnQ9ewogICAgICAgICAgICAgICAgJ2VtcGxveW1lbnRfY2F0ZWdvcnknOiBlbXBsb3ltZW50X3BiMi5FbXBsb3ltZW50T2JqZWN0LkVtcGxveW1lbnRDYXRlZ29yeS5WYWx1ZSgnUEVSX0RJRU0nKQogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHVzZXIgPSBzZWxmLl9zZXJ2aWNlX21hcHBlci50cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3QocHJvZmlsZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhFbXBsb3ltZW50VHlwZUVudW0ucGVyX2RpZW0udmFsdWUuaWQsIHVzZXIuZW1wbG95bWVudF90eXBlSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ0hSJywgdXNlci5yb2xlKQoKICAgIGRlZiB0ZXN0X2dldF9sYXN0X25hbWVfZmlyc3RfbmFtZShzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFscygnbGFzdCwgZmlyc3QnLCBzZWxmLl9zZXJ2aWNlX21hcHBlci5nZXRfbGFzdF9uYW1lX2ZpcnN0X25hbWUoJ2ZpcnN0JywgJ2xhc3QnLCBOb25lKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">bgogICAgICAgICMgcHJlZmVycmVkX3NlbmRfbWV0aG9kSUQsIHByZWZlcmVuY2VzLmNvbW11bmljYXRpb25fbWV0aG9kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZV9pbmZvLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50LnNjaGVkdWxlX3VzZXJfaWQsIHVzZXIuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ3t9LCB7fScuZm9ybWF0KHByb2ZpbGUubGFzdF9uYW1lLCBwcm9maWxlLmZpcnN0X25hbWUpLCB1c2VyLmxhc3RfbmFtZV9maXJzdF9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByb2ZpbGUuZmlyc3RfbmFtZSwgdXNlci5maXJzdF9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByb2ZpbGUubGFzdF9uYW1lLCB1c2VyLmxhc3RfbmFtZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlLnVzZXJfbmFtZSwgdXNlci51c2VyX25hbWUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZS5lbWFpbF9hZGRyZXNzLCB1c2VyLmVtYWlsX2FkZHJlc3MpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJpbWFyeV9hZGRyZXNzLmFkZHJlc3NfbGluZV8xLCB1c2VyLmFkZHJlc3Nfc3RyZWV0KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5hZGRyZXNzX2xpbmVfMiwgdXNlci5hZGRyZXNzX2FwdF9udW0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJpbWFyeV9hZGRyZXNzLmNpdHksIHVzZXIuYWRkcmVzc19jaXR5KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5zdGF0ZSwgdXNlci5hZGRyZXNzX3N0YXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5wb3N0YWxfY29kZSwgdXNlci5hZGRyZXNzX3ppcCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscygnKHt9KSB7fS17fScuZm9ybWF0KGNlbGxfcGhvbmVbMDozXSwgY2VsbF9waG9uZVszOjZdLCBjZWxsX3Bob25lWzY6MTBdKSwgdXNlci5wcmV0dHlfbW9iaWxlbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKCcoe30pIHt9LXt9Jy5mb3JtYXQoaG9tZV9waG9uZVswOjNdLCBob21lX3Bob25lWzM6Nl0sIGhvbWVfcGhvbmVbNjoxMF0pLCB1c2VyLnByZXR0eV9ob21lbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKCdob21lJywgdXNlci5jYWxsX3RoaXNfbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKDEsIHVzZXIucHJlZmVycmVkX3NlbmRfbWV0aG9kSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZS5waG9uZV9udW1iZXJzWzBdLmlzX3Nob3J0X2NvZGVfZW5hYmxlZCwgdXNlci51c2Vfc2hvcnRfY29kZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkYXRlKDIwMTUsIDAyLCAxMCksIHVzZXIuZGF0ZV9vZl9iaXJ0aCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX2luZm8uZW1wbG95bWVudC5qb2JfdGl0bGUsIHVzZXIudGl0bGUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoZGF0ZSgyMDE1LCAwMiwgMTApLCB1c2VyLmhpcmVfZGF0ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX2luZm8uZW1wbG95bWVudC5wdW5jaF9zeXN0ZW1faWQsIHVzZXIucHVuY2hfc3lzdGVtX2lkKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKEVtcGxveW1lbnRUeXBlRW51bS5wYXJ0X3RpbWUudmFsdWUuaWQsIHVzZXIuZW1wbG95bWVudF90eXBlSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ1NoaWZ0IFN1cGVydmlzb3InLCB1c2VyLnJvbGUpCiAgICAgICAgIyBjYWxsX3RoaXNfbnVtYmVyLCBwaG9uZV9jYWxsX2Rlc3RpbmF0aW8K</text>
       </register>
       <register name=":" type="4">
         <text>q/</text>
       </register>
     </registers>
     <search>
-      <last-search>shortco</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>shortco</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pa</entry>
-        <entry>profile_pb</entry>
         <entry>destin</entry>
         <entry>preferred</entry>
         <entry>is_communication</entry>
@@ -341,6 +338,8 @@
         <entry>destination_none</entry>
         <entry>#</entry>
         <entry>shortco</entry>
+        <entry>is_comm</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
