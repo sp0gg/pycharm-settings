@@ -37,6 +37,13 @@
         <mark key="^" line="11" column="261" />
         <mark key="." line="11" column="261" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504121095958">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="25" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
       </file>
@@ -104,7 +111,7 @@
       <file name="/dummy.sql" timestamp="1504101284819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504118284042">
+      <file name="/Dummy.txt" timestamp="1504120007682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -164,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="522" column="105" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="38" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="88" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="45" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -264,63 +269,64 @@
       <jump line="24" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="25" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="36" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByZWZlcnJlZF8=</text>
+        <text>ivr</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByZWZlcnJlZF8=</text>
+        <text>ivr</text>
       </register>
       <register name="/" type="4">
-        <text>\w</text>
+        <text>home</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAxICAgU01TCiMgMiAgIGVtYWlsCiMgMyAgIElWUgojIDggICBQdXNoCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhZGlvX2J1dHRvbihuYW1lPSdlbXBfY2FsbF9tb2JpbGVfbnVtYmVyJywgaWRlbnRpZmllcj17J2lkJzogJ2VtcF9jYWxsX21vYmlsZV9udW1iZXInfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhZGlvX2J1dHRvbihuYW1lPSdlbXBfY2FsbF9tb2JpbGVfbnVtYmVyJywgaWRlbnRpZmllcj17J2lkJzogJ2VtcF9jYWxsX2hvbWVfbnVtYmVyJ30pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJhZGlvX2J1dHRvbnMobmFtZT0ndGVhbScsIGlkZW50aWZpZXI9eydjc3MnOiAnW25hbWU9InRlYW0iXSd9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRleHRfZmllbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAojIDEgICBTTVMKIyAyICAgZW1haWwKIyAzICAgSVZSCiMgOCAgIFB1c2gK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjYWxsX3RoaXNfbnVtYmVyLCBwaG9uZV9jYWxsX2Rlc3RpbmF0aW9uCiAgICAgICAgIyBwcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwgcHJlZmVyZW5jZXMuY29tbXVuaWNhdGlvbl9tZXRob2QK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bgogICAgICAgICMgcHJlZmVycmVkX3NlbmRfbWV0aG9kSUQsIHByZWZlcmVuY2VzLmNvbW11bmljYXRpb25fbWV0aG9kCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZV9pbmZvLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50LnNjaGVkdWxlX3VzZXJfaWQsIHVzZXIuaWQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ3t9LCB7fScuZm9ybWF0KHByb2ZpbGUubGFzdF9uYW1lLCBwcm9maWxlLmZpcnN0X25hbWUpLCB1c2VyLmxhc3RfbmFtZV9maXJzdF9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByb2ZpbGUuZmlyc3RfbmFtZSwgdXNlci5maXJzdF9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByb2ZpbGUubGFzdF9uYW1lLCB1c2VyLmxhc3RfbmFtZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlLnVzZXJfbmFtZSwgdXNlci51c2VyX25hbWUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZS5lbWFpbF9hZGRyZXNzLCB1c2VyLmVtYWlsX2FkZHJlc3MpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJpbWFyeV9hZGRyZXNzLmFkZHJlc3NfbGluZV8xLCB1c2VyLmFkZHJlc3Nfc3RyZWV0KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5hZGRyZXNzX2xpbmVfMiwgdXNlci5hZGRyZXNzX2FwdF9udW0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJpbWFyeV9hZGRyZXNzLmNpdHksIHVzZXIuYWRkcmVzc19jaXR5KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5zdGF0ZSwgdXNlci5hZGRyZXNzX3N0YXRlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKHByaW1hcnlfYWRkcmVzcy5wb3N0YWxfY29kZSwgdXNlci5hZGRyZXNzX3ppcCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscygnKHt9KSB7fS17fScuZm9ybWF0KGNlbGxfcGhvbmVbMDozXSwgY2VsbF9waG9uZVszOjZdLCBjZWxsX3Bob25lWzY6MTBdKSwgdXNlci5wcmV0dHlfbW9iaWxlbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKCcoe30pIHt9LXt9Jy5mb3JtYXQoaG9tZV9waG9uZVswOjNdLCBob21lX3Bob25lWzM6Nl0sIGhvbWVfcGhvbmVbNjoxMF0pLCB1c2VyLnByZXR0eV9ob21lbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKCdob21lJywgdXNlci5jYWxsX3RoaXNfbnVtYmVyKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKDEsIHVzZXIucHJlZmVycmVkX3NlbmRfbWV0aG9kSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMocHJvZmlsZS5waG9uZV9udW1iZXJzWzBdLmlzX3Nob3J0X2NvZGVfZW5hYmxlZCwgdXNlci51c2Vfc2hvcnRfY29kZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhkYXRlKDIwMTUsIDAyLCAxMCksIHVzZXIuZGF0ZV9vZl9iaXJ0aCkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX2luZm8uZW1wbG95bWVudC5qb2JfdGl0bGUsIHVzZXIudGl0bGUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoZGF0ZSgyMDE1LCAwMiwgMTApLCB1c2VyLmhpcmVfZGF0ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhwcm9maWxlX2luZm8uZW1wbG95bWVudC5wdW5jaF9zeXN0ZW1faWQsIHVzZXIucHVuY2hfc3lzdGVtX2lkKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWxzKEVtcGxveW1lbnRUeXBlRW51bS5wYXJ0X3RpbWUudmFsdWUuaWQsIHVzZXIuZW1wbG95bWVudF90eXBlSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ1NoaWZ0IFN1cGVydmlzb3InLCB1c2VyLnJvbGUpCiAgICAgICAgIyBjYWxsX3RoaXNfbnVtYmVyLCBwaG9uZV9jYWxsX2Rlc3RpbmF0aW8K</text>
+        <text encoding="base64">IAojIDEgICBTTVMKIyAyICAgZW1haWwKIyAzICAgSVZSCiMgOCAgIFB1c2gK</text>
       </register>
       <register name=":" type="4">
-        <text>q/</text>
+        <text>s/home/mobile</text>
       </register>
     </registers>
     <search>
-      <last-search>\w</last-search>
+      <last-search>home</last-search>
       <last-offset />
-      <last-pattern>\w</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>em</last-substitute>
+      <last-pattern>home</last-pattern>
+      <last-replace>mobile</last-replace>
+      <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>is_communication</entry>
         <entry>short</entry>
         <entry>_make</entry>
         <entry>mobile</entry>
@@ -340,10 +346,12 @@
         <entry>class</entry>
         <entry>\W</entry>
         <entry>\w</entry>
+        <entry>home</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>q/</entry>
+        <entry>s/home/mobile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
