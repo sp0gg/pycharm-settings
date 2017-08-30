@@ -13,10 +13,6 @@
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" timestamp="1503939569451">
-        <mark key="'" line="10" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1503940634312">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +25,13 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504117008612">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="22" column="167" />
+        <mark key="]" line="22" column="166" />
+        <mark key="^" line="22" column="166" />
+        <mark key="." line="22" column="166" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
@@ -136,6 +139,7 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="91" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1504116669544" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="1" column="7" />
@@ -164,9 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="533" column="340" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="561" column="199" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="477" column="228" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="485" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="522" column="105" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="38" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
@@ -264,6 +265,9 @@
       <jump line="91" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="111" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="24" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="22" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="25" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -273,7 +277,7 @@
         <text encoding="base64">ICd1c2Vfc2hvcnRjb2RlJyw=</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>\w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAxICAgU01TCiMgMiAgIGVtYWlsCiMgMyAgIElWUgojIDggICBQdXNoCg==</text>
@@ -310,18 +314,16 @@
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>\w</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>\w</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>destin</entry>
-        <entry>preferred</entry>
         <entry>is_communication</entry>
         <entry>short</entry>
         <entry>_make</entry>
@@ -340,6 +342,8 @@
         <entry>shortco</entry>
         <entry>is_comm</entry>
         <entry>class</entry>
+        <entry>\W</entry>
+        <entry>\w</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
