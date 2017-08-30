@@ -57,11 +57,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504097793663">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504103851837">
+        <mark key="'" line="44" column="57" />
+        <mark key="[" line="46" column="66" />
+        <mark key="]" line="46" column="68" />
+        <mark key="^" line="46" column="68" />
+        <mark key="." line="46" column="68" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
         <mark key="'" line="10" column="32" />
@@ -69,12 +70,12 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504101378264">
-        <mark key="'" line="15" column="28" />
-        <mark key="[" line="69" column="25" />
-        <mark key="]" line="69" column="31" />
-        <mark key="." line="69" column="31" />
-        <mark key="^" line="69" column="31" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504102970833">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="55" />
+        <mark key="." line="69" column="55" />
+        <mark key="^" line="69" column="55" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -165,17 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-internal.txt" />
-      <jump line="218" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="214" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="202" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="181" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="174" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="166" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="164" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="147" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
@@ -265,28 +255,40 @@
       <jump line="477" column="228" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="485" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="522" column="105" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="38" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="88" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="93" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="45" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="31" column="107" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="44" column="57" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>'mobile</text>
+        <text>mobile_number</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyID0gc2VsZi5fc2VydmljZV9tYXBwZXIudHJhbnNmb3JtX3Byb2ZpbGVfdG9fdXNlcmxpa2Vfb2JqZWN0KHByb2ZpbGVfaW5mbykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgcHJvZmlsZS5waG9uZV9udW1iZXJzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2Vfc2hvcnRfY29kZSA9IG1vYmlsZV9udW1iZXIuaXNfc2hvcnRfY29kZV9lbmFibGVkIGlmIG1vYmlsZV9udW1iZXIgZWxzZSBGYWxzZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+      <register name="2" type="4">
+        <text>phone.phone_number for phone in profile_object.phone_numbers
+                         if phone.phone_type == profile_pb2.ProfileObject.PhoneNumber.PhoneType.Value('CELL')</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgcHJvZmlsZS5waG9uZV9udW1iZXJzWzBdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
@@ -294,26 +296,26 @@
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fbWFwc19zaG9ydGNvZGVfc2V0dGluZ19mcm9tX2NlbGxfcGhvbmUoc2VsZik6CiAgICAgICAgcHJvZmlsZV9pbmZvID0gc2VsZi5fbWFrZV9wcm9maWxlKCkKICAgICAgICBwcm9maWxlID0gcHJvZmlsZV9pbmZvLnByb2ZpbGUKICAgICAgICBjZWxsX3Bob25lID0gcHJvZmlsZS5waG9uZV9udW1iZXJzWzBdLnBob25lX251bWJlcgoKICAgICAgICB1c2VyID0gc2VsZi5fc2VydmljZV9tYXBwZXIudHJhbnNmb3JtX3Byb2ZpbGVfdG9fdXNlcmxpa2Vfb2JqZWN0KHByb2ZpbGVfaW5mbykKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHVzZV9zaG9ydGNvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBob21lX3Bob25lID0gcHJvZmlsZS5waG9uZGRlX251bWJlcnNbMV0ucGhvbmVfbnVtYmVyCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fbWFwc19zaG9ydGNvZGVfc2V0dGluZ19mcm9tX2NlbGxfcGhvbmUoc2VsZik6CiAgICAgICAgcHJvZmlsZV9pbmZvID0gc2VsZi5fbWFrZV9wcm9maWxlKCkKICAgICAgICBwcm9maWxlID0gcHJvZmlsZV9pbmZvLnByb2ZpbGUKICAgICAgICBjZWxsX3Bob25lID0gcHJvZmlsZS5waG9uZV9udW1iZXJzWzBdLnBob25lX251bWJlcgoKICAgICAgICB1c2VyID0gc2VsZi5fc2VydmljZV9tYXBwZXIudHJhbnNmb3JtX3Byb2ZpbGVfdG9fdXNlcmxpa2Vfb2JqZWN0KHByb2ZpbGVfaW5mbykKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHVzZV9zaG9ydGNvZGUK</text>
       </register>
       <register name=":" type="4">
         <text>q/</text>
       </register>
     </registers>
     <search>
-      <last-search>'mobile</last-search>
+      <last-search>mobile_number</last-search>
       <last-offset />
-      <last-pattern>'mobile</last-pattern>
+      <last-pattern>mobile_number</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
@@ -321,9 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>preferences</entry>
-        <entry>home</entry>
-        <entry>_get_preferred_calling_method</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry>if employee.profile_id</entry>
         <entry>user_id</entry>
@@ -341,6 +340,9 @@
         <entry>_make</entry>
         <entry>mobile</entry>
         <entry>'mobile</entry>
+        <entry>phone_call_des</entry>
+        <entry>User</entry>
+        <entry>mobile_number</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
