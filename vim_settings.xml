@@ -70,12 +70,11 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504111436932">
-        <mark key="'" line="128" column="8" />
-        <mark key="[" line="78" column="25" />
-        <mark key="]" line="78" column="28" />
-        <mark key="^" line="78" column="28" />
-        <mark key="." line="78" column="28" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504111983666">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -137,7 +136,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/loader/README.md" timestamp="1503948023946" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="1" column="7" />
@@ -166,10 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="293" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="288" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="285" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="283" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="264" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="262" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
@@ -186,7 +180,6 @@
       <jump line="1" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="29" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="32" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="80" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="98" column="15" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="496" column="102" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="141" column="115" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
@@ -262,59 +255,64 @@
       <jump line="56" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="63" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="72" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="128" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="80" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE5vbmUsIHVzZXIuY2FsbF90aGlzX251bWJlcikK</text>
       </register>
       <register name="-" type="4">
         <text>[0]</text>
       </register>
       <register name="/" type="4">
-        <text>_make_</text>
+        <text>destination_none</text>
       </register>
       <register name="0" type="4">
         <text>_map_call_this_number</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgdXNlciA9IFVzZXIoCiAgICAgICAgICAgIGlkPW9yZ19hc3NpZ25tZW50LnNjaGVkdWxlX3VzZXJfaWQsCiAgICAgICAgICAgIGZpcnN0X25hbWU9cHJvZmlsZV9vYmplY3QuZmlyc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lPXByb2ZpbGVfb2JqZWN0Lmxhc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lX2ZpcnN0X25hbWU9c2VsZi5nZXRfbGFzdF9uYW1lX2ZpcnN0X25hbWUoCiAgICAgICAgICAgICAgICBwcm9maWxlX29iamVjdC5maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QubGFzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QudXNlcl9uYW1lCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGRhdGVfb2ZfYmlydGg9c2VsZi5fZ2V0X2RhdGVfZnJvbV9pbnQocHJvZmlsZV9vYmplY3QuZGF0ZV9vZl9iaXJ0aCksCiAgICAgICAgICAgIHRpdGxlPWVtcGxveW1lbnQuam9iX3RpdGxlLAogICAgICAgICAgICBwcmV0dHlfbW9iaWxlbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihtb2JpbGVfbnVtYmVyIGlmIG1vYmlsZV9udW1iZXIgZWxzZSAnJyksCiAgICAgICAgICAgIHByZXR0eV9ob21lbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihob21lX251bWJlcg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE5vbmUsIHVzZXIuY2FsbF90aGlzX251bWJlcikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgX21hcF9jYWxsX3RoaXNfbnVtYmVyKHNlbGYsIGNhbGxfZGVzdGluYXRpb24pOgogICAgICAgIGlmIGNhbGxfZGVzdGluYXRpb24gPT0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdC5QaG9uZU51bWJlci5QaG9uZVR5cGUuVmFsdWUoJ0hPTUUnKToKICAgICAgICAgICAgcmV0dXJuICdob21lJwogICAgICAgIGVsaWYgY2FsbF9kZXN0aW5hdGlvbiA9PSBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnQ0VMTCcpOgogICAgICAgICAgICByZXR1cm4gJ21vYmlsZScKICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fbWFwc19jYWxsX2Rlc3RpbmF0aW9uX25vbmUoc2VsZik6CiAgICAgICAgcHJvZmlsZV9pbmZvID0gc2VsZi5fbWFrZV9wcm9maWxlKCkKICAgICAgICBwcm9maWxlID0gcHJvZmlsZV9pbmZvLnByb2ZpbGUKICAgICAgICBwcm9maWxlLnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24gPSBOb25lCgogICAgICAgIHVzZXIgPSBzZWxmLl9zZXJ2aWNlX21hcHBlci50cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3QocHJvZmlsZV9pbmZvKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgX21hcF9jYWxsX3RoaXNfbnVtYmVyKHNlbGYsIGNhbGxfZGVzdGluYXRpb24pOgogICAgICAgIGlmIGNhbGxfZGVzdGluYXRpb24gPT0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdC5QaG9uZU51bWJlci5QaG9uZVR5cGUuVmFsdWUoJ0hPTUUnKToKICAgICAgICAgICAgcmV0dXJuICdob21lJwogICAgICAgIGVsaWYgY2FsbF9kZXN0aW5hdGlvbiA9PSBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnQ0VMTCcpOgogICAgICAgICAgICByZXR1cm4gJ21vYmlsZScKICAgICAgICByZXR1cm4gTm9uZQogICAgCiAgICBkZWYgX21hcF9hZGRpdGlvbmFsX2F0dHJpYnV0ZXMoc2VsZiwgc291cmNlX29iamVjdCwgdGFyZ2V0X29iamVjdCk6Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfdHJhbnNmb3JtX21hcHNfY2FsbF9kZXN0aW5hdGlvbl9ub25lKHNlbGYpOgogICAgICAgIHByb2ZpbGVfaW5mbyA9IHNlbGYuX21ha2VfcHJvZmlsZSgpCiAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGVfaW5mby5wcm9maWxlCiAgICAgICAgcHJvZmlsZS5wcmVmZXJlbmNlcy5jYWxsX2Rlc3RpbmF0aW9uID0gTm9uZSAKCiAgICAgICAgdXNlciA9IHNlbGYuX3NlcnZpY2VfbWFwcGVyLnRyYW5zZm9ybV9wcm9maWxlX3RvX3VzZXJsaWtlX29iamVjdChwcm9maWxlX2luZm8pCiAgICAgICAgCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChOb25lLCB1c2VyLmNhbGxfdGhpc19udW1iZXIpCiAgICAgICAgCiAgICBkZWYgdGVzdF90cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3RfcGVyX2RpZW1faHIoc2VsZik6CiAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGVfcGIyLlByb2ZpbGVJbmZvcm1hdGlvbigKICAgICAgICAgICAgb3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQ9ewogICAgICAgICAgICAgICAgJ3NjaGVkdWxlX3VzZXJfaWQnOiA5OCwKICAgICAgICAgICAgICAgICdzY2hlZHVsZV9yb2xlJzogb3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfcGIyLk9yZ2FuaXphdGlvbkFzc2lnbm1lbnRPYmplY3QuU2NoZWR1bGVSb2xlLlZhbHVlKCdIUicpCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGVtcGxveW1lbnQ9ewogICAgICAgICAgICAgICAgJ2VtcGxveW1lbnRfY2F0ZWdvcnknOiBlbXBsb3ltZW50X3BiMi5FbXBsb3ltZW50T2JqZWN0LkVtcGxveW1lbnRDYXRlZ29yeS5WYWx1ZSgnUEVSX0RJRU0nKQogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHVzZXIgPSBzZWxmLl9zZXJ2aWNlX21hcHBlci50cmFuc2Zvcm1fcHJvZmlsZV90b191c2VybGlrZV9vYmplY3QocHJvZmlsZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFscyhFbXBsb3ltZW50VHlwZUVudW0ucGVyX2RpZW0udmFsdWUuaWQsIHVzZXIuZW1wbG95bWVudF90eXBlSUQpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbHMoJ0hSJywgdXNlci5yb2xlKQoKICAgIGRlZiB0ZXN0X2dldF9sYXN0X25hbWVfZmlyc3RfbmFtZShzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFscygnbGFzdCwgZmlyc3QnLCBzZWxmLl9zZXJ2aWNlX21hcHBlci5nZXRfbGFzdF9uYW1lX2ZpcnN0X25hbWUoJ2ZpcnN0JywgJ2xhc3QnLCBOb25lKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgX21hcF9tb2RlbF9maWVsZHNfdG9fdXNlcihzZWxmLCB1c2VyX21vZGVsLCB1c2VyKToKICAgICAgICBmb3IgYXR0ciwgdmFsdWUgaW4gdXNlcl9tb2RlbC5fX2RpY3RfXy5pdGVyaXRlbXMoKToKICAgICAgICAgICAgYXR0cl9uYW1lID0gc2VsZi5fbWFwX3NxbF9hdHRyX3RvX25vcm1hbF9hdHRyKGF0dHIpCiAgICAgICAgICAgIHNlbGYuX21hcF9hdHRyX2lmX21pc3NpbmcoYXR0cl9uYW1lLCB1c2VyLCB2YWx1ZSkK</text>
+        <text encoding="base64">ZGVmIHRlc3RfdHJhbnNmb3JtX21hcHNfY2FsbF9kZXN0aW5hdGlvbl9ub25lKHNlbGYpOgogICAgICAgIHByb2ZpbGVfaW5mbyA9IHNlbGYuX21ha2VfcHJvZmlsZSgpCiAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGVfaW5mby5wcm9maWxlCiAgICAgICAgcHJvZmlsZS5wcmVmZXJlbmNlcy5jYWxsX2Rlc3RpbmF0aW9uID0gTm9uZQoKICAgICAgICB1c2VyID0gc2VsZi5fc2VydmljZV9tYXBwZXIudHJhbnNmb3JtX3Byb2ZpbGVfdG9fdXNlcmxpa2Vfb2JqZWN0KHByb2ZpbGVfaW5mbykKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChOb25lLCB1c2VyLmNhbGxfdGhpc19udW1iZXIpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgdXNlciA9IFVzZXIoCiAgICAgICAgICAgIGlkPW9yZ19hc3NpZ25tZW50LnNjaGVkdWxlX3VzZXJfaWQsCiAgICAgICAgICAgIGZpcnN0X25hbWU9cHJvZmlsZV9vYmplY3QuZmlyc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lPXByb2ZpbGVfb2JqZWN0Lmxhc3RfbmFtZSwKICAgICAgICAgICAgbGFzdF9uYW1lX2ZpcnN0X25hbWU9c2VsZi5nZXRfbGFzdF9uYW1lX2ZpcnN0X25hbWUoCiAgICAgICAgICAgICAgICBwcm9maWxlX29iamVjdC5maXJzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QubGFzdF9uYW1lLAogICAgICAgICAgICAgICAgcHJvZmlsZV9vYmplY3QudXNlcl9uYW1lCiAgICAgICAgICAgICksCiAgICAgICAgICAgIGRhdGVfb2ZfYmlydGg9c2VsZi5fZ2V0X2RhdGVfZnJvbV9pbnQocHJvZmlsZV9vYmplY3QuZGF0ZV9vZl9iaXJ0aCksCiAgICAgICAgICAgIHRpdGxlPWVtcGxveW1lbnQuam9iX3RpdGxlLAogICAgICAgICAgICBwcmV0dHlfbW9iaWxlbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihtb2JpbGVfbnVtYmVyIGlmIG1vYmlsZV9udW1iZXIgZWxzZSAnJyksCiAgICAgICAgICAgIHByZXR0eV9ob21lbnVtYmVyPXNlbGYuX2Zvcm1hdF9waG9uZW51bWJlcihob21lX251bWJlcg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBfbWFwX2NhbGxfdGhpc19udW1iZXIoY2FsbF9kZXN0aW5hdGlvbik6CiAgICBpZiBjYWxsX2Rlc3RpbmF0aW9uID09IHByb2ZpbGVfcGIyLlByb2ZpbGVPYmplY3QuUGhvbmVOdW1iZXIuUGhvbmVUeXBlLlZhbHVlKCdIT01FJyk6CiAgICAgICAgcmV0dXJuICdob21lJwogICAgZWxpZiBjYWxsX2Rlc3RpbmF0aW9uID09IHByb2ZpbGVfcGIyLlByb2ZpbGVPYmplY3QuUGhvbmVOdW1iZXIuUGhvbmVUeXBlLlZhbHVlKCdDRUxMJyk6CiAgICAgICAgcmV0dXJuICdtb2JpbGUnCiAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q/</text>
       </register>
     </registers>
     <search>
-      <last-search>_make_</last-search>
+      <last-search>destination_none</last-search>
       <last-offset />
-      <last-pattern>_make_</last-pattern>
+      <last-pattern>destination_none</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
@@ -322,8 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>communic</entry>
-        <entry>print</entry>
         <entry>ipd</entry>
         <entry>profile</entry>
         <entry>pa</entry>
@@ -342,6 +338,8 @@
         <entry>_map_call</entry>
         <entry>cell_phone</entry>
         <entry>_make_</entry>
+        <entry>def</entry>
+        <entry>destination_none</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
