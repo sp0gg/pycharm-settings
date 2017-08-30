@@ -69,12 +69,12 @@
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504097726274">
-        <mark key="'" line="97" column="15" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="95" column="7" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504100384360">
+        <mark key="'" line="15" column="28" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="125" column="49" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
         <mark key="'" line="0" column="0" />
@@ -94,7 +94,7 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1504013996538">
+      <file name="/dummy.sql" timestamp="1504100395856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1504095628433">
@@ -127,8 +127,10 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504017432363">
-        <mark key="'" line="495" column="115" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504098822275">
+        <mark key="'" line="229" column="113" />
+        <mark key="[" line="552" column="252" />
+        <mark key="]" line="552" column="275" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/Makefile" timestamp="1503943101507">
         <mark key="[" line="39" column="0" />
@@ -163,16 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="204" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="185" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/profile-service/loader/loader_app.py" />
@@ -263,55 +255,65 @@
       <jump line="32" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="80" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="98" column="15" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="496" column="102" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="524" column="169" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="141" column="115" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="517" column="96" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="552" column="252" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="703" column="255" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="229" column="113" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="36" column="92" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="107" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="15" column="28" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>profile_pb</text>
+        <text>_make</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">eHJlZl90Z191c2VyX3NlcnZpY2UKICAgICAgICAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnaXNfc2hvcnRfY29kZV9lbmFibGVkJzogVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZmVyZW5jZXM9ewoKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwaG9uZV9jYWxsX2Rlc3RpbmF0aW9uJzogMCwKICAgICAgICAgICAgICAgICdjb21tdW5pY2F0aW9uX21ldGhvZCc6IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>profile_pb</last-search>
+      <last-search>_make</last-search>
       <last-offset />
-      <last-pattern>profile_pb</last-pattern>
+      <last-pattern>_make</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>em</last-substitute>
       <last-dir>1</last-dir>
@@ -319,10 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xref_tg_user_service.</entry>
-        <entry>xref_tg_user_service</entry>
-        <entry>xref_tg_user</entry>
-        <entry>xref_tg_user_service.user_id</entry>
         <entry>preferred_</entry>
         <entry>em</entry>
         <entry>preferences</entry>
@@ -331,7 +329,6 @@
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry>if employee.profile_id</entry>
         <entry>user_id</entry>
-        <entry>short</entry>
         <entry>shortc</entry>
         <entry>communic</entry>
         <entry>print</entry>
@@ -339,6 +336,11 @@
         <entry>profile</entry>
         <entry>pa</entry>
         <entry>profile_pb</entry>
+        <entry>destin</entry>
+        <entry>preferred</entry>
+        <entry>is_communication</entry>
+        <entry>short</entry>
+        <entry>_make</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
