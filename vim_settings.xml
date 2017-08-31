@@ -39,12 +39,11 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504204328170">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504207431813">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="18" column="223" />
-        <mark key="]" line="18" column="224" />
-        <mark key="^" line="18" column="209" />
-        <mark key="." line="18" column="224" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -154,12 +153,12 @@
         <mark key="^" line="58" column="66" />
         <mark key="." line="58" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504193893119">
-        <mark key="'" line="90" column="14" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="80" column="25" />
-        <mark key="." line="80" column="25" />
-        <mark key="^" line="80" column="25" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504208525850">
+        <mark key="'" line="89" column="14" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="37" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="95" column="21" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -296,44 +295,44 @@
       <jump line="6" column="2" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>mobile_</text>
       </register>
       <register name="/" type="4">
         <text>emp.pref</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhGYWxzZSkpCg==</text>
+        <text encoding="base64">ICAgIHBhZ2Uuc2V0X2VtcF9tb2JpbGVfbnVtYmVyKCcnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAd2lwCg==</text>
+        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiO2lwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">IyAgICBUaGVuIEkgc2VlIHRoZSBmb2xsb3dpbmcgcGVyc29uYWwgaW5mb3JtYXRpb24gb24gdGhlIHN0YWZmIHBhZ2U6CiAgICAgIHwgZmlyc3RrayBuYW1lIHwgbGFzdCBuYW1lIHwgdGl0bGUgfCBzdHJlZXQgICAgICAgICAgfCBhcHQgbnVtIHwgY2l0eSAgICAgIHwgc3RhdGUgICAgICB8IHppcCAgIHwgb3JnYW5pemF0aW9uICAgfCBoaXJlIGRhdGUgIHwgZGF0ZSBvZiBiaXJ0aCB8IHVzZSBzaG9ydGNvZGUgfCBwcmVmZXJyZWQgc2VuZCBtZXRob2QgfCBob21lIG51bWJlciB8IG1vYmlsZSBudW1iZXIgfCBlbWFpbCBhZGRyZXNzICAgICAgICAgfAogICAgICB8IFJvbiAgICAgICAgfCBCdXJndW5keSAgfCBDTkEgICB8IDEgTWFob2dhbnkgTGFuZSB8IDU1ICAgICAgfCBTYW4gRGllZ28gfCBDYWxpZm9ybmlhIHwgMjI0MzQgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgIHwgMDAwMDAwMDAwMCAgICB8IHNfcGFudGhlckBob3RtYWlsLmNvbSB8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IHNoaXR0aWVyIGxvZ2ljIGhlcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IHNoaXR0eSBsb2dpYyBoZXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYucmFkaW9fYnV0dG9ucyhuYW1lPSdlbXBfY2FsbF90aGlzX251bWJlcicsIGlkZW50aWZpZXI9eydjc3MnOiAnW25hbWU9ImVtcF9jYWxsX3RoaXNfbnVtYmVyIl0nfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9tb2JpbGVfbnVtYmVyX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKEZhbHNlKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF90aGlzX251bWJlcl9lbGVtZW50cygpWzBdLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8oVHJ1ZSkpCiAgICAjIGFzc2VydF90aGF0KHBhZ2UuZW1wX2NhbGxfdGhpc19udW1iZXJfZWxlbWVudHMoKVswXS5pc19jaGVja2VkKCksIGVxdWFsX3RvKEZhbHNlKSkK</text>
+        <text encoding="base64">ICBAd2lwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNoZWNrYm94KG5hbWU9J2VtcF9jYWxsX21vYmlsZV9udW1iZXInLCBpZGVudGlmaWVyPXsnaWQnOiAnZW1wX2NhbGxfbW9iaWxlX251bWJlcid9KQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiO2lwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IHNoaXR0aWVyIGxvZ2ljIGhlcmUK</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
