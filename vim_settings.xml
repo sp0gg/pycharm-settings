@@ -39,12 +39,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504194621669">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504204328170">
+        <mark key="'" line="6" column="2" />
+        <mark key="[" line="18" column="223" />
+        <mark key="]" line="18" column="224" />
+        <mark key="^" line="18" column="209" />
+        <mark key="." line="18" column="224" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -194,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="89" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -294,13 +292,15 @@
       <jump line="511" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="532" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="18" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="6" column="2" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAd2lwCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>emp.pref</text>
