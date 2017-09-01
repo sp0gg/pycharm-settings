@@ -38,11 +38,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504207431813">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504269546033">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="56" column="233" />
+        <mark key="]" line="56" column="233" />
+        <mark key="." line="56" column="233" />
+        <mark key="^" line="36" column="235" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -118,7 +119,7 @@
       <file name="/dummy.sql" timestamp="1504101284819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504266682498">
+      <file name="/Dummy.txt" timestamp="1504267814165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -151,12 +152,12 @@
         <mark key="^" line="58" column="66" />
         <mark key="." line="58" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504208525850">
-        <mark key="'" line="89" column="14" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="37" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="21" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504270693748">
+        <mark key="'" line="91" column="14" />
+        <mark key="[" line="87" column="142" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
+        <mark key="^" line="87" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -189,6 +190,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/ecmascript6/myaccount.js" timestamp="1504267978461" />
     </filemarks>
     <jumps>
       <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -294,43 +296,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC5uYW1lKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>mobile_</text>
+        <text>rnumber</text>
       </register>
       <register name="/" type="4">
         <text>emp.pref</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZ2Uuc2V0X2VtcF9tb2JpbGVfbnVtYmVyKCcnKQo=</text>
+        <text encoding="base64">ICAgIGlmIGVtcGxveWVlLmhvbWVudW1iZXI6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC5uYW1lKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBUaGVuIEkgc2VlIHRoZSBmb2xsb3dpbmcgcGVyc29uYWwgaW5mb3JtYXRpb24gb24gdGhlIHN0YWZmIHBhZ2U6CiAgICAgIHwgZmlyc3RrayBuYW1lIHwgbGFzdCBuYW1lIHwgdGl0bGUgfCBzdHJlZXQgICAgICAgICAgfCBhcHQgbnVtIHwgY2l0eSAgICAgIHwgc3RhdGUgICAgICB8IHppcCAgIHwgb3JnYW5pemF0aW9uICAgfCBoaXJlIGRhdGUgIHwgZGF0ZSBvZiBiaXJ0aCB8IHVzZSBzaG9ydGNvZGUgfCBwcmVmZXJyZWQgc2VuZCBtZXRob2QgfCBob21lIG51bWJlciB8IG1vYmlsZSBudW1iZXIgfCBlbWFpbCBhZGRyZXNzICAgICAgICAgfAogICAgICB8IFJvbiAgICAgICAgfCBCdXJndW5keSAgfCBDTkEgICB8IDEgTWFob2dhbnkgTGFuZSB8IDU1ICAgICAgfCBTYW4gRGllZ28gfCBDYWxpZm9ybmlhIHwgMjI0MzQgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgIHwgMDAwMDAwMDAwMCAgICB8IHNfcGFudGhlckBob3RtYWlsLmNvbSB8Cg==</text>
+        <text encoding="base64">ICAgICMgY2xlYXIgcGhvbmUgdmFsdWVzIGJlY2F1c2Ugd3RmCiAgICAjIHBhZ2UuY29tbXVuaWNhdGlvbl90YWJfZWxlbWVudCgpLmNsaWNrKCkKICAgICMgcGFnZS5zZXRfZW1wX21vYmlsZV9udW1iZXIoTm9uZSkKICAgICMgcGFnZS5zZXRfZW1wX2hvbWVfbnVtYmVyKE5vbmUpCiAgICAjIHBhZ2UucGVyc29uYWxfaW5mb190YWJfZWxlbWVudCgpLmNsaWNrKCkKICAgICMgZnJvbSB0aW1lIGltcG9ydCBzbGVlcDsgc2xlZXAoMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaWYgZW1wbG95ZWUuaG9tZW51bWJlcjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaWYgZW1wbG95ZWUubW9iaWxlbnVtYmVyOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAd2lwCg==</text>
+        <text encoding="base64">ICAgIGlmIGNvbnRleHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiO2lwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzogaW1wbGVtZW50IHNoaXR0aWVyIGxvZ2ljIGhlcmUK</text>
+        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
