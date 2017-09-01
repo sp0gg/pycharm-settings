@@ -116,7 +116,7 @@
         <mark key="]" line="24" column="42" />
         <mark key="." line="24" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1504101284819">
+      <file name="/dummy.sql" timestamp="1504280435401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1504280284143">
@@ -148,19 +148,19 @@
         <mark key="^" line="58" column="88" />
         <mark key="." line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504273995278">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504281054413">
         <mark key="'" line="89" column="7" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504280358113">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504281067904">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="37" />
-        <mark key="^" line="43" column="37" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="38" />
+        <mark key="^" line="51" column="38" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
