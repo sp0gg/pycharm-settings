@@ -22,8 +22,8 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1504192433844">
-        <mark key="'" line="3416" column="19" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1504276219684">
+        <mark key="'" line="1888" column="45" />
       </file>
       <file name="/a.dummy" timestamp="1503940634312">
         <mark key="[" line="0" column="0" />
@@ -79,8 +79,8 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504122104345">
-        <mark key="'" line="35" column="62" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504276112957">
+        <mark key="'" line="68" column="68" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="68" column="92" />
@@ -119,7 +119,7 @@
       <file name="/dummy.sql" timestamp="1504101284819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504275333085">
+      <file name="/Dummy.txt" timestamp="1504276475775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -159,11 +159,11 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504275413518">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="64" column="107" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504277471917">
+        <mark key="[" line="63" column="99" />
+        <mark key="]" line="63" column="99" />
+        <mark key="^" line="63" column="99" />
+        <mark key="." line="63" column="99" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -199,15 +199,6 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/ecmascript6/myaccount.js" timestamp="1504267978461" />
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="16" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -219,7 +210,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="55" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="58" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="77" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -275,7 +265,6 @@
       <jump line="79" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="359" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="361" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1219" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1224" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
@@ -299,19 +288,30 @@
       <jump line="6" column="2" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="71" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="89" column="7" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="45" column="98" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="60" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="61" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="68" column="68" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="359" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1868" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1860" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1862" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1888" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
+      <register name="&quot;" type="4">
+        <text>employee.</text>
       </register>
       <register name="-" type="4">
-        <text>preferences_object</text>
+        <text>employee.</text>
       </register>
       <register name="/" type="4">
-        <text>commun</text>
+        <text>participation</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChwYWdlLnNlbmRfbWV0aG9kX3Ntc19yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uc21zLm5hbWUpKQo=</text>
+      <register name="0" type="4">
+        <text>employee.participationstatusID != 10</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
@@ -345,9 +345,9 @@
       </register>
     </registers>
     <search>
-      <last-search>commun</last-search>
+      <last-search>participation</last-search>
       <last-offset />
-      <last-pattern>commun</last-pattern>
+      <last-pattern>participation</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -355,10 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>format_</entry>
-        <entry>for</entry>
-        <entry>form</entry>
-        <entry>element()</entry>
         <entry>behave</entry>
         <entry>ema</entry>
         <entry>code</entry>
@@ -375,6 +371,10 @@
         <entry>Se</entry>
         <entry>migra</entry>
         <entry>commun</entry>
+        <entry>communica</entry>
+        <entry>_get_is_noco</entry>
+        <entry>is_no</entry>
+        <entry>participation</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
