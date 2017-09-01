@@ -13,10 +13,6 @@
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" timestamp="1504118294968">
-        <mark key="'" line="10" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-tests.txt" timestamp="1504186041636">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -59,6 +55,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1504285347958">
+        <mark key="[" line="14" column="54" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
         <mark key="[" line="211" column="17" />
@@ -73,6 +74,7 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/environment.py" timestamp="1504285299300" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504276112957">
         <mark key="'" line="68" column="68" />
         <mark key="[" line="9" column="0" />
@@ -80,53 +82,14 @@
         <mark key="^" line="68" column="92" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/organization.py" timestamp="1503870967143">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="55" />
-      </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504113628430">
-        <mark key="'" line="151" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/address.py" timestamp="1503870983476">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504096895541">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/profile.py" timestamp="1503871103319">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="42" />
-        <mark key="." line="24" column="42" />
-      </file>
       <file name="/dummy.sql" timestamp="1504280435401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504284374965">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
+        <mark key="o" line="49" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1504285327874">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="43" />
-        <mark key="]" line="12" column="43" />
-        <mark key="." line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/employment.py" timestamp="1503871030810">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
         <mark key="'" line="19" column="8" />
@@ -181,18 +144,7 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/phone.py" timestamp="1503871047713">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1503928741618">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1504285326864" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/ecmascript6/myaccount.js" timestamp="1504267978461" />
     </filemarks>
     <jumps>
@@ -299,13 +251,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>profile_pb2.ProfileObject.Preferences.CommunicationMethod.Name()</text>
+        <text>, 'profile_client': 'MockProfileClient'</text>
       </register>
       <register name="-" type="4">
-        <text>profile_pb2.ProfileObject.Preferences.CommunicationMethod.Name()</text>
+        <text>, 'profile_client': 'MockProfileClient'</text>
       </register>
       <register name="/" type="4">
-        <text>participation</text>
+        <text>mock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnQ0VMTCcpCg==</text>
@@ -342,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>participation</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern>participation</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -352,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>behave</entry>
         <entry>ema</entry>
         <entry>code</entry>
         <entry>radi</entry>
@@ -372,6 +323,7 @@
         <entry>_get_is_noco</entry>
         <entry>is_no</entry>
         <entry>participation</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
