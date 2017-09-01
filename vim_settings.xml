@@ -35,9 +35,6 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
-        <mark key="'" line="193" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504269546033">
         <mark key="'" line="6" column="2" />
         <mark key="[" line="56" column="233" />
@@ -75,9 +72,6 @@
         <mark key="]" line="141" column="0" />
         <mark key="^" line="353" column="0" />
         <mark key="." line="141" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
-        <mark key="'" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504276112957">
         <mark key="'" line="68" column="68" />
@@ -119,7 +113,7 @@
       <file name="/dummy.sql" timestamp="1504280435401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504280284143">
+      <file name="/Dummy.txt" timestamp="1504284374965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -147,6 +141,12 @@
         <mark key="]" line="58" column="88" />
         <mark key="^" line="58" column="88" />
         <mark key="." line="58" column="88" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504284389762">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504281054413">
         <mark key="'" line="89" column="7" />
