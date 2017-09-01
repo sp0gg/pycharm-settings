@@ -119,7 +119,7 @@
       <file name="/dummy.sql" timestamp="1504101284819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504267814165">
+      <file name="/Dummy.txt" timestamp="1504274470349">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -145,19 +145,19 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1504183012789">
+      <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1504272365328">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="75" />
-        <mark key="]" line="58" column="66" />
-        <mark key="^" line="58" column="66" />
-        <mark key="." line="58" column="66" />
+        <mark key="[" line="58" column="88" />
+        <mark key="]" line="58" column="88" />
+        <mark key="^" line="58" column="88" />
+        <mark key="." line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504270693748">
-        <mark key="'" line="91" column="14" />
-        <mark key="[" line="87" column="142" />
-        <mark key="]" line="87" column="3" />
-        <mark key="." line="87" column="3" />
-        <mark key="^" line="87" column="3" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504273995278">
+        <mark key="'" line="89" column="7" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="88" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -238,7 +238,6 @@
       <jump line="40" column="40" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="42" column="30" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" />
-      <jump line="71" column="79" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -286,62 +285,63 @@
       <jump line="3416" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="58" column="23" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="82" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="89" column="14" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="91" column="43" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="511" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="532" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="18" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="6" column="2" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="71" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="89" column="7" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC5uYW1lKSkK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>rnumber</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>emp.pref</text>
+        <text>migra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGVtcGxveWVlLmhvbWVudW1iZXI6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChwYWdlLnNlbmRfbWV0aG9kX3Ntc19yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uc21zLm5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC5uYW1lKSkK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY2xlYXIgcGhvbmUgdmFsdWVzIGJlY2F1c2Ugd3RmCiAgICAjIHBhZ2UuY29tbXVuaWNhdGlvbl90YWJfZWxlbWVudCgpLmNsaWNrKCkKICAgICMgcGFnZS5zZXRfZW1wX21vYmlsZV9udW1iZXIoTm9uZSkKICAgICMgcGFnZS5zZXRfZW1wX2hvbWVfbnVtYmVyKE5vbmUpCiAgICAjIHBhZ2UucGVyc29uYWxfaW5mb190YWJfZWxlbWVudCgpLmNsaWNrKCkKICAgICMgZnJvbSB0aW1lIGltcG9ydCBzbGVlcDsgc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICMgICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMubmFtZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaWYgZW1wbG95ZWUuaG9tZW51bWJlcjoK</text>
+        <text encoding="base64">ICAgICMgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaWYgZW1wbG95ZWUubW9iaWxlbnVtYmVyOgo=</text>
+        <text encoding="base64">ICAgIGlmIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhZ2UuY29tbXVuaWNhdGlvbl90YWIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwOyBzbGVlcCg0MClkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDIwKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdlbXBsb3llZToge30nLmZvcm1hdChlbXBsb3llZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
       </register>
     </registers>
     <search>
-      <last-search>emp.pref</last-search>
+      <last-search>migra</last-search>
       <last-offset />
-      <last-pattern>emp.pref</last-pattern>
+      <last-pattern>migra</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -349,8 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>home</entry>
-        <entry>correc</entry>
         <entry>pretty</entry>
         <entry>format_</entry>
         <entry>for</entry>
@@ -369,6 +367,8 @@
         <entry>ipd</entry>
         <entry>send</entry>
         <entry>emp.pref</entry>
+        <entry>Se</entry>
+        <entry>migra</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
