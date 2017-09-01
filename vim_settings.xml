@@ -155,12 +155,12 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504281067904">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504283160514">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="51" column="18" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
+        <mark key="[" line="82" column="44" />
+        <mark key="]" line="82" column="73" />
+        <mark key="." line="82" column="73" />
+        <mark key="^" line="82" column="73" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -299,10 +299,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>send_method_name</text>
+        <text>profile_pb2.ProfileObject.Preferences.CommunicationMethod.Name()</text>
       </register>
       <register name="-" type="4">
-        <text>send_method_name</text>
+        <text>profile_pb2.ProfileObject.Preferences.CommunicationMethod.Name()</text>
       </register>
       <register name="/" type="4">
         <text>participation</text>
