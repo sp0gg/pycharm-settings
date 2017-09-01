@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1504018611979">
+      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1504275345391">
         <mark key="'" line="177" column="78" />
         <mark key="[" line="177" column="44" />
         <mark key="]" line="177" column="78" />
@@ -119,7 +119,7 @@
       <file name="/dummy.sql" timestamp="1504101284819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504274470349">
+      <file name="/Dummy.txt" timestamp="1504275333085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/chain.py" timestamp="1503871000640">
@@ -158,6 +158,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504275413518">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="64" column="107" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
         <mark key="'" line="532" column="52" />
@@ -296,52 +302,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>preferences_object</text>
       </register>
       <register name="/" type="4">
-        <text>migra</text>
+        <text>commun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChwYWdlLnNlbmRfbWV0aG9kX3Ntc19yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uc21zLm5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMubmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZWxzZToK</text>
+        <text encoding="base64">ICAgICMgICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMubmFtZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lOgo=</text>
+        <text encoding="base64">ICAgICMgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZ2UuY29tbXVuaWNhdGlvbl90YWIoKQo=</text>
+        <text encoding="base64">ICAgIGlmIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwOyBzbGVlcCg0MClkZAo=</text>
+        <text encoding="base64">ICAgIHBhZ2UuY29tbXVuaWNhdGlvbl90YWIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHRpbWUgaW1wb3J0IHNsZWVwOyBzbGVlcCg0MClkZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdlbXBsb3llZToge30nLmZvcm1hdChlbXBsb3llZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
       </register>
     </registers>
     <search>
-      <last-search>migra</last-search>
+      <last-search>commun</last-search>
       <last-offset />
-      <last-pattern>migra</last-pattern>
+      <last-pattern>commun</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +355,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pretty</entry>
         <entry>format_</entry>
         <entry>for</entry>
         <entry>form</entry>
@@ -369,6 +374,7 @@
         <entry>emp.pref</entry>
         <entry>Se</entry>
         <entry>migra</entry>
+        <entry>commun</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
