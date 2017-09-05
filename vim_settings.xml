@@ -103,8 +103,11 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504285327874">
+      <file name="/Dummy.txt" timestamp="1504619229802">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
+        <mark key="'" line="793" column="99" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
         <mark key="'" line="19" column="8" />
@@ -141,10 +144,11 @@
         <mark key="." line="82" column="73" />
         <mark key="^" line="82" column="73" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504193619208">
-        <mark key="'" line="532" column="52" />
-        <mark key="[" line="552" column="252" />
-        <mark key="]" line="552" column="275" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
+        <mark key="'" line="225" column="104" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -162,13 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="24" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="22" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
@@ -262,55 +259,62 @@
       <jump line="29" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="224" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="253" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
+      <jump line="207" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="227" column="104" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="471" column="189" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="8" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="469" column="189" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="225" column="104" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
+      <jump line="793" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>homenumber</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3Byb2ZpbGVfbWFwcGVyLm1lcmdlX3VzZXJfbW9kZWxfd2l0aF9wcm9maWxlX3Jlc3VsdCh1c2VyX21vZGVsLCBwcm9maWxlX3Jlc3VsdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdyZXNwb25zZToge30nLmZvcm1hdCgnc2RmJykpCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIENvbnRhY3Q6IEV2YW4gU3Rlcm4gKGV2YW5Ab25zaGlmdC5jb20pIGZvciBoZWxwLCBvciBkaWUuCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdyZXNwb25zZToge30nLmZvcm1hdCgnc2RmJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnV09SSycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHUK</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnV09SSycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
+        <text encoding="base64">ICAgIHJldHUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMubmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZWxzZToK</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>homenumber</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>homenumber</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -318,10 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
-        <entry>radi</entry>
-        <entry>mobile</entry>
-        <entry>call_this</entry>
         <entry>TODO</entry>
         <entry>preferred</entry>
         <entry>preferr</entry>
@@ -338,6 +338,10 @@
         <entry>participation</entry>
         <entry>mock</entry>
         <entry>log</entry>
+        <entry>pretty</entry>
+        <entry>phone</entry>
+        <entry>homenumb</entry>
+        <entry>homenumber</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
