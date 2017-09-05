@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504620004998">
-        <mark key="'" line="122" column="46" />
-        <mark key="[" line="162" column="58" />
-        <mark key="]" line="163" column="12" />
-        <mark key="^" line="163" column="12" />
-        <mark key="." line="163" column="12" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504631567169">
+        <mark key="'" line="124" column="46" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="70" />
+        <mark key="^" line="45" column="41" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504293322185">
         <mark key="'" line="257" column="25" />
@@ -269,43 +269,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZXR0eV9ob21lbnVtYmVyID0ga3dhcmdzLmdldCgncHJldHR5X2hvbWVudW1iZXInLCBOb25lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>mobile</text>
       </register>
       <register name="/" type="4">
         <text>formvalues</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3Byb2ZpbGVfbWFwcGVyLm1lcmdlX3VzZXJfbW9kZWxfd2l0aF9wcm9maWxlX3Jlc3VsdCh1c2VyX21vZGVsLCBwcm9maWxlX3Jlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9iaWxlbnVtYmVyPXByb2ZpbGVfb2JqZWN0Lm1vYmlsZV9udW1iZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZXR0eV9ob21lbnVtYmVyID0ga3dhcmdzLmdldCgncHJldHR5X2hvbWVudW1iZXInLCBOb25lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbnRhY3Q6IEV2YW4gU3Rlcm4gKGV2YW5Ab25zaGlmdC5jb20pIGZvciBoZWxwLCBvciBkaWUuCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByZXR0eV9ob21lbnVtYmVyID0ga3dhcmdzLmdldCgncHJldHR5X2hvbWVudW1iZXInLCBOb25lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdyZXNwb25zZToge30nLmZvcm1hdCgnc2RmJykpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIENvbnRhY3Q6IEV2YW4gU3Rlcm4gKGV2YW5Ab25zaGlmdC5jb20pIGZvciBoZWxwLCBvciBkaWUuCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdyZXNwb25zZToge30nLmZvcm1hdCgnc2RmJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnV09SSycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHUK</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwcm9maWxlX2lkJzogcHJvZmlsZV9pZCwK</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlBob25lTnVtYmVyLlBob25lVHlwZS5WYWx1ZSgnV09SSycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQoU2VuZE1ldGhvZEVudW0uc21zLm5hbWUsIGVxdWFsX3RvICgnc2Rmc2Rmc2Rmc2Rmc2RmJykpCg==</text>
+        <text encoding="base64">ICAgIHJldHUK</text>
       </register>
       <register name=":" type="4">
         <text>s/home/mobile</text>
