@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504269546033">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="56" column="233" />
-        <mark key="]" line="56" column="233" />
-        <mark key="." line="56" column="233" />
-        <mark key="^" line="36" column="235" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504640193699">
+        <mark key="'" line="55" column="233" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="35" column="235" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504638149753">
+      <file name="/Dummy.txt" timestamp="1504640198810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" />
       <jump line="53" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="47" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -266,10 +265,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="88" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="89" column="35" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="56" column="233" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -281,19 +281,19 @@
         <text encoding="base64">ICAgICAgICAgICAgbW9iaWxlbnVtYmVyPXByb2ZpbGVfb2JqZWN0Lm1vYmlsZV9udW1iZXIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNzJlYjgyM2ZmY2E4MGQwOGU5NTJkZDJlOTNiYWY1MWJjN2UwODdmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBkNzJlYjgyM2ZmY2E4MGQwOGU5NTJkZDJlOTNiYWY1MWJjN2UwODdmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
