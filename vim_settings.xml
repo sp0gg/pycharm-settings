@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504616182592">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504620004998">
         <mark key="'" line="122" column="46" />
-        <mark key="[" line="176" column="32" />
-        <mark key="]" line="176" column="32" />
-        <mark key="^" line="176" column="32" />
-        <mark key="." line="176" column="32" />
+        <mark key="[" line="162" column="58" />
+        <mark key="]" line="163" column="12" />
+        <mark key="^" line="163" column="12" />
+        <mark key="." line="163" column="12" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504293322185">
         <mark key="'" line="257" column="25" />
@@ -275,7 +275,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>homenumber</text>
+        <text>formvalues</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3Byb2ZpbGVfbWFwcGVyLm1lcmdlX3VzZXJfbW9kZWxfd2l0aF9wcm9maWxlX3Jlc3VsdCh1c2VyX21vZGVsLCBwcm9maWxlX3Jlc3VsdCkK</text>
@@ -312,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>homenumber</last-search>
+      <last-search>formvalues</last-search>
       <last-offset />
-      <last-pattern>homenumber</last-pattern>
+      <last-pattern>formvalues</last-pattern>
       <last-replace>mobile</last-replace>
       <last-substitute>home</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +322,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
         <entry>preferred</entry>
         <entry>preferr</entry>
         <entry>context.</entry>
@@ -342,6 +341,7 @@
         <entry>phone</entry>
         <entry>homenumb</entry>
         <entry>homenumber</entry>
+        <entry>formvalues</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
