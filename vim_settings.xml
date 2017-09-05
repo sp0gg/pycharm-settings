@@ -83,8 +83,7 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/environment.py" timestamp="1504285299300" />
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504292658519">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504616182592">
         <mark key="'" line="122" column="46" />
         <mark key="[" line="176" column="32" />
         <mark key="]" line="176" column="32" />
@@ -161,8 +160,6 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1504285326864" />
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/ecmascript6/myaccount.js" timestamp="1504267978461" />
     </filemarks>
     <jumps>
       <jump line="58" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
