@@ -123,8 +123,8 @@
         <mark key="^" line="58" column="88" />
         <mark key="." line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504292801621">
-        <mark key="'" line="53" column="51" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504632988922">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="51" column="114" />
         <mark key="]" line="52" column="11" />
         <mark key="^" line="52" column="11" />
@@ -166,9 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="24" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
-      <jump line="22" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="25" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="36" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -266,6 +263,9 @@
       <jump line="469" column="189" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="225" column="104" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
       <jump line="793" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
