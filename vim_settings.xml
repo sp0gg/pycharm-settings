@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504704514378">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504706633542">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="76" column="128" />
-        <mark key="]" line="76" column="137" />
-        <mark key="^" line="76" column="137" />
-        <mark key="." line="76" column="137" />
+        <mark key="[" line="75" column="160" />
+        <mark key="]" line="75" column="165" />
+        <mark key="^" line="75" column="165" />
+        <mark key="." line="75" column="165" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504640198810">
+      <file name="/Dummy.txt" timestamp="1504706682019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -130,19 +130,19 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504704676688">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="131" column="116" />
-        <mark key="]" line="132" column="3" />
-        <mark key="^" line="132" column="3" />
-        <mark key="." line="132" column="3" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504707037728">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="68" column="133" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504283160514">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="82" column="73" />
-        <mark key="." line="82" column="73" />
-        <mark key="^" line="82" column="73" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504705201841">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="81" column="73" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
         <mark key="'" line="225" column="104" />
@@ -166,47 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="72" column="67" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="37" column="18" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="38" column="68" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="39" column="40" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="517" column="138" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="523" column="81" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="524" column="93" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="231" column="114" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="6" column="64" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="76" column="97" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="7" column="56" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="361" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1219" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1224" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1318" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1332" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1333" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1334" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1341" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1342" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1953" column="33" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2458" column="43" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="3409" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="3416" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="58" column="23" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="82" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="91" column="43" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="511" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="532" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
-      <jump line="18" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
-      <jump line="6" column="2" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
-      <jump line="89" column="7" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="0" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="45" column="98" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="60" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="61" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -217,7 +176,6 @@
       <jump line="1860" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1862" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1888" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="51" column="51" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
@@ -266,13 +224,55 @@
       <jump line="121" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="108" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="136" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="134" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="137" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="133" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">MTk2Ny0wNC0wMiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbC5waG9uZV9udW1iZXIgaW1wb3J0IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTk2Ny0wNC0wMiAgICA=</text>
+        <text>home</text>
       </register>
       <register name="/" type="4">
         <text>_element</text>
@@ -281,31 +281,67 @@
         <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9zbXNfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvCg==</text>
+        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbC5waG9uZV9udW1iZXIgaW1wb3J0IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID09IFNlbmRNZXRob2RFbnVtLnNtcy52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9waG9uZV9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uaXZyLnZhbHVlLm5hbWUpKQogICAgIyBhc3NlcnRfdGhhdChwYWdlLnNlbmRfbWV0aG9kX2VtYWlsX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5lbWFpbC52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9wdXNoX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5wdXNoLnZhbHVlLm5hbWUpKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QoZW1wbG95ZWVfaW5mbykKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9tb2JpbGVfbnVtYmVyX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9PSAnbW9iaWxlJykpCiAgICAjIGFzc2VydF90aGF0KHBhZ2UuZW1wX2NhbGxfaG9tZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdob21lJykpCiAgICAjCiAgICAjIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID0gW2l0ZW0ubmFtZSBmb3IgaXRlbSBpbiBsaXN0KFNlbmRNZXRob2RFbnVtLl92YWx1ZTJtZW1iZXJfbWFwXykgaWYKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uaWQgPT0gZW1wbG95ZWVfaW5mby5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRF1bMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">bykKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9tb2JpbGVfbnVtYmVyX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9PSAnbW9iaWxlJykpCiAgICAjIGFzc2VydF90aGF0KHBhZ2UuZW1wX2NhbGxfaG9tZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdob21lJykpCiAgICAjCiAgICAjIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID0gW2l0ZW0ubmFtZSBmb3IgaXRlbSBpbiBsaXN0KFNlbmRNZXRob2RFbnVtLl92YWx1ZTJtZW1iZXJfbWFwXykgaWYKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uaWQgPT0gZW1wbG95ZWVfaW5mby5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRF1bMF0KICAgICMKICAgICMgY29tbXVuaWNhdGlvbl9tZXRob2RfdG9fZWxlbWVudCA9IHsKICAgICMgICAgICdtbycKICAgICMg</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KQogICAgIyBhc3NlcnRfdGhhdChwYWdlLmVtcF9jYWxsX21vYmlsZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdtb2JpbGUnKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9ob21lX251bWJlcl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfY2FsbGluZ19tZXRob2QgPT0gJ2hvbWUnKSkKICAgICMKICAgICMgcHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPSBbaXRlbS5uYW1lIGZvciBpdGVtIGluIGxpc3QoU2VuZE1ldGhvZEVudW0uX3ZhbHVlMm1lbWJlcl9tYXBfKSBpZgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5pZCA9PSBlbXBsb3llZV9pbmZvLnByZWZlcnJlZF9zZW5kX21ldGhvZElEXVswXQogICAgIwogICAgIyBjb21tdW5pY2F0aW9uX21ldGhvZF90b19lbGVtZW50ID0gewogICAgIyAgICAgJ21vJwogICAgIyB9CiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMudmFsdWUubmFtZSkpCiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcGhvbmVfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID09IFNlbmRNZXRob2RFbnVtLml2ci52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9lbWFpbF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUubmFtZSkpCiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5uYW1lKSkK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbW11bmljYXRpb25fbWV0aG9kX3RvX2VsZW1lbnQgPSB7CiAgICAgICAgJ21vJwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2UuZW1wX3VzZXJfbmFtZSgpLCBlcXVhbF90byhlbXBsb3llZV9pbmZvWyd1c2VyIG5hbWUnXSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBUaGVuIEkgc2VlIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBmb3IgIlJvbiIgaXMgY29ycmVjdAo=</text>
+      <register name="8" type="4">
+        <text>@then('I see the personal information for &quot;{emp_first_name}&quot; is correct')
+def step_impl(context, emp_first_name):
+    page = on(StaffPage)
+    employee = context.employees[emp_first_name]
+
+    # personal info tab
+    assert_that(page.emp_first_name(), equal_to(employee.first_name))
+    assert_that(page.emp_last_name(), equal_to(employee.last_name))
+    assert_that(page.emp_user_name(), equal_to(employee.user_name))
+    assert_that(page.emp_title(), equal_to(employee.title))
+    assert_that(page.emp_hire_date(), equal_to(employee.hire_date.strftime('%Y-%m-%d')))
+    assert_that(page.emp_address_street(), equal_to(employee.address_street))
+    assert_that(page.emp_address_apt_num(), equal_to(employee.address_apt_num))
+    assert_that(page.emp_address_city(), equal_to(employee.address_city))
+    assert_that(page.emp_address_state(), equal_to(employee.address_state))
+    assert_that(page.emp_address_zip(), equal_to(employee.address_zip))
+    assert_that(page.emp_date_of_birth(), equal_to(employee.date_of_birth.strftime('%Y-%m-%d')))
+
+    # communication tab
+    if employee.homenumber:
+        assert_that(page.emp_home_number(), equal_to(ProfileServiceMapper().format_phonenumber(employee.homenumber)))
+    if employee.mobilenumber:
+        assert_that(page.emp_mobile_number(), equal_to(ProfileServiceMapper().format_phonenumber(employee.mobilenumber)))
+    assert_that(page.emp_email_address(), equal_to(employee.email_address))
+    assert_that(page.emp_use_shortcode_element().is_checked(), equal_to(employee.use_shortcode))
+
+    preferred_calling_method = get_preferred_calling_method(employee)
+    assert_that(page.emp_call_mobile_number_element().is_checked(), equal_to(preferred_calling_method == 'mobile'))
+    assert_that(page.emp_call_home_number_element().is_checked(), equal_to(preferred_calling_method == 'home'))
+
+    preferred_send_method_name = [item.name for item in list(SendMethodEnum._value2member_map_) if
+                             item.id == employee.preferred_send_methodID][0]
+
+    assert_that(page.send_method_sms_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.sms.value.name))
+    assert_that(page.send_method_phone_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.ivr.value.name))
+    assert_that(page.send_method_email_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.email.value.name))
+    assert_that(page.send_method_push_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.push.value.name))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVtcGxveWVlID0gY29udGV4dC5lbXBsb3llZXNbZW1wX2ZpcnN0X25hbWVdCg==</text>
+        <text encoding="base64">ICAgIGlmIGVtcGxveWVlX2luZm8uZ2V0KCdob21lIG51bWJlcicsIEZhbHNlKToK</text>
       </register>
       <register name=":" type="4">
         <text>s/_element//</text>
