@@ -44,12 +44,12 @@
         <mark key="^" line="75" column="165" />
         <mark key="." line="75" column="165" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
-        <mark key="'" line="38" column="40" />
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="13" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="43" column="20" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504710199898">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="84" column="68" />
+        <mark key="]" line="84" column="80" />
+        <mark key="." line="84" column="80" />
+        <mark key="^" line="84" column="80" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504706682019">
+      <file name="/Dummy.txt" timestamp="1504710882466">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -130,19 +130,19 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504707037728">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="68" column="133" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504710375462">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="101" />
+        <mark key="]" line="70" column="104" />
+        <mark key="^" line="70" column="104" />
+        <mark key="." line="70" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504705201841">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="81" column="73" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504710864157">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="81" column="127" />
+        <mark key="]" line="81" column="127" />
+        <mark key="^" line="81" column="127" />
+        <mark key="." line="81" column="127" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
         <mark key="'" line="225" column="104" />
@@ -166,19 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="98" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="60" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="61" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="68" column="68" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="359" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1868" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1860" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1862" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1888" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="51" column="51" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
       <jump line="122" column="46" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="100" column="70" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="28" column="7" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
@@ -244,7 +231,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -263,31 +249,45 @@
       <jump line="137" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="133" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="121" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="4" column="27" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="69" column="58" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="70" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="76" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="75" column="42" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="77" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="79" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="81" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbC5waG9uZV9udW1iZXIgaW1wb3J0IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>home</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_element</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbC5waG9uZV9udW1iZXIgaW1wb3J0IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3V0WzJdOiAxMAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,67 +299,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBiYXptYW4uZW51bXMuc2VuZF9tZXRob2RfZW51bSBpbXBvcnQgU2VuZE1ldGhvZEVudW0K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>@then('I see the personal information for &quot;{emp_first_name}&quot; is correct')
-def step_impl(context, emp_first_name):
-    page = on(StaffPage)
-    employee = context.employees[emp_first_name]
-
-    # personal info tab
-    assert_that(page.emp_first_name(), equal_to(employee.first_name))
-    assert_that(page.emp_last_name(), equal_to(employee.last_name))
-    assert_that(page.emp_user_name(), equal_to(employee.user_name))
-    assert_that(page.emp_title(), equal_to(employee.title))
-    assert_that(page.emp_hire_date(), equal_to(employee.hire_date.strftime('%Y-%m-%d')))
-    assert_that(page.emp_address_street(), equal_to(employee.address_street))
-    assert_that(page.emp_address_apt_num(), equal_to(employee.address_apt_num))
-    assert_that(page.emp_address_city(), equal_to(employee.address_city))
-    assert_that(page.emp_address_state(), equal_to(employee.address_state))
-    assert_that(page.emp_address_zip(), equal_to(employee.address_zip))
-    assert_that(page.emp_date_of_birth(), equal_to(employee.date_of_birth.strftime('%Y-%m-%d')))
-
-    # communication tab
-    if employee.homenumber:
-        assert_that(page.emp_home_number(), equal_to(ProfileServiceMapper().format_phonenumber(employee.homenumber)))
-    if employee.mobilenumber:
-        assert_that(page.emp_mobile_number(), equal_to(ProfileServiceMapper().format_phonenumber(employee.mobilenumber)))
-    assert_that(page.emp_email_address(), equal_to(employee.email_address))
-    assert_that(page.emp_use_shortcode_element().is_checked(), equal_to(employee.use_shortcode))
-
-    preferred_calling_method = get_preferred_calling_method(employee)
-    assert_that(page.emp_call_mobile_number_element().is_checked(), equal_to(preferred_calling_method == 'mobile'))
-    assert_that(page.emp_call_home_number_element().is_checked(), equal_to(preferred_calling_method == 'home'))
-
-    preferred_send_method_name = [item.name for item in list(SendMethodEnum._value2member_map_) if
-                             item.id == employee.preferred_send_methodID][0]
-
-    assert_that(page.send_method_sms_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.sms.value.name))
-    assert_that(page.send_method_phone_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.ivr.value.name))
-    assert_that(page.send_method_email_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.email.value.name))
-    assert_that(page.send_method_push_radio_button_element().is_checked(), equal_to(preferred_send_method_name == SendMethodEnum.push.value.name))</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGVtcGxveWVlX2luZm8uZ2V0KCdob21lIG51bWJlcicsIEZhbHNlKToK</text>
+        <text encoding="base64">ICAgIGNvbW11bmljYXRpb25fbWV0aG9kX3RvX2VsZW1lbnQgPSB7CiAgICAgICAgU2VuZE1ldGhvZEVudW0uc21zLnZhbHVlLm5hbWUubG93ZXIoKTogcGFnZS5zZW5kX21ldGhvZF9zbXNfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKSwKICAgICAgICBTZW5kTWV0aG9kRW51bS5pdnIudmFsdWUubmFtZS5sb3dlcigpOiBwYWdlLnNlbmRfbWV0aG9kX3Bob25lX3JhZGlvX2J1dHRvbl9lbGVtZW50KCksCiAgICAgICAgU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUubmFtZS5sb3dlcigpOiBwYWdlLnNlbmRfbWV0aG9kX2VtYWlsX3JhZGlvX2J1dHRvbl9lbGVtZW50KCksCiAgICAgICAgU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5uYW1lLmxvd2VyKCk6IHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/_element//</text>
+        <text>s/page/self</text>
       </register>
     </registers>
     <search>
-      <last-search>_element</last-search>
+      <last-search>10</last-search>
       <last-offset />
-      <last-pattern>_element</last-pattern>
-      <last-replace />
-      <last-substitute>_element</last-substitute>
+      <last-pattern>10</last-pattern>
+      <last-replace>self</last-replace>
+      <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>phone</entry>
-        <entry>homenumb</entry>
         <entry>homenumber</entry>
         <entry>formvalues</entry>
         <entry>is_</entry>
@@ -378,6 +340,8 @@ def step_impl(context, emp_first_name):
         <entry>}</entry>
         <entry>0]</entry>
         <entry>_element</entry>
+        <entry>page</entry>
+        <entry>10</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -389,6 +353,7 @@ def step_impl(context, emp_first_name):
         <entry encoding="base64">JzwsJz5zL2VxdWFsX3RvKC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19lcXVhbC9fdGhhdC9n</entry>
         <entry>s/_element//</entry>
+        <entry>s/page/self</entry>
       </history-cmd>
       <history-expr />
       <history-input />
