@@ -37,12 +37,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1504094216922">
         <mark key="'" line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504700963917">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" timestamp="1504704514378">
         <mark key="'" line="16" column="32" />
-        <mark key="[" line="17" column="189" />
-        <mark key="]" line="17" column="193" />
-        <mark key="^" line="17" column="193" />
-        <mark key="." line="17" column="193" />
+        <mark key="[" line="76" column="128" />
+        <mark key="]" line="76" column="137" />
+        <mark key="^" line="76" column="137" />
+        <mark key="." line="76" column="137" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504188296529">
         <mark key="'" line="38" column="40" />
@@ -130,12 +130,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504701848113">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="114" column="65" />
-        <mark key="]" line="114" column="65" />
-        <mark key="^" line="111" column="116" />
-        <mark key="." line="114" column="65" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504704676688">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="131" column="116" />
+        <mark key="]" line="132" column="3" />
+        <mark key="^" line="132" column="3" />
+        <mark key="." line="132" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504283160514">
         <mark key="'" line="43" column="0" />
@@ -166,14 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="52" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="95" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="72" column="67" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -262,69 +254,74 @@
       <jump line="89" column="35" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="56" column="233" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="116" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="17" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="16" column="32" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="124" column="75" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="125" column="7" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="126" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="128" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="121" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">MTk2Ny0wNC0wMiAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">MTk2Ny0wNC0wMiAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>_equal</text>
+        <text>_element</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2UuZW1wX3VzZXJfbmFtZSgpLCBlcXVhbF90byhlbXBsb3llZV9pbmZvWyd1c2VyIG5hbWUnXSkpCg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9zbXNfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAgICBUaGVuIEkgc2VlIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBmb3IgIlJvbiIgaXMgY29ycmVjdAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">KHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID09IFNlbmRNZXRob2RFbnVtLnNtcy52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9waG9uZV9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uaXZyLnZhbHVlLm5hbWUpKQogICAgIyBhc3NlcnRfdGhhdChwYWdlLnNlbmRfbWV0aG9kX2VtYWlsX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5lbWFpbC52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9wdXNoX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5wdXNoLnZhbHVlLm5hbWUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVtcGxveWVlID0gY29udGV4dC5lbXBsb3llZXNbZW1wX2ZpcnN0X25hbWVdCg==</text>
+        <text encoding="base64">CiAgICAjIHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9IGdldF9wcmVmZXJyZWRfY2FsbGluZ19tZXRob2QoZW1wbG95ZWVfaW5mbykKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9tb2JpbGVfbnVtYmVyX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9PSAnbW9iaWxlJykpCiAgICAjIGFzc2VydF90aGF0KHBhZ2UuZW1wX2NhbGxfaG9tZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdob21lJykpCiAgICAjCiAgICAjIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID0gW2l0ZW0ubmFtZSBmb3IgaXRlbSBpbiBsaXN0KFNlbmRNZXRob2RFbnVtLl92YWx1ZTJtZW1iZXJfbWFwXykgaWYKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uaWQgPT0gZW1wbG95ZWVfaW5mby5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRF1bMF0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">bykKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9tb2JpbGVfbnVtYmVyX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9jYWxsaW5nX21ldGhvZCA9PSAnbW9iaWxlJykpCiAgICAjIGFzc2VydF90aGF0KHBhZ2UuZW1wX2NhbGxfaG9tZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdob21lJykpCiAgICAjCiAgICAjIHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID0gW2l0ZW0ubmFtZSBmb3IgaXRlbSBpbiBsaXN0KFNlbmRNZXRob2RFbnVtLl92YWx1ZTJtZW1iZXJfbWFwXykgaWYKICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW0uaWQgPT0gZW1wbG95ZWVfaW5mby5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRF1bMF0KICAgICMKICAgICMgY29tbXVuaWNhdGlvbl9tZXRob2RfdG9fZWxlbWVudCA9IHsKICAgICMgICAgICdtbycKICAgICMg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KQogICAgIyBhc3NlcnRfdGhhdChwYWdlLmVtcF9jYWxsX21vYmlsZV9udW1iZXJfZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kID09ICdtb2JpbGUnKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5lbXBfY2FsbF9ob21lX251bWJlcl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfY2FsbGluZ19tZXRob2QgPT0gJ2hvbWUnKSkKICAgICMKICAgICMgcHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPSBbaXRlbS5uYW1lIGZvciBpdGVtIGluIGxpc3QoU2VuZE1ldGhvZEVudW0uX3ZhbHVlMm1lbWJlcl9tYXBfKSBpZgogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5pZCA9PSBlbXBsb3llZV9pbmZvLnByZWZlcnJlZF9zZW5kX21ldGhvZElEXVswXQogICAgIwogICAgIyBjb21tdW5pY2F0aW9uX21ldGhvZF90b19lbGVtZW50ID0gewogICAgIyAgICAgJ21vJwogICAgIyB9CiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2Rfc21zX3JhZGlvX2J1dHRvbl9lbGVtZW50KCkuaXNfY2hlY2tlZCgpLCBlcXVhbF90byhwcmVmZXJyZWRfc2VuZF9tZXRob2RfbmFtZSA9PSBTZW5kTWV0aG9kRW51bS5zbXMudmFsdWUubmFtZSkpCiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcGhvbmVfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKS5pc19jaGVja2VkKCksIGVxdWFsX3RvKHByZWZlcnJlZF9zZW5kX21ldGhvZF9uYW1lID09IFNlbmRNZXRob2RFbnVtLml2ci52YWx1ZS5uYW1lKSkKICAgICMgYXNzZXJ0X3RoYXQocGFnZS5zZW5kX21ldGhvZF9lbWFpbF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUubmFtZSkpCiAgICAjIGFzc2VydF90aGF0KHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpLmlzX2NoZWNrZWQoKSwgZXF1YWxfdG8ocHJlZmVycmVkX3NlbmRfbWV0aG9kX25hbWUgPT0gU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5uYW1lKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHdpcAo=</text>
+        <text encoding="base64">ICAgIGNvbW11bmljYXRpb25fbWV0aG9kX3RvX2VsZW1lbnQgPSB7CiAgICAgICAgJ21vJwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2UuZW1wX3VzZXJfbmFtZSgpLCBlcXVhbF90byhlbXBsb3llZV9pbmZvWyd1c2VyIG5hbWUnXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkNzJlYjgyM2ZmY2E4MGQwOGU5NTJkZDJlOTNiYWY1MWJjN2UwODdmCg==</text>
+        <text encoding="base64">IyAgICBUaGVuIEkgc2VlIHRoZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBmb3IgIlJvbiIgaXMgY29ycmVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIGVtcGxveWVlID0gY29udGV4dC5lbXBsb3llZXNbZW1wX2ZpcnN0X25hbWVdCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL19lcXVhbC9fdGhhdC9n</text>
+        <text>s/_element//</text>
       </register>
     </registers>
     <search>
-      <last-search>_equal</last-search>
+      <last-search>_element</last-search>
       <last-offset />
-      <last-pattern>_equal</last-pattern>
-      <last-replace>_that</last-replace>
-      <last-substitute>_equal</last-substitute>
+      <last-pattern>_element</last-pattern>
+      <last-replace />
+      <last-substitute>_element</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mock</entry>
-        <entry>log</entry>
-        <entry>pretty</entry>
         <entry>phone</entry>
         <entry>homenumb</entry>
         <entry>homenumber</entry>
@@ -342,6 +339,9 @@
         <entry>assert_that</entry>
         <entry>equal_to(</entry>
         <entry>_equal</entry>
+        <entry>}</entry>
+        <entry>0]</entry>
+        <entry>_element</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -352,6 +352,7 @@
         <entry encoding="base64">JzwsJz5zL2Fzc2VydF90aGF0L2Fzc2VydF9lcXVhbC9n</entry>
         <entry encoding="base64">JzwsJz5zL2VxdWFsX3RvKC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL19lcXVhbC9fdGhhdC9n</entry>
+        <entry>s/_element//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
