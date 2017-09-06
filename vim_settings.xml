@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504710882466">
+      <file name="/Dummy.txt" timestamp="1504711365148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -137,12 +137,11 @@
         <mark key="^" line="70" column="104" />
         <mark key="." line="70" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504710864157">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="81" column="127" />
-        <mark key="]" line="81" column="127" />
-        <mark key="^" line="81" column="127" />
-        <mark key="." line="81" column="127" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504712449559">
+        <mark key="[" line="49" column="8" />
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="35" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
         <mark key="'" line="225" column="104" />
@@ -166,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="46" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="100" column="70" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="28" column="7" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="29" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
@@ -266,31 +264,32 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="125" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>10</text>
+        <text>_get_comm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICAxOiAnVEVYVCcsCiAgICAgICAgMzogJ1BIT05FJywKICAgICAgICAyOiAnRU1BSUwnLAogICAgICAgIDg6ICdQVVNIJwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T3V0WzJdOiAxMAo=</text>
+        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3V0WzJdOiAxMAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,22 +298,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4uZW51bXMuc2VuZF9tZXRob2RfZW51bSBpbXBvcnQgU2VuZE1ldGhvZEVudW0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBiYXptYW4uZW51bXMuc2VuZF9tZXRob2RfZW51bSBpbXBvcnQgU2VuZE1ldGhvZEVudW0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbW11bmljYXRpb25fbWV0aG9kX3RvX2VsZW1lbnQgPSB7CiAgICAgICAgU2VuZE1ldGhvZEVudW0uc21zLnZhbHVlLm5hbWUubG93ZXIoKTogcGFnZS5zZW5kX21ldGhvZF9zbXNfcmFkaW9fYnV0dG9uX2VsZW1lbnQoKSwKICAgICAgICBTZW5kTWV0aG9kRW51bS5pdnIudmFsdWUubmFtZS5sb3dlcigpOiBwYWdlLnNlbmRfbWV0aG9kX3Bob25lX3JhZGlvX2J1dHRvbl9lbGVtZW50KCksCiAgICAgICAgU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUubmFtZS5sb3dlcigpOiBwYWdlLnNlbmRfbWV0aG9kX2VtYWlsX3JhZGlvX2J1dHRvbl9lbGVtZW50KCksCiAgICAgICAgU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5uYW1lLmxvd2VyKCk6IHBhZ2Uuc2VuZF9tZXRob2RfcHVzaF9yYWRpb19idXR0b25fZWxlbWVudCgpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
       </register>
     </registers>
     <search>
-      <last-search>10</last-search>
+      <last-search>_get_comm</last-search>
       <last-offset />
-      <last-pattern>10</last-pattern>
+      <last-pattern>_get_comm</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -322,7 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>homenumber</entry>
         <entry>formvalues</entry>
         <entry>is_</entry>
         <entry>home_number</entry>
@@ -342,6 +340,7 @@
         <entry>_element</entry>
         <entry>page</entry>
         <entry>10</entry>
+        <entry>_get_comm</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
