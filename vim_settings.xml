@@ -137,11 +137,11 @@
         <mark key="^" line="70" column="104" />
         <mark key="." line="70" column="104" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504712449559">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="35" />
-        <mark key="^" line="49" column="35" />
-        <mark key="." line="49" column="35" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504713388333">
+        <mark key="[" line="50" column="5" />
+        <mark key="]" line="51" column="3" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
         <mark key="'" line="225" column="104" />
@@ -267,44 +267,44 @@
       <jump line="46" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>_get_comm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
+      <register name="0" type="4">
+        <text>send_method_name_to_communication_method[employee.preferred_send_methodID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICAxOiAnVEVYVCcsCiAgICAgICAgMzogJ1BIT05FJywKICAgICAgICAyOiAnRU1BSUwnLAogICAgICAgIDg6ICdQVVNIJwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
+        <text encoding="base64">ICAgIHNlbmRfbWV0aG9kX25hbWVfdG9fY29tbXVuaWNhdGlvbl9tZXRob2QgPSB7CiAgICAgICAgU2VuZE1ldGhvZEVudW0uc21zLnZhbHVlLmlkOiAnVEVYVCcsCiAgICAgICAgU2VuZE1ldGhvZEVudW0uaXZyLnZhbHVlLmlkOiAnUEhPTkUnLAogICAgICAgIFNlbmRNZXRob2RFbnVtLmVtYWlsLnZhbHVlLmlkOiAnRU1BSUwnLAogICAgICAgIFNlbmRNZXRob2RFbnVtLnB1c2gudmFsdWUuaWQ6ICdQVVNIJwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T3V0WzJdOiAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICBTZW5kTWV0aG9kRW51bS5zbXMudmFsdWUuaWQ6ICdURVhUJywKICAgICAgICBTZW5kTWV0aG9kRW51bS5pdnIudmFsdWUuaWQ6ICdQSE9ORScsCiAgICAgICAgU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUuaWQ6ICdFTUFJTCcsCiAgICAgICAgU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5pZDogJ1BVU0gnCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlByZWZlcmVuY2VzLkNvbW11bmljYXRpb25NZXRob2QuVmFsdWUoJ1RFWFQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICAxOiAnVEVYVCcsCiAgICAgICAgMzogJ1BIT05FJywKICAgICAgICAyOiAnRU1BSUwnLAogICAgICAgIDg6ICdQVVNIJwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4uZW51bXMuc2VuZF9tZXRob2RfZW51bSBpbXBvcnQgU2VuZE1ldGhvZEVudW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
@@ -399,6 +399,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
