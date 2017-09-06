@@ -130,12 +130,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504700889815">
-        <mark key="'" line="149" column="8" />
-        <mark key="[" line="115" column="102" />
-        <mark key="]" line="115" column="111" />
-        <mark key="^" line="115" column="111" />
-        <mark key="." line="115" column="111" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504701848113">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="114" column="65" />
+        <mark key="]" line="114" column="65" />
+        <mark key="^" line="111" column="116" />
+        <mark key="." line="114" column="65" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504283160514">
         <mark key="'" line="43" column="0" />
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -266,16 +265,17 @@
       <jump line="116" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="17" column="6" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
       <jump line="16" column="32" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/drill_into_employee_profile.feature" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>push</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>communi</text>
+        <text>_equal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgfCBmaXJzdF9uYW1lIHwgbGFzdF9uYW1lIHwgdGl0bGUgfCBhZGRyZXNzX3N0cmVldCAgfCBhZGRyZXNzX2FwdF9udW0gfCBhZGRyZXNzX2NpdHkgfCBhZGRyZXNzX3N0YXRlIHwgYWRkcmVzc196aXAgfCBvcmdfbmFtZSAgICAgICB8IGhpcmVfZGF0ZSAgfCBkYXRlX29mX2JpcnRoIHwgdXNlX3Nob3J0Y29kZSB8IHByZWZlcnJlZF9zZW5kX21ldGhvZF9pZCB8IGZpYml0eWZvb19pdnJudW1iZXIgfCBob21lbnVtYmVyIHwgbW9iaWxlbnVtYmVyIHwgZW1haWxfYWRkcmVzcyAgICAgICAgIHwKICAgICAgfCBSb24gICAgICAgIHwgQnVyZ3VuZHkgIHwgQ05BICAgfCAxIE1haG9nYW55IExhbmUgfCA1NSAgICAgICAgICAgICAgfCBTYW4gRGllZ28gICAgfCBDYWxpZm9ybmlhICAgIHwgMjI0MzQgICAgICAgfCBDaGFubmVsIDQgTmV3cyB8IDIwMTctMDgtMTMgfCAxOTkzLTEwLTA5ICAgIHwgRmFsc2UgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICAgICAgICB8IDk5OTk5OTk5OTkgICAgICAgICAgfCA5OTk5OTk5OTk5IHwgMDAwMDAwMDAwMCAgIHwgc19wYW50aGVyQGhvdG1haWwuY29tIHwK</text>
@@ -308,23 +308,20 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/_/ /g</text>
+        <text encoding="base64">JzwsJz5zL19lcXVhbC9fdGhhdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>communi</last-search>
+      <last-search>_equal</last-search>
       <last-offset />
-      <last-pattern>communi</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute>_</last-substitute>
+      <last-pattern>_equal</last-pattern>
+      <last-replace>_that</last-replace>
+      <last-substitute>_equal</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_get_is_noco</entry>
-        <entry>is_no</entry>
-        <entry>participation</entry>
         <entry>mock</entry>
         <entry>log</entry>
         <entry>pretty</entry>
@@ -342,6 +339,9 @@
         <entry>_</entry>
         <entry>fib</entry>
         <entry>communi</entry>
+        <entry>assert_that</entry>
+        <entry>equal_to(</entry>
+        <entry>_equal</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -349,6 +349,9 @@
         <entry>s/home/mobile</entry>
         <entry>s/address_//g</entry>
         <entry>s/_/ /g</entry>
+        <entry encoding="base64">JzwsJz5zL2Fzc2VydF90aGF0L2Fzc2VydF9lcXVhbC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2VxdWFsX3RvKC8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL19lcXVhbC9fdGhhdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
