@@ -56,6 +56,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1504727006237">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
       </file>
@@ -271,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnYnVpbGRfcHknOiBDdXN0b21CdWlsZFB5Q29tbWFuZCwK</text>
+        <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>#Enter feature name here</text>
       </register>
       <register name="/" type="4">
         <text>Mapper</text>
@@ -283,10 +289,10 @@
         <text encoding="base64">ICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9IGdldGN3ZCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnYnVpbGRfcHknOiBDdXN0b21CdWlsZFB5Q29tbWFuZCwK</text>
+        <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYnVpbGRfcHknOiBDdXN0b21CdWlsZFB5Q29tbWFuZCwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -294,7 +300,10 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>class CustomBuildPyCommand(build_py):
     def run(self):
         print('running...')
@@ -302,17 +311,14 @@
         ProtoFiles().build()
         build_py.run(self)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9ICdhc2RmYXNkZnNkZmFzZGZzZGYnCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CQkgKyAgICBkZWYgYnVpbGQoc2VsZik6CiArICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9IGdldGN3ZCgpCiArICAgICAgICBwYXJlbnRfZGlyZWN0b3J5ID0gcGF0aC5kaXJuYW1lKGN1cnJlbnRfZGlyZWN0b3J5KQogKyAgICAgICAgcHJvdG9zX2RpcmVjdG9yeSA9IHBhcmVudF9kaXJlY3RvcnkgKyBzZWxmLnByb3Rvc19wYXRoCiArICAgICAgICBjbGllbnRfZGlyZWN0b3J5ID0gY3VycmVudF9kaXJlY3RvcnkgKyBzZWxmLmNsaWVudF9wYXRoCiArICAgICAgICBzY3JpcHRfZmlsZV9uYW1lID0gY3VycmVudF9kaXJlY3RvcnkgKyBzZWxmLnNjcmlwdF9uYW1lCiArICAgICAgICBzY3JpcHRfY29tbWFuZCA9IFtzY3JpcHRfZmlsZV9uYW1lLCBjbGllbnRfZGlyZWN0b3J5LCBwcm90b3NfZGlyZWN0b3J5XQogKyAgICAgICAgIyBleGVjdXRlIHRoZSBnZW5lcmF0aW9uIHNjcmlwdCBpbiBhIHN1Yi1wcm9jZXNzCiArICAgICAgICBzdWJfcHJvY2Vzc19yZXN1bHRzID0gY2hlY2tfb3V0cHV0KHNjcmlwdF9jb21tYW5kKQogKyAgICAgICAgIyBkaXNwbGF5IHRoZSBzdGRvdXQgKG5vdCBzdGVycikgb2YgdGhlIHN1Yi1wcm9jZXNzCiArICAgICAgICBwcmludCgie30iLmZvcm1hdChzdWJfcHJvY2Vzc19yZXN1bHRzLmRlY29kZSgidXRmLTgiKS5yZXBsYWNlKCJcXG4iLCAiXG4iKSkp</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYnVpbGRfZGRweSc6IEN1c3RvbUJ1aWxkUHlDb21tYW5kLAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
