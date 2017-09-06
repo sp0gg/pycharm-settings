@@ -83,12 +83,12 @@
       <file name="$USER_HOME$/projects/profile-service/server/servicers/profile.py" timestamp="1503944322171">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504638227918">
-        <mark key="'" line="89" column="35" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504714876344">
+        <mark key="'" line="119" column="121" />
+        <mark key="[" line="119" column="111" />
+        <mark key="]" line="119" column="116" />
+        <mark key="^" line="119" column="116" />
+        <mark key="." line="119" column="116" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504638331226">
         <mark key="[" line="117" column="89" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504711365148">
+      <file name="/Dummy.txt" timestamp="1504714700955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -130,18 +130,16 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504710375462">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="101" />
-        <mark key="]" line="70" column="104" />
-        <mark key="^" line="70" column="104" />
-        <mark key="." line="70" column="104" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" timestamp="1504715411009">
+        <mark key="'" line="65" column="44" />
+        <mark key="j" line="65" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504713388333">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504714904629">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="52" column="121" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1504619667366">
         <mark key="'" line="225" column="104" />
@@ -165,19 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="70" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="28" column="7" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="29" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="224" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="253" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
-      <jump line="207" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="227" column="104" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="471" column="189" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="8" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="469" column="189" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="225" column="104" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" />
-      <jump line="793" column="99" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="154" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -209,7 +194,6 @@
       <jump line="121" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="108" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="136" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="134" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="130" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="126" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -226,7 +210,6 @@
       <jump line="36" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -241,7 +224,6 @@
       <jump line="101" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="109" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="157" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="154" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="141" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="137" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -265,55 +247,71 @@
       <jump line="125" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="46" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="45" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="157" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="124" column="121" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="57" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="61" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="81" column="40" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="82" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="89" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="117" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="136" column="74" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="13" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
+      <jump line="70" column="104" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="5" column="62" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="67" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="65" column="44" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>employee_info.get('home number', '')</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>employee_info.get('home number', '')</text>
       </register>
       <register name="/" type="4">
-        <text>_get_comm</text>
+        <text>Mapper</text>
       </register>
-      <register name="0" type="4">
-        <text>send_method_name_to_communication_method[employee.preferred_send_methodID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFzc2VydF90aGF0KHBhZ2UuZW1wX2hvbWVfbnVtYmVyKCksIGVxdWFsX3RvKGVtcGxveWVlX2luZm8uZ2V0KCdob21lIG51bWJlcicsICcnKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbC5tYXBwZXJzLnNlcnZpY2VfbWFwcGVycyBpbXBvcnQgUHJvZmlsZVNlcnZpY2VNYXBwZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbmRfbWV0aG9kX25hbWVfdG9fY29tbXVuaWNhdGlvbl9tZXRob2QgPSB7CiAgICAgICAgU2VuZE1ldGhvZEVudW0uc21zLnZhbHVlLmlkOiAnVEVYVCcsCiAgICAgICAgU2VuZE1ldGhvZEVudW0uaXZyLnZhbHVlLmlkOiAnUEhPTkUnLAogICAgICAgIFNlbmRNZXRob2RFbnVtLmVtYWlsLnZhbHVlLmlkOiAnRU1BSUwnLAogICAgICAgIFNlbmRNZXRob2RFbnVtLnB1c2gudmFsdWUuaWQ6ICdQVVNIJwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW9uX21ldGhvZF90b19wcmVmZXJyZWRfc2VuZF9tZXRob2RfaWQgPSB7CiAgICAgICAgICAgICdURVhUJzogMSwKICAgICAgICAgICAgJ0VNQUlMJzogMiwKICAgICAgICAgICAgJ1BIT05FJzogMywKICAgICAgICAgICAgJ1BVU0gnOiA4CiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW9uX21ldGhvZF90b19wcmVmZXJyZWRfc2VuZF9tZXRob2RfaWQgPSB7CiAgICAgICAgICAgICdURVhUJzogMSwKICAgICAgICAgICAgJ0VNQUlMJzogMiwKICAgICAgICAgICAgJ1BIT05FJzogMywKICAgICAgICAgICAgJ1BVU0gnOiA4CiAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICBTZW5kTWV0aG9kRW51bS5zbXMudmFsdWUuaWQ6ICdURVhUJywKICAgICAgICBTZW5kTWV0aG9kRW51bS5pdnIudmFsdWUuaWQ6ICdQSE9ORScsCiAgICAgICAgU2VuZE1ldGhvZEVudW0uZW1haWwudmFsdWUuaWQ6ICdFTUFJTCcsCiAgICAgICAgU2VuZE1ldGhvZEVudW0ucHVzaC52YWx1ZS5pZDogJ1BVU0gnCiAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dW5pY2F0aW9uX21ldGhvZF90b19wcmVmZXJyZWRfc2VuZF9tZXRob2RfaWQgPSB7CiAgICAgICAgICAgICdURVhUJzogMSwKICAgICAgICAgICAgJ0VNQUlMJzogMiwKICAgICAgICAgICAgJ1BIT05FJzogMywKICAgICAgICAgICAgJ1BVU0gnOiA4CiAgICAgICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlByZWZlcmVuY2VzLkNvbW11bmljYXRpb25NZXRob2QuVmFsdWUoJ1RFWFQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOiBwcm9maWxlX3BiMi5Qcm9maWxlT2JqZWN0LlByZWZlcmVuY2VzLkNvbW11bmljYXRpb25NZXRob2QuVmFsdWUoJ0VNQUlMJyk6IFNlbmRNZXRob2RFbnVtLmVtYWlsLnZhbHVlLmlkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tbXVuaWNhdGlvbl9tZXRob2QoZW1wbG95ZWUpOgogICAgc2VuZF9tZXRob2RfbmFtZV90b19jb21tdW5pY2F0aW9uX21ldGhvZCA9IHsKICAgICAgICAxOiAnVEVYVCcsCiAgICAgICAgMzogJ1BIT05FJywKICAgICAgICAyOiAnRU1BSUwnLAogICAgICAgIDg6ICdQVVNIJwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21tdW5pY2F0aW9uX21ldGhvZF9uYW1lID0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdC5QcmVmZXJlbmNlcy5Db21tdW5pY2F0aW9uTWV0aG9kLk5hbWUoY29tbXVuaWNhdGlvbl9tZXRob2QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiBlbXBsb3llZS5wYXJ0aWNpcGF0aW9uc3RhdHVzSUQgIT0gCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZW5kX21ldGhvZF9uYW1lX3RvX2NvbW11bmljYXRpb25fbWV0aG9kW1NlbmRNZXRob2RFbnVtLnNtcy52YWx1ZS5pZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UGFydGljaXBhdGlvblN0YXR1c0VudW0ubm9fY29tbXVuaWNhdGlvbi52YWx1ZVswXQo=</text>
+        <text encoding="base64">ICAgIGlmIGVtcGxveWVlLnByZWZlcnJlZF9zZW5kX21ldGhvZElEOgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
       </register>
     </registers>
     <search>
-      <last-search>_get_comm</last-search>
+      <last-search>Mapper</last-search>
       <last-offset />
-      <last-pattern>_get_comm</last-pattern>
+      <last-pattern>Mapper</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -321,9 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>formvalues</entry>
-        <entry>is_</entry>
-        <entry>home_number</entry>
         <entry>format_pho</entry>
         <entry>_ele</entry>
         <entry>get_value</entry>
@@ -335,12 +330,15 @@
         <entry>assert_that</entry>
         <entry>equal_to(</entry>
         <entry>_equal</entry>
-        <entry>}</entry>
         <entry>0]</entry>
         <entry>_element</entry>
         <entry>page</entry>
         <entry>10</entry>
         <entry>_get_comm</entry>
+        <entry>}</entry>
+        <entry>.get</entry>
+        <entry>\.get</entry>
+        <entry>Mapper</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
