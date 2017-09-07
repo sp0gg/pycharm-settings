@@ -56,11 +56,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1504727006237">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1504729037205">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
@@ -174,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="154" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="45" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
@@ -274,16 +274,17 @@
       <jump line="5" column="62" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="67" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="65" column="44" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>#Enter feature name here</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Mapper</text>
+        <text encoding="base64">XDxFbnRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9IGdldGN3ZCgpCg==</text>
@@ -325,17 +326,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Mapper</last-search>
+      <last-search encoding="base64">XDxFbnRlclw+</last-search>
       <last-offset />
-      <last-pattern>Mapper</last-pattern>
+      <last-pattern encoding="base64">XDxFbnRlclw+</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>format_pho</entry>
         <entry>_ele</entry>
         <entry>get_value</entry>
         <entry>format_ph</entry>
@@ -355,6 +355,7 @@
         <entry>.get</entry>
         <entry>\.get</entry>
         <entry>Mapper</entry>
+        <entry encoding="base64">XDxFbnRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
