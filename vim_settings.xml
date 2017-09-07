@@ -10,9 +10,6 @@
         <mark key="." line="177" column="78" />
         <mark key="^" line="177" column="78" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" timestamp="1504292357435">
-        <mark key="'" line="33" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,7 +113,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504714700955">
+      <file name="/Dummy.txt" timestamp="1504803156662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -166,8 +163,8 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1503946235615">
-        <mark key="'" line="65" column="17" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1504803136562">
+        <mark key="'" line="16" column="43" />
         <mark key="[" line="547" column="39" />
         <mark key="]" line="547" column="39" />
         <mark key="." line="547" column="39" />
@@ -175,18 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
-      <jump line="154" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
-      <jump line="166" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="43" column="35" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="62" column="23" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="71" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="101" column="38" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="42" column="39" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="73" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="88" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -275,6 +260,18 @@
       <jump line="67" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="65" column="44" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
+      <jump line="19" column="62" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="26" column="23" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="45" column="23" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="82" column="23" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="422" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="447" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="466" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="488" column="29" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="499" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="521" column="25" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="536" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="16" column="43" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +281,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnRlclw+</text>
+        <text>get_session</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9IGdldGN3ZCgpCg==</text>
@@ -326,17 +323,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnRlclw+</last-search>
+      <last-search>get_session</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnRlclw+</last-pattern>
+      <last-pattern>get_session</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_ele</entry>
         <entry>get_value</entry>
         <entry>format_ph</entry>
         <entry>address_</entry>
@@ -356,6 +352,7 @@
         <entry>\.get</entry>
         <entry>Mapper</entry>
         <entry encoding="base64">XDxFbnRlclw+</entry>
+        <entry>get_session</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
