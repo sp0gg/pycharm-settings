@@ -129,8 +129,8 @@
         <mark key="^" line="58" column="88" />
         <mark key="." line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504815578828">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504878970642">
+        <mark key="'" line="28" column="14" />
         <mark key="[" line="27" column="36" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="27" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="69" column="58" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="70" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="76" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
@@ -269,6 +268,7 @@
       <jump line="129" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="95" column="85" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="93" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
+      <jump line="28" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
