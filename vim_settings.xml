@@ -98,7 +98,8 @@
         <mark key="^" line="125" column="39" />
       </file>
       <file name="/service_mappers.py" timestamp="1504876874222" />
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504638331226">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504893102969">
+        <mark key="'" line="66" column="33" />
         <mark key="[" line="117" column="89" />
         <mark key="]" line="117" column="89" />
         <mark key="." line="117" column="89" />
@@ -169,8 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="58" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="70" column="21" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="76" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="75" column="42" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="77" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
@@ -269,6 +268,8 @@
       <jump line="95" column="85" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="93" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="28" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="66" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +279,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFwX2NhbGxfZGVzdGluYXRpb25cPg==</text>
+        <text>'mobile'</text>
       </register>
       <register name="0" type="4">
         <text>profile_object</text>
@@ -315,9 +316,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFwX2NhbGxfZGVzdGluYXRpb25cPg==</last-search>
+      <last-search>'mobile'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFwX2NhbGxfZGVzdGluYXRpb25cPg==</last-pattern>
+      <last-pattern>'mobile'</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -325,8 +326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call_thisd</entry>
-        <entry>preferred_</entry>
         <entry>mock</entry>
         <entry encoding="base64">XDxsYXN0X25hbWVfZmlyc3RfbmFtZVw+</entry>
         <entry encoding="base64">XDxkYXRlX29mX2JpcnRoXD4=</entry>
@@ -345,6 +344,8 @@
         <entry encoding="base64">XDxnZXRfcHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kXD4=</entry>
         <entry encoding="base64">XDxjYWxsX2Rlc3RpbmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxfbWFwX2NhbGxfZGVzdGluYXRpb25cPg==</entry>
+        <entry>destination_mobil</entry>
+        <entry>'mobile'</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
