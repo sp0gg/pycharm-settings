@@ -70,10 +70,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1504285347958">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1504871248021">
         <mark key="[" line="14" column="54" />
         <mark key="]" line="14" column="54" />
         <mark key="." line="14" column="54" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
@@ -113,7 +114,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/config/app.cfg" timestamp="1504285201578">
         <mark key="o" line="49" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504815669682">
+      <file name="/Dummy.txt" timestamp="1504871190665">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504619692683">
@@ -276,16 +277,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>, 'profile_client': 'MockProfileClient'</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>, 'profile_client': 'MockProfileClient'</text>
       </register>
       <register name="/" type="4">
-        <text>preferred_</text>
+        <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X2RpcmVjdG9yeSA9IGdldGN3ZCgpCg==</text>
+        <text encoding="base64">bW9ja19zZXJ2aWNlcyA9IHsncGFydG5lcl9jbGllbnQnOiAnTW9ja1BhcnRuZXJDbGllbnQnLCAncHJvZmlsZV9jbGllbnQnOiAnTW9ja1Byb2ZpbGVDbGllbnQnfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
@@ -324,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search>preferred_</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern>preferred_</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assert_that</entry>
         <entry>equal_to(</entry>
         <entry>_equal</entry>
         <entry>0]</entry>
@@ -354,6 +354,7 @@
         <entry>call_thisd</entry>
         <entry>call_this</entry>
         <entry>preferred_</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
