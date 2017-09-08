@@ -98,11 +98,12 @@
         <mark key="^" line="125" column="39" />
       </file>
       <file name="/service_mappers.py" timestamp="1504876874222" />
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504893102969">
-        <mark key="'" line="66" column="33" />
-        <mark key="[" line="117" column="89" />
-        <mark key="]" line="117" column="89" />
-        <mark key="." line="117" column="89" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1504895331304">
+        <mark key="'" line="61" column="45" />
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="40" />
+        <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
@@ -170,9 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
-      <jump line="75" column="42" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="77" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="82" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
@@ -270,16 +268,19 @@
       <jump line="28" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
       <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="66" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="70" column="41" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="44" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="61" column="45" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>'home'</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>'home'</text>
       </register>
       <register name="/" type="4">
-        <text>'mobile'</text>
+        <text>call_thi</text>
       </register>
       <register name="0" type="4">
         <text>profile_object</text>
@@ -316,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'mobile'</last-search>
+      <last-search>call_thi</last-search>
       <last-offset />
-      <last-pattern>'mobile'</last-pattern>
+      <last-pattern>call_thi</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -326,9 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mock</entry>
-        <entry encoding="base64">XDxsYXN0X25hbWVfZmlyc3RfbmFtZVw+</entry>
-        <entry encoding="base64">XDxkYXRlX29mX2JpcnRoXD4=</entry>
         <entry>view</entry>
         <entry>def view</entry>
         <entry>logger.</entry>
@@ -346,6 +344,9 @@
         <entry encoding="base64">XDxfbWFwX2NhbGxfZGVzdGluYXRpb25cPg==</entry>
         <entry>destination_mobil</entry>
         <entry>'mobile'</entry>
+        <entry>use_short_code</entry>
+        <entry>use_short_co</entry>
+        <entry>call_thi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
