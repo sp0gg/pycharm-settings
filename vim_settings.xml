@@ -53,12 +53,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505140974278">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505142778683">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="18" column="109" />
+        <mark key="]" line="18" column="108" />
+        <mark key="." line="18" column="108" />
+        <mark key="^" line="18" column="108" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
@@ -273,11 +273,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgRW50ZXIgc3RlcHMgaGVyZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>assig</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
@@ -285,32 +285,32 @@
       <register name="0" type="4">
         <text>profile_object</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRW50ZXIgc3RlcHMgaGVyZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NhbGwgZGVzdCBpbmNvbWluZyB0byBtY3RuOiB7fScuZm9ybWF0KGNhbGxfZGVzdGluYXRpb24pKQo=</text>
+        <text encoding="base64">ICAgICMgRW50ZXIgc3RlcHMgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ21hcHBlZCBjYWxsX3RoaXNfbnVtOiB7fScuZm9ybWF0KHNlbGYuX21hcF9jYWxsX2Rlc3RpbmF0aW9uKHByb2ZpbGVfb2JqZWN0LnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24sIGhvbWVfbnVtYmVyLCBtb2JpbGVfbnVtYmVyKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NhbGwgZGVzdCBpbmNvbWluZyB0byBtY3RuOiB7fScuZm9ybWF0KGNhbGxfZGVzdGluYXRpb24pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ21vY2tzLnByb2ZpbGVfY2xpZW50JykK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ21hcHBlZCBjYWxsX3RoaXNfbnVtOiB7fScuZm9ybWF0KHNlbGYuX21hcF9jYWxsX2Rlc3RpbmF0aW9uKHByb2ZpbGVfb2JqZWN0LnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24sIGhvbWVfbnVtYmVyLCBtb2JpbGVfbnVtYmVyKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoJ21vY2tzLnByb2ZpbGVfY2xpZW50JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjYWxsX3RoaXNfbnVtYmVyPXNlbGYuX21hcF9jYWxsX3RoaXNfbnVtYmVyKHByb2ZpbGVfb2JqZWN0LnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24pLAo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NhbGwgZGVzdCBpbmNvbWluZzoge30nLmZvcm1hdChjYWxsX2Rlc3RpbmF0aW9uKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjYWxsX3RoaXNfbnVtYmVyPXNlbGYuX21hcF9jYWxsX3RoaXNfbnVtYmVyKHByb2ZpbGVfb2JqZWN0LnByZWZlcmVuY2VzLmNhbGxfZGVzdGluYXRpb24pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2NhbGwgZGVzdCBpbmNvbWluZzoge30nLmZvcm1hdChjYWxsX2Rlc3RpbmF0aW9uKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnYnVpbGRfcHknOiBDdXN0b21CdWlsZFB5Q29tbWFuZCwK</text>
+        <text encoding="base64">ICAjIEVudGVyIGZlYXR1cmUgZGVzY3JpcHRpb24gaGVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
