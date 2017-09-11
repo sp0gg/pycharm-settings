@@ -13,7 +13,7 @@
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/overtime_steps.py" timestamp="1505146460895" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/overtime_steps.py" timestamp="1505147426701" />
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-tests.txt" timestamp="1504186041636">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -105,6 +105,10 @@
         <mark key="." line="42" column="40" />
         <mark key="^" line="42" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/new_builders/shift_time_template_builder.py" timestamp="1505147306648">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="29" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
@@ -156,6 +160,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505147584329">
+        <mark key="'" line="33" column="102" />
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="43" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="30" column="43" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="1" column="7" />
@@ -172,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="80" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="81" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -272,19 +282,20 @@
       <jump line="9" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
       <jump line="12" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
       <jump line="13" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
+      <jump line="30" column="102" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>datetime.</text>
       </register>
       <register name="-" type="4">
-        <text>assig</text>
+        <text>datetime.</text>
       </register>
       <register name="/" type="4">
         <text>#</text>
       </register>
       <register name="0" type="4">
-        <text>profile_object</text>
+        <text>ShiftTimeTemplateBuilder</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAg</text>
