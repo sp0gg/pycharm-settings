@@ -147,7 +147,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505230735286">
+      <file name="/Dummy.txt" timestamp="1505232526213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -198,12 +198,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505231028965">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505231978618">
         <mark key="'" line="17" column="55" />
-        <mark key="[" line="53" column="79" />
-        <mark key="]" line="53" column="80" />
+        <mark key="[" line="53" column="80" />
+        <mark key="]" line="53" column="81" />
         <mark key="^" line="60" column="60" />
-        <mark key="." line="53" column="80" />
+        <mark key="." line="53" column="81" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
