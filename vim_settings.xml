@@ -51,12 +51,10 @@
         <mark key="^" line="75" column="165" />
         <mark key="." line="75" column="165" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505218699648">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505223846992">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504710199898">
         <mark key="'" line="81" column="12" />
@@ -65,10 +63,10 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505222375211">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505223774553">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="28" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="55" />
         <mark key="." line="20" column="0" />
       </file>
@@ -132,7 +130,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505221894243">
+      <file name="/Dummy.txt" timestamp="1505223542623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -207,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
-      <jump line="5" column="62" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="67" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="65" column="44" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="4" column="14" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
@@ -307,13 +303,15 @@
       <jump line="124" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
       <jump line="90" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
       <jump line="13" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
+      <jump line="41" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDA3OjAwQU0gdG8gMDM6MDBQTSAoN2EtM3ApIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQob24oRW1wbG95ZWVXZWVrbHlWaWV3UGFnZSkuc2hpZnRfc2VsZWN0X2VsZW1lbnQoKS5vcHRpb25zX3RleHQoKVsxXSwgZXF1YWxfdG8oaW5wdXRfdGFibGVbJ3NoaWZ0J10pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDA3OjAwQU0gdG8gMDM6MDBQTSAoN2EtM3ApIA==</text>
+        <text>position</text>
       </register>
       <register name="/" type="4">
         <text>positio</text>
@@ -322,31 +320,31 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3R5cGVfYnVpbGRlciBpbXBvcnQgU2hpZnRUeXBlQnVpbGRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlmdF90eXBlX2J1aWxkZXIuYnVpbGQob3JnYW5pemF0aW9uPW5ld19vcmcpCg==</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQob24oRW1wbG95ZWVXZWVrbHlWaWV3UGFnZSkuc2hpZnRfc2VsZWN0X2VsZW1lbnQoKS5vcHRpb25zX3RleHQoKVsxXSwgZXF1YWxfdG8oaW5wdXRfdGFibGVbJ3NoaWZ0J10pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">MDc6MDBBTSB0byAwMzowMFBNICg3YS0zcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAwNzowMEFNIHRvIDAzOjAwUE0gKDdhLTNwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlmdF90eXBlX2J1aWxkZXIuYnVpbGQob3JnYW5pemF0aW9uPW5ld19vcmcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmxvY2F0aW9uX3NlbGVjdF9lbGVtZW50KCkud2hlbl9wcmVzZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2lnbl9saW5rcyA9IG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmFzc2lnbl9saW5rc1tzaGlmdF9pbmRleF0uY2xpY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmxvY2F0aW9uX3NlbGVjdF9lbGVtZW50KCkud2hlbl9wcmVzZW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
