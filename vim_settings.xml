@@ -136,10 +136,6 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
         <mark key="'" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/new_builders/shift_time_template_builder.py" timestamp="1505147306648">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="29" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/model/shift_time_test.py" timestamp="1505230763902" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
@@ -147,7 +143,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505232526213">
+      <file name="/Dummy.txt" timestamp="1505236153122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -167,6 +163,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" timestamp="1505225151182">
         <mark key="'" line="186" column="42" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/factories/shift_requirement_factory.py" timestamp="1505236210212" />
       <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1505156376531">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="56" />
@@ -181,10 +178,6 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/create_schedule_page.py" timestamp="1505151806810">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="95" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504714904629">
         <mark key="'" line="13" column="16" />
         <mark key="[" line="52" column="0" />
@@ -198,12 +191,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505231978618">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505236239408">
         <mark key="'" line="17" column="55" />
-        <mark key="[" line="53" column="80" />
-        <mark key="]" line="53" column="81" />
-        <mark key="^" line="60" column="60" />
-        <mark key="." line="53" column="81" />
+        <mark key="[" line="59" column="70" />
+        <mark key="]" line="59" column="70" />
+        <mark key="^" line="59" column="76" />
+        <mark key="." line="59" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -329,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>locati</text>
