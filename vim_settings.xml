@@ -13,7 +13,6 @@
       <file name="/Python Console" timestamp="1503928288942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/overtime_steps.py" timestamp="1505150391343" />
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-tests.txt" timestamp="1504186041636">
         <mark key="[" line="9" column="11" />
         <mark key="]" line="9" column="11" />
@@ -122,8 +121,11 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505157255052">
+      <file name="/Dummy.txt" timestamp="1505217465831">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504874647223">
         <mark key="'" line="942" column="31" />
@@ -135,7 +137,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_list/terminations.feature" timestamp="1505140949857" />
       <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1505156376531">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="56" />
@@ -167,12 +168,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505157192621">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505217687659">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="39" column="50" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -195,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="29" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="81" column="40" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="82" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="89" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -295,13 +295,14 @@
       <jump line="42" column="19" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
       <jump line="0" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>org</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fCB0b2RheSA=</text>
+        <text>org</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblw+</text>
