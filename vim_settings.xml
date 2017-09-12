@@ -46,8 +46,8 @@
         <mark key="^" line="75" column="165" />
         <mark key="." line="75" column="165" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505156961762">
-        <mark key="'" line="43" column="19" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505218699648">
+        <mark key="'" line="37" column="0" />
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="31" />
         <mark key="^" line="40" column="31" />
@@ -60,12 +60,12 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505156712871">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505218912735">
         <mark key="'" line="0" column="3" />
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="6" />
-        <mark key="^" line="19" column="13" />
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
@@ -121,7 +121,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505217465831">
+      <file name="/Dummy.txt" timestamp="1505218931366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -168,12 +168,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505217687659">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505218833139">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="50" />
-        <mark key="." line="39" column="50" />
-        <mark key="^" line="39" column="50" />
+        <mark key="[" line="35" column="104" />
+        <mark key="]" line="35" column="104" />
+        <mark key="." line="35" column="104" />
+        <mark key="^" line="35" column="104" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -196,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="40" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="82" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="89" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="117" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="136" column="74" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
       <jump line="13" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
@@ -296,16 +293,19 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
       <jump line="0" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>org</text>
+        <text>East</text>
       </register>
       <register name="-" type="4">
-        <text>org</text>
+        <text>East</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblw+</text>
+        <text>posi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2lnbl9saW5rcyA9IG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmFzc2lnbl9saW5rc1tzaGlmdF9pbmRleF0uY2xpY2soKQo=</text>
@@ -342,18 +342,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblw+</last-search>
+      <last-search>posi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblw+</last-pattern>
+      <last-pattern>posi</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>map_call</entry>
-        <entry>_map_call</entry>
         <entry>call_this_number</entry>
         <entry>logger</entry>
         <entry>transform</entry>
@@ -372,6 +370,8 @@
         <entry>#</entry>
         <entry encoding="base64">XDxzdGFydF9kYXRlXD4=</entry>
         <entry encoding="base64">XDxvblw+</entry>
+        <entry>position</entry>
+        <entry>posi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
