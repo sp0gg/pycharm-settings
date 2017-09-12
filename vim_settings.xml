@@ -29,9 +29,14 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/printable_service_test.py" timestamp="1505221822537">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="88" />
+      </file>
       <file name="/a.dummy" timestamp="1505151302415">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505221344558" />
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
@@ -60,15 +65,18 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505218912735">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505222375211">
         <mark key="'" line="0" column="3" />
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="68" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="^" line="19" column="55" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/loader/requirements.pip" timestamp="1503949583420">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" timestamp="1505220869536">
+        <mark key="'" line="1138" column="8" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-internal.txt" timestamp="1504093382145">
         <mark key="'" line="0" column="0" />
@@ -111,6 +119,9 @@
         <mark key="." line="42" column="40" />
         <mark key="^" line="42" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
+        <mark key="'" line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/new_builders/shift_time_template_builder.py" timestamp="1505147306648">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="29" />
@@ -121,7 +132,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505220070273">
+      <file name="/Dummy.txt" timestamp="1505221894243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -168,12 +179,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505218833139">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="35" column="104" />
-        <mark key="]" line="35" column="104" />
-        <mark key="." line="35" column="104" />
-        <mark key="^" line="35" column="104" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505222034104">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="63" />
+        <mark key="." line="37" column="63" />
+        <mark key="^" line="37" column="63" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -196,10 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="136" column="74" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="13" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" />
-      <jump line="70" column="104" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="3" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="5" column="62" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
       <jump line="67" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/staff_page_steps.py" />
@@ -296,43 +303,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
+      <jump line="1138" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" />
+      <jump line="124" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
+      <jump line="90" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
+      <jump line="13" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>East</text>
+        <text encoding="base64">IDA3OjAwQU0gdG8gMDM6MDBQTSAoN2EtM3ApIA==</text>
       </register>
       <register name="-" type="4">
-        <text>East</text>
+        <text encoding="base64">IDA3OjAwQU0gdG8gMDM6MDBQTSAoN2EtM3ApIA==</text>
       </register>
       <register name="/" type="4">
-        <text>posi</text>
+        <text>positio</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2lnbl9saW5rcyA9IG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmFzc2lnbl9saW5rc1tzaGlmdF9pbmRleF0uY2xpY2soKQo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3R5cGVfYnVpbGRlciBpbXBvcnQgU2hpZnRUeXBlQnVpbGRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlmdF90eXBlX2J1aWxkZXIuYnVpbGQob3JnYW5pemF0aW9uPW5ld19vcmcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmxvY2F0aW9uX3NlbGVjdF9lbGVtZW50KCkud2hlbl9wcmVzZW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2lnbl9saW5rcyA9IG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmFzc2lnbl9saW5rc1tzaGlmdF9pbmRleF0uY2xpY2soKQo=</text>
+        <text encoding="base64">ICAgIG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmxvY2F0aW9uX3NlbGVjdF9lbGVtZW50KCkud2hlbl9wcmVzZW50KCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uKCkK</text>
+        <text encoding="base64">ICAgIGFzc2lnbl9saW5rcyA9IG9uKEVtcGxveWVlV2Vla2x5Vmlld1BhZ2UpLmFzc2lnbl9saW5rc1tzaGlmdF9pbmRleF0uY2xpY2soKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -342,9 +353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>posi</last-search>
+      <last-search>positio</last-search>
       <last-offset />
-      <last-pattern>posi</last-pattern>
+      <last-pattern>positio</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
@@ -352,10 +363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call_this_number</entry>
-        <entry>logger</entry>
-        <entry>transform</entry>
-        <entry>mobile</entry>
         <entry>call_this</entry>
         <entry>calling_method</entry>
         <entry encoding="base64">XDxnZXRfcHJlZmVycmVkX2NhbGxpbmdfbWV0aG9kXD4=</entry>
@@ -372,6 +379,10 @@
         <entry encoding="base64">XDxvblw+</entry>
         <entry>position</entry>
         <entry>posi</entry>
+        <entry>super)</entry>
+        <entry>super_</entry>
+        <entry>shift_types</entry>
+        <entry>positio</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
