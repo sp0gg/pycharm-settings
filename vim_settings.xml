@@ -153,7 +153,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505238444131">
+      <file name="/Dummy.txt" timestamp="1505240255012">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -196,12 +196,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505238905997">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505240297068">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="78" />
-        <mark key="^" line="64" column="8" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="54" />
+        <mark key="^" line="61" column="54" />
+        <mark key="." line="61" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1504017573175">
         <mark key="'" line="19" column="14" />
@@ -330,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlmdF90ZW1wbGF0ZS5jb3B5X3RvX3NjaGVkdWxlKHN0YXJ0X2RhdGUsIHVzZXIsIHYyb3JnLCBhY3RpdmU9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0b3BfdGltZSA9IGRhdGV0aW1lLmRhdGV0aW1lKDIwMTMsIDksIDMwLCAxNSwgMCwgMCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -342,31 +342,31 @@
         <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3JlcXVpcmVtZW50X2J1aWxkZXIgaW1wb3J0IFNoaWZ0UmVxdWlyZW1lbnRCdWlsZGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlmdF90ZW1wbGF0ZS5jb3B5X3RvX3NjaGVkdWxlKHN0YXJ0X2RhdGUsIHVzZXIsIHYyb3JnLCBhY3RpdmU9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0b3BfdGltZSA9IGRhdGV0aW1lLmRhdGV0aW1lKDIwMTMsIDksIDMwLCAxNSwgMCwgMCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlmdF90ZW1wbGF0ZS5jb3B5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YXJ0X3RpbWUgPSBkYXRldGltZS5kYXRldGltZSgyMDEzLCA5LCAzMCwgNywgMCwgMCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGlmdF90ZW1wbGF0ZS5jb3B5X3RvX3NjaGVkdWxlKHN0YXJ0X2RhdGUsIHVzZXIsIHYyb3JnLCBhY3RpdmU9RmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsb2NhdGlvbgogICAgICAgIGxvY2F0aW9uX2J1aWxkZXIuYnVpbGQob3JnYW5pemF0aW9uPW5ld19vcmcsIG5hbWU9J0RlZmF1bHQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaGlmdF90ZW1wbGF0ZS5jb3B5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDkwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNyZWF0ZSBsb2NhdGlvbgogICAgICAgIGxvY2F0aW9uX2J1aWxkZXIuYnVpbGQob3JnYW5pemF0aW9uPW5ld19vcmcsIG5hbWU9J0RlZmF1bHQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQob24oRW1wbG95ZWVXZWVrbHlWaWV3UGFnZSkuc2hpZnRfc2VsZWN0X2VsZW1lbnQoKS5vcHRpb25zX3RleHQoKVsxXSwgZXF1YWxfdG8oaW5wdXRfdGFibGVbJ3NoaWZ0J10pKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gdGltZSBpbXBvcnQgc2xlZXA7IHNsZWVwKDkwMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MDc6MDBBTSB0byAwMzowMFBNICg3YS0zcCkK</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAwNzowMEFNIHRvIDAzOjAwUE0gKDdhLTNwKQo=</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0X3RoYXQob24oRW1wbG95ZWVXZWVrbHlWaWV3UGFnZSkuc2hpZnRfc2VsZWN0X2VsZW1lbnQoKS5vcHRpb25zX3RleHQoKVsxXSwgZXF1YWxfdG8oaW5wdXRfdGFibGVbJ3NoaWZ0J10pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/page/self</text>
