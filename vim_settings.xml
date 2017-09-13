@@ -97,8 +97,8 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505318773539">
-        <mark key="'" line="323" column="23" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505322038047">
+        <mark key="'" line="968" column="32" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -222,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="836" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="964" column="33" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="15" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="942" column="31" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
@@ -322,6 +321,7 @@
       <jump line="574" column="18" filename="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" />
       <jump line="26" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" />
       <jump line="7" column="5" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" />
+      <jump line="968" column="32" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -331,7 +331,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>assign_shi</text>
+        <text>assign_shift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -368,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assign_shi</last-search>
+      <last-search>assign_shift</last-search>
       <last-offset />
-      <last-pattern>assign_shi</last-pattern>
+      <last-pattern>assign_shift</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -391,13 +391,13 @@
         <entry>_weekly</entry>
         <entry encoding="base64">XDxzaGlmdF90ZW1wbGF0ZVw+</entry>
         <entry>on(EmployeeWeeklyViewPage)</entry>
-        <entry>assign_shift</entry>
         <entry>assign_</entry>
         <entry>assign_emp</entry>
         <entry>responsewi</entry>
         <entry>ResponseWid</entry>
         <entry encoding="base64">XDxNZXNzYWdlUG9wdXBXaWRnZXRcPg==</entry>
         <entry>assign_shi</entry>
+        <entry>assign_shift</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
