@@ -12,8 +12,8 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505325683908">
-        <mark key="'" line="2907" column="20" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505330368076">
+        <mark key="'" line="41" column="34" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
@@ -67,6 +67,9 @@
         <mark key="]" line="42" column="40" />
         <mark key="." line="42" column="40" />
         <mark key="^" line="42" column="40" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" timestamp="1505329785060">
+        <mark key="'" line="470" column="24" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
         <mark key="'" line="13" column="11" />
@@ -228,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
       <jump line="50" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
       <jump line="204" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shifttemplate.py" />
       <jump line="1455" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
@@ -328,6 +326,11 @@
       <jump line="426" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="337" column="62" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="421" column="58" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" />
+      <jump line="58" column="22" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" />
+      <jump line="60" column="22" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" />
+      <jump line="470" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -337,7 +340,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19zd2l0Y2hcPg==</text>
+        <text>borrowed_ident</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -374,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19zd2l0Y2hcPg==</last-search>
+      <last-search>borrowed_ident</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19zd2l0Y2hcPg==</last-pattern>
+      <last-pattern>borrowed_ident</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -384,9 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>assign_emp</entry>
-        <entry>responsewi</entry>
-        <entry>ResponseWid</entry>
         <entry encoding="base64">XDxNZXNzYWdlUG9wdXBXaWRnZXRcPg==</entry>
         <entry>assign_shi</entry>
         <entry>validateid</entry>
@@ -404,6 +404,9 @@
         <entry encoding="base64">XDxhc3NpZ25fdGhpc19lbXBcPg==</entry>
         <entry>v1shift</entry>
         <entry encoding="base64">XDxpc19zd2l0Y2hcPg==</entry>
+        <entry>assign</entry>
+        <entry>def assign</entry>
+        <entry>borrowed_ident</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
