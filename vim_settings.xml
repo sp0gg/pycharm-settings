@@ -13,8 +13,8 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="88" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505323934474">
-        <mark key="'" line="2494" column="12" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505325683908">
+        <mark key="'" line="2907" column="20" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
@@ -131,7 +131,7 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/bazmanobject.py" timestamp="1505324446924" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/bazmanobject.py" timestamp="1505324685100" />
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
         <mark key="[" line="211" column="17" />
@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505323936656">
+      <file name="/Dummy.txt" timestamp="1505325456007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -226,42 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="126" column="61" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="127" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="129" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="95" column="85" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="93" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="28" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="66" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="70" column="41" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="44" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="61" column="45" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
-      <jump line="12" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
-      <jump line="13" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
-      <jump line="30" column="102" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
-      <jump line="26" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
-      <jump line="20" column="68" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="15" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="28" column="37" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="42" column="19" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
-      <jump line="0" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="1138" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" />
-      <jump line="124" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
-      <jump line="90" column="48" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
-      <jump line="13" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" />
-      <jump line="41" column="3" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="149" column="31" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="191" column="93" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="196" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="257" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
@@ -322,10 +286,46 @@
       <jump line="7" column="5" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" />
       <jump line="968" column="32" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="658" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2480" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2484" column="40" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2494" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="658" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="746" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="842" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="870" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="886" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="907" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="937" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="952" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="962" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1053" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1468" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2232" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2607" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2645" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2678" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2705" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3747" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3793" column="30" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3797" column="62" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3859" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3914" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="54" column="2" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="76" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="141" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="995" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="998" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="999" column="22" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1011" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1060" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1991" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2001" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2535" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2564" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2593" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2602" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2893" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2907" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -335,7 +335,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>assign_shift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -372,9 +372,9 @@
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>assign_shift</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>assign_shift</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -382,10 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shift_types</entry>
-        <entry>positio</entry>
-        <entry>first</entry>
-        <entry>first step</entry>
         <entry>locati</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>weekl</entry>
@@ -398,10 +394,14 @@
         <entry>ResponseWid</entry>
         <entry encoding="base64">XDxNZXNzYWdlUG9wdXBXaWRnZXRcPg==</entry>
         <entry>assign_shi</entry>
-        <entry>assign_shift</entry>
         <entry>validateid</entry>
         <entry>validateID</entry>
         <entry>validate</entry>
+        <entry>def g</entry>
+        <entry>g =</entry>
+        <entry>cls.g</entry>
+        <entry>AuditLog</entry>
+        <entry>assign_shift</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
