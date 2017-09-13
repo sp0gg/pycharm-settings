@@ -3,15 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" timestamp="1505328839173">
+        <mark key="'" line="220" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" timestamp="1504874741564">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="15" />
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/printable_service_test.py" timestamp="1505230405140">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="88" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505325683908">
         <mark key="'" line="2907" column="20" />
@@ -32,8 +31,8 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" timestamp="1505220869536">
-        <mark key="'" line="1138" column="8" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" timestamp="1505327729385">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-internal.txt" timestamp="1504093382145">
         <mark key="'" line="0" column="0" />
@@ -77,6 +76,9 @@
         <mark key="'" line="942" column="31" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/factories/shift_requirement_factory.py" timestamp="1505236210212" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
+        <mark key="'" line="50" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
         <mark key="]" line="20" column="93" />
@@ -100,8 +102,8 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505326625420">
-        <mark key="'" line="386" column="25" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
+        <mark key="'" line="421" column="58" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -156,7 +158,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505326900560">
+      <file name="/Dummy.txt" timestamp="1505328690725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -226,29 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="407" column="45" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="412" column="93" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="435" column="94" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="491" column="57" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_schedule_steps.py" />
-      <jump line="26" column="51" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_schedule_steps.py" />
-      <jump line="25" column="86" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="124" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="186" column="42" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="348" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" />
-      <jump line="345" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" />
-      <jump line="335" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" />
-      <jump line="327" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" />
-      <jump line="330" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" />
-      <jump line="36" column="19" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
-      <jump line="17" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" />
@@ -326,6 +305,29 @@
       <jump line="336" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="385" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="386" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="10" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="13" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="14" column="49" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="39" column="72" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="48" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="50" column="66" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" />
+      <jump line="396" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="397" column="31" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="122" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="123" column="56" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="127" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="148" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="211" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="213" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="219" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="220" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
+      <jump line="426" column="44" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="337" column="62" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="421" column="58" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -335,7 +337,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbXBfaWRcPg==</text>
+        <text encoding="base64">XDxpc19zd2l0Y2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -372,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbXBfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxpc19zd2l0Y2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbXBfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc19zd2l0Y2hcPg==</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -382,12 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>weekl</entry>
-        <entry>_weekly</entry>
-        <entry encoding="base64">XDxzaGlmdF90ZW1wbGF0ZVw+</entry>
-        <entry>on(EmployeeWeeklyViewPage)</entry>
-        <entry>assign_</entry>
         <entry>assign_emp</entry>
         <entry>responsewi</entry>
         <entry>ResponseWid</entry>
@@ -402,6 +398,12 @@
         <entry>AuditLog</entry>
         <entry>assign_shift</entry>
         <entry encoding="base64">XDxlbXBfaWRcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxlbXBcPg==</entry>
+        <entry>super_shift</entry>
+        <entry encoding="base64">XDxhc3NpZ25fdGhpc19lbXBcPg==</entry>
+        <entry>v1shift</entry>
+        <entry encoding="base64">XDxpc19zd2l0Y2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
