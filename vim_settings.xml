@@ -100,8 +100,8 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505323765922">
-        <mark key="'" line="968" column="32" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505326625420">
+        <mark key="'" line="386" column="25" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505325456007">
+      <file name="/Dummy.txt" timestamp="1505326900560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -226,9 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="93" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="196" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
-      <jump line="257" column="88" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="259" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="407" column="45" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
       <jump line="412" column="93" filename="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" />
@@ -326,6 +323,9 @@
       <jump line="2602" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2893" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2907" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="336" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="385" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="386" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -335,7 +335,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>assign_shift</text>
+        <text encoding="base64">XDxlbXBfaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -372,9 +372,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assign_shift</last-search>
+      <last-search encoding="base64">XDxlbXBfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern>assign_shift</last-pattern>
+      <last-pattern encoding="base64">XDxlbXBfaWRcPg==</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -382,7 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locati</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>weekl</entry>
         <entry>_weekly</entry>
@@ -402,6 +401,7 @@
         <entry>cls.g</entry>
         <entry>AuditLog</entry>
         <entry>assign_shift</entry>
+        <entry encoding="base64">XDxlbXBfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
