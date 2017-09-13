@@ -88,7 +88,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505310400293">
+      <file name="/Dummy.txt" timestamp="1505318006552">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -103,6 +103,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/javascript/emp_shift_finder.js" timestamp="1505318005775" />
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505242810731">
         <mark key="'" line="68" column="7" />
         <mark key="[" line="47" column="0" />
