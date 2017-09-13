@@ -13,6 +13,9 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="88" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505323934474">
+        <mark key="'" line="2494" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
         <mark key="]" line="75" column="86" />
@@ -128,6 +131,7 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/bazmanobject.py" timestamp="1505324446924" />
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
         <mark key="[" line="211" column="17" />
@@ -152,7 +156,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505323767653">
+      <file name="/Dummy.txt" timestamp="1505323936656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -222,11 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="964" column="33" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="15" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="942" column="31" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="96" column="83" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
-      <jump line="109" column="109" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="125" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="126" column="61" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="127" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
@@ -322,6 +321,11 @@
       <jump line="26" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" />
       <jump line="7" column="5" filename="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" />
       <jump line="968" column="32" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="658" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2480" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2484" column="40" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="2494" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -331,7 +335,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>assign_shift</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -368,9 +372,9 @@
       </register>
     </registers>
     <search>
-      <last-search>assign_shift</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>assign_shift</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -378,9 +382,6 @@
     </search>
     <history>
       <history-search>
-        <entry>posi</entry>
-        <entry>super)</entry>
-        <entry>super_</entry>
         <entry>shift_types</entry>
         <entry>positio</entry>
         <entry>first</entry>
@@ -398,6 +399,9 @@
         <entry encoding="base64">XDxNZXNzYWdlUG9wdXBXaWRnZXRcPg==</entry>
         <entry>assign_shi</entry>
         <entry>assign_shift</entry>
+        <entry>validateid</entry>
+        <entry>validateID</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
