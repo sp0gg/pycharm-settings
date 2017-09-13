@@ -68,8 +68,8 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/ecmascript6/copy_to_schedule/views/copy.js" timestamp="1505225915589">
         <mark key="[" line="50" column="97" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505247616801">
-        <mark key="'" line="1455" column="24" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505308779100">
+        <mark key="'" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505246176300">
         <mark key="'" line="0" column="0" />
@@ -88,7 +88,7 @@
       <file name="/dummy.sql" timestamp="1505150156230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505305249412">
+      <file name="/Dummy.txt" timestamp="1505308823897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -115,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="123" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" />
       <jump line="103" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="104" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
@@ -215,6 +214,7 @@
       <jump line="27" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -224,7 +224,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>on(EmployeeWeeklyViewPage)</text>
+        <text>assign_shift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -261,9 +261,9 @@
       </register>
     </registers>
     <search>
-      <last-search>on(EmployeeWeeklyViewPage)</last-search>
+      <last-search>assign_shift</last-search>
       <last-offset />
-      <last-pattern>on(EmployeeWeeklyViewPage)</last-pattern>
+      <last-pattern>assign_shift</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -271,7 +271,6 @@
     </search>
     <history>
       <history-search>
-        <entry>use_short_co</entry>
         <entry>call_thi</entry>
         <entry encoding="base64">XDxBbmRcPg==</entry>
         <entry>#</entry>
@@ -291,6 +290,7 @@
         <entry>_weekly</entry>
         <entry encoding="base64">XDxzaGlmdF90ZW1wbGF0ZVw+</entry>
         <entry>on(EmployeeWeeklyViewPage)</entry>
+        <entry>assign_shift</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
