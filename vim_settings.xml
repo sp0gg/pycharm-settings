@@ -12,8 +12,8 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505390384675">
-        <mark key="'" line="3348" column="8" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505391395746">
+        <mark key="'" line="3371" column="26" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
@@ -231,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="50" column="4" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="35" column="35" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" />
@@ -331,6 +329,8 @@
       <jump line="3345" column="30" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3348" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3364" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="3371" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="577" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -340,7 +340,7 @@
         <text>Sunday</text>
       </register>
       <register name="/" type="4">
-        <text>borrowed_user_from</text>
+        <text encoding="base64">XDxib3Jyb3dlZF9vcmdfdG9fdXNlcl9kaWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -377,17 +377,16 @@
       </register>
     </registers>
     <search>
-      <last-search>borrowed_user_from</last-search>
+      <last-search encoding="base64">XDxib3Jyb3dlZF9vcmdfdG9fdXNlcl9kaWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>borrowed_user_from</last-pattern>
+      <last-pattern encoding="base64">XDxib3Jyb3dlZF9vcmdfdG9fdXNlcl9kaWN0XD4=</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validateid</entry>
         <entry>validateID</entry>
         <entry>validate</entry>
         <entry>def g</entry>
@@ -407,6 +406,7 @@
         <entry>borrowed_ident</entry>
         <entry>borrowed_user_</entry>
         <entry>borrowed_user_from</entry>
+        <entry encoding="base64">XDxib3Jyb3dlZF9vcmdfdG9fdXNlcl9kaWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
