@@ -12,8 +12,8 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505392861229">
-        <mark key="'" line="1642" column="190" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1505393011235">
+        <mark key="'" line="3815" column="37" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
@@ -321,6 +321,9 @@
       <jump line="101" column="55" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1702" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" />
       <jump line="962" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="388" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1623" column="87" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="1642" column="190" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3803" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3804" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3806" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
@@ -328,9 +331,6 @@
       <jump line="3810" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3812" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3815" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="388" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1623" column="87" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1642" column="190" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
