@@ -22,6 +22,9 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" timestamp="1505763573379">
+        <mark key="'" line="147" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/phone_number.py" timestamp="1504874741564">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="15" />
@@ -248,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2494" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="658" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="746" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="842" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="870" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="886" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
@@ -348,6 +348,9 @@
       <jump line="3810" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3812" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3815" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="144" column="17" filename="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" />
+      <jump line="129" column="8" filename="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" />
+      <jump line="147" column="2" filename="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -357,7 +360,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>job_code</text>
+        <text>fluentdvol</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
@@ -404,9 +407,9 @@ from flufl.enum import Enum</text>
       </register>
     </registers>
     <search>
-      <last-search>job_code</last-search>
+      <last-search>fluentdvol</last-search>
       <last-offset />
-      <last-pattern>job_code</last-pattern>
+      <last-pattern>fluentdvol</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +417,6 @@ from flufl.enum import Enum</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NpZ25fdGhpc19lbXBcPg==</entry>
         <entry>v1shift</entry>
         <entry encoding="base64">XDxpc19zd2l0Y2hcPg==</entry>
         <entry>assign</entry>
@@ -434,6 +436,7 @@ from flufl.enum import Enum</text>
         <entry>expired</entry>
         <entry>non_expired</entry>
         <entry>job_code</entry>
+        <entry>fluentdvol</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
