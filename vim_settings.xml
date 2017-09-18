@@ -161,11 +161,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505737368425">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505738793467">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504874647223">
         <mark key="'" line="942" column="31" />
@@ -342,7 +342,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Sunday</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>job_code</text>
@@ -354,28 +354,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgICAgICAgIHRoaXMgaXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cHViX3N1Yl9sb2dnZXIgPSBsb2dnZy5nZXRMb2dnZXIoJ2Jhem1hbi5wdWJfc3ViJykK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">aXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
+        <text>rom collections import defaultdict
+from bazman.model.base_model import BaseModel
+import logging
+from datetime import datetime, timedelta
+from turbogears.database import PackageHub
+from psycopg2 import DatabaseError
+
+from bazman.util.encoding import unicode_string_to_ascii_for_kid_template
+from bazman.util.soperiod import PeriodCol
+from bazman.model.v2shift import V2Shift
+from flufl.enum import Enum</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGNhbGxvZmZfcXJ5ID0gIiIiCiAgICAgICAgc2VsZWN0ICBjby5pZCwgY28uY3JlYXRlZGRhdGUsIGNvLm1vZGlmaWVkZGF0ZSwgY28uZmlsbGluX2RhdGUsIGNvLnJlY29yZGVkX2RhdGUsIGNvLmVtcGxveWVlX2lkLCBjby5tZXNzYWdlX2lkLCBjby50aW1lX29mZl90eXBlX2lkLAogICAgICAgIGNvYWxlc2NlKGNvLm5vdGUsJycpIGFzIG5vdGUsIGNvLnNoaWZ0X3R5cGVfaWQsIGNvLmxvY2F0aW9uX2lkLCBjby5zaGlmdF90aW1lX3RlbXBsYXRlX2lkLCBjby5zaGlmdF9qb2JfY29kZV9zdGFuZGFyZF9pZCwKICAgICAgICBmaXJzdChjby5zaGlmdF90aW1lX3BlcmlvZCk6OnRpbWVzdGFtcCB3aXRob3V0IHRpbWUgem9uZSBhcyBzaGlmdF9zdGFydF90aW1lLAogICAgICAgIG5leHQoY28uc2hpZnRfdGltZV9wZXJpb2QpOjp0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUgYXMgc2hpZnRfc3RvcF90aW1lLAogICAgICAgIGNvLnYyb3JnYW5pemF0aW9uX2lkLCBjby5zaGlmdF9zdGFydF9kYXksCiAgICAgICAgY28uZmlsbGluX2VtcGxveWVlX2lkLAogICAgICAgIHN0Lm5hbWUgYXMgc2hpZnRfdHlwZV9kaXNwbGF5X25hbWUsCiAgICAgICAgbG9jLm5hbWUgYXMgbG9jYXRpb25fZGlzcGxheV9uYW1lLAogICAgICAgIHN0dC5uYW1lIGFzIHNoaWZ0X2Rpc3BsYXlfbmFtZSwKICAgICAgICB0Z3UuZmlyc3RfbmFtZSwKICAgICAgICB0Z3UubGFzdF9uYW1lLAogICAgICAgIHRndS50aXRsZSwKICAgICAgICB0Z3UudXNlcl9uYW1lCiAgICAgICAgZnJvbSBjYWxsb2ZmIGNvCiAgICAgICAgam9pbiBzaGlmdF90eXBlIHN0IG9uIGNvLnNoaWZ0X3R5cGVfaWQgPSBzdC5pZAogICAgICAgIGpvaW4gbG9jYXRpb24gbG9jIG9uIGNvLmxvY2F0aW9uX2lkID0gbG9jLmlkCiAgICAgICAgam9pbiBzaGlmdF90aW1lX3RlbXBsYXRlIHN0dCBvbiBjby5zaGlmdF90aW1lX3RlbXBsYXRlX2lkID0gc3R0LmlkCiAgICAgICAgam9pbiB0Z191c2VyIHRndSBvbiBjby5lbXBsb3llZV9pZCA9IHRndS5pZAogICAgIiIi</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRheV9vZl93ZWVrX3RvX2luZGV4ID0geydTdW5kYXknOiAwLCAnTW9uZGF5JzogMSwgJ1R1ZXNkYXknOiAyLCAnV2VkbmVzZGF5JzogMywgJ1RodXJzZGF5JzogNCwgJ0ZyaWRheSc6IDUsICdTYXR1cmRheSc6IDZ9Cg==</text>
+        <text encoding="base64">ZnJvbSBmbHVmbC5lbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QW5kIEkgYXNzaWduIHRoZSBzaGlmdCB1c2luZyB0aGUgZm9sbG93aW5nIHZhbHVlczoK</text>
+        <text encoding="base64">CiMgICAgICAgIHRoaXMgaXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFuZCBJIHNldCB0aGUgZm9sbG93aW5nIHZhbHVlcyBvbiB0aGUgYXNzaWdubWVudCBkaWFsb2c6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">aXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNoaWZ0X3RlbXBsYXRlLmNvcHlfdG9fc2NoZWR1bGUoc3RhcnRfZGF0ZSwgdXNlciwgdjJvcmcsIGFjdGl2ZT1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
