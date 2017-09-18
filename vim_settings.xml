@@ -47,6 +47,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/static/ecmascript6/department_visibility_popup.js" timestamp="1505759194902">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" timestamp="1505226517675">
         <mark key="'" line="330" column="0" />
       </file>
@@ -70,6 +76,12 @@
         <mark key="]" line="57" column="122" />
         <mark key="^" line="57" column="122" />
         <mark key="." line="57" column="122" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/static/Dockerfile" timestamp="1505758720074">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505246388356">
         <mark key="'" line="0" column="3" />
@@ -155,7 +167,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505737262387">
+      <file name="/Dummy.txt" timestamp="1505759687844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -339,10 +351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGFzZCA9IDE7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>job_code</text>
@@ -351,12 +363,15 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGFzZCA9IDE7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">cHViX3N1Yl9sb2dnZXIgPSBsb2dnZy5nZXRMb2dnZXIoJ2Jhem1hbi5wdWJfc3ViJykK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>rom collections import defaultdict
 from bazman.model.base_model import BaseModel
 import logging
@@ -369,23 +384,20 @@ from bazman.util.soperiod import PeriodCol
 from bazman.model.v2shift import V2Shift
 from flufl.enum import Enum</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGNhbGxvZmZfcXJ5ID0gIiIiCiAgICAgICAgc2VsZWN0ICBjby5pZCwgY28uY3JlYXRlZGRhdGUsIGNvLm1vZGlmaWVkZGF0ZSwgY28uZmlsbGluX2RhdGUsIGNvLnJlY29yZGVkX2RhdGUsIGNvLmVtcGxveWVlX2lkLCBjby5tZXNzYWdlX2lkLCBjby50aW1lX29mZl90eXBlX2lkLAogICAgICAgIGNvYWxlc2NlKGNvLm5vdGUsJycpIGFzIG5vdGUsIGNvLnNoaWZ0X3R5cGVfaWQsIGNvLmxvY2F0aW9uX2lkLCBjby5zaGlmdF90aW1lX3RlbXBsYXRlX2lkLCBjby5zaGlmdF9qb2JfY29kZV9zdGFuZGFyZF9pZCwKICAgICAgICBmaXJzdChjby5zaGlmdF90aW1lX3BlcmlvZCk6OnRpbWVzdGFtcCB3aXRob3V0IHRpbWUgem9uZSBhcyBzaGlmdF9zdGFydF90aW1lLAogICAgICAgIG5leHQoY28uc2hpZnRfdGltZV9wZXJpb2QpOjp0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUgYXMgc2hpZnRfc3RvcF90aW1lLAogICAgICAgIGNvLnYyb3JnYW5pemF0aW9uX2lkLCBjby5zaGlmdF9zdGFydF9kYXksCiAgICAgICAgY28uZmlsbGluX2VtcGxveWVlX2lkLAogICAgICAgIHN0Lm5hbWUgYXMgc2hpZnRfdHlwZV9kaXNwbGF5X25hbWUsCiAgICAgICAgbG9jLm5hbWUgYXMgbG9jYXRpb25fZGlzcGxheV9uYW1lLAogICAgICAgIHN0dC5uYW1lIGFzIHNoaWZ0X2Rpc3BsYXlfbmFtZSwKICAgICAgICB0Z3UuZmlyc3RfbmFtZSwKICAgICAgICB0Z3UubGFzdF9uYW1lLAogICAgICAgIHRndS50aXRsZSwKICAgICAgICB0Z3UudXNlcl9uYW1lCiAgICAgICAgZnJvbSBjYWxsb2ZmIGNvCiAgICAgICAgam9pbiBzaGlmdF90eXBlIHN0IG9uIGNvLnNoaWZ0X3R5cGVfaWQgPSBzdC5pZAogICAgICAgIGpvaW4gbG9jYXRpb24gbG9jIG9uIGNvLmxvY2F0aW9uX2lkID0gbG9jLmlkCiAgICAgICAgam9pbiBzaGlmdF90aW1lX3RlbXBsYXRlIHN0dCBvbiBjby5zaGlmdF90aW1lX3RlbXBsYXRlX2lkID0gc3R0LmlkCiAgICAgICAgam9pbiB0Z191c2VyIHRndSBvbiBjby5lbXBsb3llZV9pZCA9IHRndS5pZAogICAgIiIi</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBmbHVmbC5lbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiMgICAgICAgIHRoaXMgaXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aXMgd2hlcmUgd2Ugd2lsbCBzZW5kIGEgbWVzc2FnZSBvbiBhbnkgc2hpZnQgYXNzaWdubWVudAojICAgICAgICBub3QgaW1wbGVtZW50ZWQgeWV0LCBzZWUgcGl2b3RhbCBjYXNlIDUzNDkyMTk3CiMgICAgICAgIHRyeToKIyAgICAgICAgICAgIGlmIG5vdCB2MXNoaWZ0LnNoaWZ0X3RlbXBsYXRlIGFuZCBub3QgZXJyb3I6CiMgICAgICAgICAgICAgICAgdjFzaGlmdC5zZW5kX3NoaWZ0X2NoYW5nZV9tZXNzYWdlKGFzc2lnbj1UcnVlLCBlbXA9ZW1wKQojICAgICAgICBleGNlcHQgU1FMT2JqZWN0Tm90Rm91bmQ6CiMgICAgICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
