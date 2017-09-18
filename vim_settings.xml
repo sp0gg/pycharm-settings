@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" timestamp="1505328839173">
@@ -50,7 +50,6 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" timestamp="1505320401317">
         <mark key="'" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/fluentd/overtime_log_service_test.py" timestamp="1505229202997" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1504876983453">
         <mark key="'" line="93" column="34" />
         <mark key="[" line="125" column="19" />
@@ -74,11 +73,15 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
         <mark key="'" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/copy_template_steps.py" timestamp="1505227638285" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505737368425">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504874647223">
         <mark key="'" line="942" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/framework/integration/factories/shift_requirement_factory.py" timestamp="1505236210212" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
         <mark key="'" line="50" column="66" />
       </file>
@@ -136,7 +139,6 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/bazmanobject.py" timestamp="1505324685100" />
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
         <mark key="'" line="144" column="44" />
         <mark key="[" line="211" column="17" />
@@ -157,11 +159,10 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" timestamp="1505320516054">
         <mark key="'" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/model/shift_time_test.py" timestamp="1505230763902" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505490607598">
+      <file name="/Dummy.txt" timestamp="1505737262387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -204,7 +205,6 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/static/javascript/emp_shift_finder.js" timestamp="1505318005775" />
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505242810731">
         <mark key="'" line="68" column="7" />
         <mark key="[" line="47" column="0" />
