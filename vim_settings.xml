@@ -102,7 +102,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1504874647223">
         <mark key="'" line="942" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/Jenkinsfile" timestamp="1505822140623">
+      <file name="$USER_HOME$/projects/OnShift/Jenkinsfile" timestamp="1505828490258">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
@@ -164,7 +164,7 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505822188343">
+      <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
         <mark key="'" line="213" column="1" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1503946738035">
