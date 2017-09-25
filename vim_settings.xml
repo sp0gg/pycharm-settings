@@ -43,6 +43,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1506341692199">
+        <mark key="'" line="373" column="33" />
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="55" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505246388356">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="20" column="45" />
@@ -224,7 +230,6 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" timestamp="1505225151182">
         <mark key="'" line="186" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/landing_page_controllers.py" timestamp="1505995567174" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/hppd.py" timestamp="1505999291799">
         <mark key="'" line="875" column="19" />
         <mark key="[" line="968" column="0" />
@@ -280,7 +285,6 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
-      <file name="/hppd.py" timestamp="1505998051934" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shifttemplate.py" timestamp="1505238114365">
         <mark key="'" line="204" column="52" />
       </file>
@@ -289,18 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1060" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="1991" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2001" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2535" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2564" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2593" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2602" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2893" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="2907" column="20" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="336" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
-      <jump line="385" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
-      <jump line="386" column="25" filename="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" />
       <jump line="5" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="10" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="12" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
@@ -389,25 +381,37 @@
       <jump line="2" column="98" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="8" column="53" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="360" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="358" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="357" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="356" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="355" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="353" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="352" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="377" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="351" column="45" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="350" column="41" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="4" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="373" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbXAgPSBVc2VyU2VydmljZShwcm9maWxlX21hcHBlcj1Vc2VyU2VydmljZU1hcHBlcigpKS5nZXRfZW1wbG95ZWVfYnlfdXNlcl9pZChlbXBfaWQsIHYyb3JnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aXR5LmN1cnJlbnQudXNlci51c2VyX25hbWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+Pj4=</text>
+        <text>#get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbXAgPSBVc2VyU2VydmljZShwcm9maWxlX21hcHBlcj1Vc2VyU2VydmljZU1hcHBlcigpKS5nZXRfZW1wbG95ZWVfYnlfdXNlcl9pZChlbXBfaWQsIHYyb3JnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aXR5LmN1cnJlbnQudXNlci51c2VyX25hbWUpCg==</text>
+        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgYXNzZXJ0X3RoYXQsIGhhc19rZXksIGhhc19sZW5ndGgsIGVxdWFsX3RvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjZDRkN2YxNDhkMGUzMDk4ZDk3ZDM3NTAyYzFlZGUzMTk4ZDE3MDgyCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmOTYxNzk3ZWY2ZGFjOGMzM2Y0MjY3ZGZhYjY3OWM4NGQyMTBkNjU3Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
@@ -416,16 +420,16 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbXAgPSBVc2VyU2VydmljZShwcm9maWxlX21hcHBlcj1Vc2VyU2VydmljZU1hcHBlcigpKS5nZXRfZW1wbG95ZWVfYnlfdXNlcl9pZChlbXBfaWQsIHYyb3JnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aXR5LmN1cnJlbnQudXNlci51c2VyX25hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBjZDRkN2YxNDhkMGUzMDk4ZDk3ZDM3NTAyYzFlZGUzMTk4ZDE3MDgyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -435,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+Pj4=</last-search>
+      <last-search>#get</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+Pj4=</last-pattern>
+      <last-pattern>#get</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -445,12 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v2subscriptions</entry>
-        <entry>v2_non_expired</entry>
-        <entry>v2non_</entry>
-        <entry>expired</entry>
-        <entry>non_expired</entry>
-        <entry>job_code</entry>
         <entry>fluentdvol</entry>
         <entry>bazmandepe</entry>
         <entry>bazmanD</entry>
@@ -462,9 +460,15 @@
         <entry>projected_hours_log</entry>
         <entry>perform</entry>
         <entry>pb2</entry>
-        <entry encoding="base64">Pj4+</entry>
         <entry>HEAD</entry>
         <entry encoding="base64">Pj4+Pj4=</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry encoding="base64">XDxhc3NlcnRfdGhhdFw+</entry>
+        <entry encoding="base64">XDxoYXNfa2V5XD4=</entry>
+        <entry encoding="base64">XDxoYXNfbGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDxoYXNfZW50cmllc1w+</entry>
+        <entry encoding="base64">XDxlcXVhbF90b1w+</entry>
+        <entry>#get</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
