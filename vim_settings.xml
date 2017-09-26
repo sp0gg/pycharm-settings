@@ -66,11 +66,12 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1504871248021">
-        <mark key="[" line="14" column="54" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="54" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1506458056042">
+        <mark key="'" line="394" column="0" />
+        <mark key="[" line="404" column="28" />
+        <mark key="]" line="404" column="39" />
+        <mark key="^" line="404" column="39" />
+        <mark key="." line="404" column="39" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" timestamp="1505320401317">
         <mark key="'" line="26" column="21" />
@@ -205,7 +206,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506457015211">
+      <file name="/Dummy.txt" timestamp="1506458378829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -282,8 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
-      <jump line="13" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="14" column="49" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="39" column="72" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="48" column="36" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
@@ -382,19 +381,21 @@
       <jump line="373" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="35" column="22" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="446" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="298" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
+      <jump line="394" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHdpcAo=</text>
+      <register name="&quot;" type="4">
+        <text>static</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>CNA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
+        <text encoding="base64">Wy90Z193aWRnZXRzXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QHdpcAo=</text>
