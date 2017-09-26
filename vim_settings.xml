@@ -246,10 +246,8 @@
         <mark key="." line="58" column="61" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1506426536393">
-        <mark key="'" line="26" column="14" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="26" column="18" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504714904629">
