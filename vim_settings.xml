@@ -43,6 +43,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1506425651719">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="300" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505246388356">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="20" column="45" />
@@ -389,8 +395,8 @@
       <jump line="373" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -402,28 +408,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgYXNzZXJ0X3RoYXQsIGhhc19rZXksIGhhc19sZW5ndGgsIGVxdWFsX3RvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmOTYxNzk3ZWY2ZGFjOGMzM2Y0MjY3ZGZhYjY3OWM4NGQyMTBkNjU3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbXAgPSBVc2VyU2VydmljZShwcm9maWxlX21hcHBlcj1Vc2VyU2VydmljZU1hcHBlcigpKS5nZXRfZW1wbG95ZWVfYnlfdXNlcl9pZChlbXBfaWQsIHYyb3JnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkZW50aXR5LmN1cnJlbnQudXNlci51c2VyX25hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBjZDRkN2YxNDhkMGUzMDk4ZDk3ZDM3NTAyYzFlZGUzMTk4ZDE3MDgyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
