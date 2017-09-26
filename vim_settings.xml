@@ -43,7 +43,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1506425651719">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" timestamp="1506426212548">
+        <mark key="'" line="446" column="8" />
         <mark key="[" line="300" column="0" />
         <mark key="]" line="300" column="0" />
         <mark key="^" line="9" column="0" />
@@ -244,12 +245,12 @@
         <mark key="^" line="58" column="61" />
         <mark key="." line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1504878970642">
-        <mark key="'" line="28" column="14" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="18" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1506426536393">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="26" column="18" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504714904629">
         <mark key="'" line="13" column="16" />
@@ -293,8 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
-      <jump line="10" column="26" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="12" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="13" column="52" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
       <jump line="14" column="49" filename="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" />
@@ -393,10 +392,12 @@
       <jump line="350" column="41" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="4" column="55" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="373" column="33" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="35" column="22" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
+      <jump line="446" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -408,10 +409,10 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
