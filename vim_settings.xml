@@ -50,12 +50,11 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="300" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1505246388356">
-        <mark key="'" line="0" column="3" />
-        <mark key="[" line="20" column="45" />
-        <mark key="]" line="20" column="50" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="50" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/scheduling/employee_view.feature" timestamp="1506435273776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" timestamp="1505327729385">
         <mark key="'" line="0" column="0" />
@@ -98,11 +97,6 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
         <mark key="'" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/client/python/src/profile_service_client/employment.py" timestamp="1505738585219">
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505738793467">
         <mark key="[" line="3" column="0" />
@@ -171,10 +165,6 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505246176300">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="118" />
-        <mark key="]" line="57" column="122" />
-        <mark key="^" line="57" column="122" />
-        <mark key="." line="57" column="122" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504710199898">
         <mark key="'" line="81" column="12" />
@@ -215,7 +205,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506081755061">
+      <file name="/Dummy.txt" timestamp="1506435270360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -263,12 +253,12 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1505242810731">
-        <mark key="'" line="68" column="7" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="22" />
-        <mark key="^" line="48" column="22" />
-        <mark key="." line="48" column="22" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1506434787077">
+        <mark key="'" line="95" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1505998447052">
         <mark key="'" line="36" column="0" />
@@ -395,52 +385,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>#get</text>
+        <text>CNA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRheV9hc3NpZ25tZW50cyA9IHNlbGYud2Vla2x5X3RhYmxlX2VsZW1lbnQoKS5yb3dfZWxlbWVudHMoKVswXS5kaXZfZWxlbWVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3RlbXBsYXRlX2J1aWxkZXIgaW1wb3J0IFNoaWZ0VGVtcGxhdGVCdWlsZGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hpZnRfdGVtcGxhdGVfYnVpbGRlciA9IFNoaWZ0VGVtcGxhdGVCdWlsZGVyKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBXSVAgZmVhdHVyZSB0ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
       </register>
     </registers>
     <search>
-      <last-search>#get</last-search>
+      <last-search>CNA</last-search>
       <last-offset />
-      <last-pattern>#get</last-pattern>
+      <last-pattern>CNA</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fluentdvol</entry>
         <entry>bazmandepe</entry>
         <entry>bazmanD</entry>
         <entry>BazmanDe</entry>
@@ -468,6 +457,7 @@
         <entry encoding="base64">XDxoYXNfZW50cmllc1w+</entry>
         <entry encoding="base64">XDxlcXVhbF90b1w+</entry>
         <entry>#get</entry>
+        <entry>CNA</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
