@@ -151,11 +151,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506536103236">
-        <mark key="[" line="4" column="74" />
-        <mark key="]" line="4" column="74" />
-        <mark key="." line="4" column="74" />
-        <mark key="^" line="4" column="74" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506537085892">
+        <mark key="[" line="9" column="120" />
+        <mark key="]" line="9" column="126" />
+        <mark key="." line="9" column="126" />
+        <mark key="^" line="9" column="126" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
@@ -215,6 +215,9 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
+      </file>
+      <file name="/dummy.sql" timestamp="1506536709650">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1506515459833">
         <mark key="[" line="0" column="0" />
@@ -279,12 +282,12 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/base_staff_page.py" timestamp="1506515099417" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1506536163987">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1506536304649">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="104" column="12" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-        <mark key="^" line="74" column="35" />
+        <mark key="[" line="107" column="14" />
+        <mark key="]" line="107" column="14" />
+        <mark key="." line="107" column="14" />
+        <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1504803136562">
         <mark key="'" line="16" column="43" />
@@ -416,10 +419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TRUE</text>
+        <text>tg_user</text>
       </register>
       <register name="-" type="4">
-        <text>TRUE</text>
+        <text>tg_user</text>
       </register>
       <register name="/" type="4">
         <text>\[\/</text>
