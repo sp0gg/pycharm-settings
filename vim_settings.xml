@@ -151,11 +151,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506533807766">
-        <mark key="[" line="0" column="102" />
-        <mark key="]" line="0" column="100" />
-        <mark key="." line="0" column="100" />
-        <mark key="^" line="0" column="100" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506536103236">
+        <mark key="[" line="4" column="74" />
+        <mark key="]" line="4" column="74" />
+        <mark key="." line="4" column="74" />
+        <mark key="^" line="4" column="74" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
