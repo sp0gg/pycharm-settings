@@ -99,6 +99,10 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
         <mark key="'" line="13" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-419_add_communication_fields.sql" timestamp="1506533566507">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="89" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505738793467">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -146,6 +150,12 @@
         <mark key="]" line="36" column="4" />
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506533807766">
+        <mark key="[" line="0" column="102" />
+        <mark key="]" line="0" column="100" />
+        <mark key="." line="0" column="100" />
+        <mark key="^" line="0" column="100" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
@@ -283,6 +293,12 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1506533351556">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="48" />
+        <mark key="^" line="15" column="48" />
+        <mark key="." line="15" column="48" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shifttemplate.py" timestamp="1505238114365">
         <mark key="'" line="204" column="52" />
       </file>
@@ -400,16 +416,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiNbL10KI2h0dHBzX2ZpbHRlci5vbiA9IFRydWUKIyBZb3UgY2FuIG9tbWl0IHRoZSBmb2xsb3dpbmcgc2V0dGluZyBpZiB5b3Ugc2V0CiMgYmFzZV91cmxfZmlsdGVyLnVzZV94X2ZvcndhcmRlZF9ob3N0IHRvIFRydWUuIEluIHRoaXMgY2FzZSwgdGhlIEhUVFBTRmlsdGVyCiMgd2lsbCBqdXN0IHVzZSB0aGUgWC1Gb3J3YXJkZWQtSG9zdCBoZWFkZXIgdmFsdWUgc28gdGhlcmUgaXMgbm8gbmVlZCB0byBoYXJkCiMgY29kZSB5b3VyIHVybC4gSWYgeW91IGRvIHNwZWNpZnkgYSB2YWx1ZSBmb3IgaHR0cHNfZmlsdGVyLnNlY3VyZV9iYXNlX3VybCBpdAojIHdpbGwgdGFrZSBwcmVmZXJlbmNlIG92ZXIgdGhlIFgtRm9yd2FyZGVkLUhvc3QgaGVhZGVyLgojIGh0dHBzX2ZpbHRlci5zZWN1cmVfYmFzZV91cmwgPSAiaHR0cHM6Ly9zZWN1cmUuc2l0ZS5leGFtcGxlIgoKW3Rlc3RzXQp2aXJ0dWFsX2Vudl9wYXRoID0gJy9ob21lL3N0YWZma25leC8udmlydHVhbGV2bnMvc3RhZmZrbmV4L2xpYi9weXRob24yLjUvc2l0ZS1wYWNrYWdlcycKcHJvamVjdF9wYXRoID0gJy9ob21lL3N0YWZma25leC9wcm9qZWN0cy9PblNoaWZ0L2Jhem1hbicKClsvc3RhdGljXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9dCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMiCgpbL3RnX3dpZGdldHMvYmF6bWFuXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9lcnJvcnNdCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMvZXJyb3ItcGFnZXMi</text>
+        <text>TRUE</text>
       </register>
       <register name="-" type="4">
-        <text>tg_widgets</text>
+        <text>TRUE</text>
       </register>
       <register name="/" type="4">
         <text>\[\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Wy90Z193aWRnZXRzXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgcHJvZmlsZS5waG9uZSBBREQgQ09MVU1OIGlzX3Nob3J0X2NvZGVfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgVFJVRTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiNbL10KI2h0dHBzX2ZpbHRlci5vbiA9IFRydWUKIyBZb3UgY2FuIG9tbWl0IHRoZSBmb2xsb3dpbmcgc2V0dGluZyBpZiB5b3Ugc2V0CiMgYmFzZV91cmxfZmlsdGVyLnVzZV94X2ZvcndhcmRlZF9ob3N0IHRvIFRydWUuIEluIHRoaXMgY2FzZSwgdGhlIEhUVFBTRmlsdGVyCiMgd2lsbCBqdXN0IHVzZSB0aGUgWC1Gb3J3YXJkZWQtSG9zdCBoZWFkZXIgdmFsdWUgc28gdGhlcmUgaXMgbm8gbmVlZCB0byBoYXJkCiMgY29kZSB5b3VyIHVybC4gSWYgeW91IGRvIHNwZWNpZnkgYSB2YWx1ZSBmb3IgaHR0cHNfZmlsdGVyLnNlY3VyZV9iYXNlX3VybCBpdAojIHdpbGwgdGFrZSBwcmVmZXJlbmNlIG92ZXIgdGhlIFgtRm9yd2FyZGVkLUhvc3QgaGVhZGVyLgojIGh0dHBzX2ZpbHRlci5zZWN1cmVfYmFzZV91cmwgPSAiaHR0cHM6Ly9zZWN1cmUuc2l0ZS5leGFtcGxlIgoKW3Rlc3RzXQp2aXJ0dWFsX2Vudl9wYXRoID0gJy9ob21lL3N0YWZma25leC8udmlydHVhbGV2bnMvc3RhZmZrbmV4L2xpYi9weXRob24yLjUvc2l0ZS1wYWNrYWdlcycKcHJvamVjdF9wYXRoID0gJy9ob21lL3N0YWZma25leC9wcm9qZWN0cy9PblNoaWZ0L2Jhem1hbicKClsvc3RhdGljXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9dCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMiCgpbL3RnX3dpZGdldHMvYmF6bWFuXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9lcnJvcnNdCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMvZXJyb3ItcGFnZXMi</text>
