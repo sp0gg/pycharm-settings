@@ -279,9 +279,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/base_staff_page.py" timestamp="1506515099417" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1505998447052">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="74" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1506536163987">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="104" column="12" />
         <mark key="]" line="74" column="35" />
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
@@ -313,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="123" column="56" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="127" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="148" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
@@ -413,6 +412,7 @@
       <jump line="394" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
       <jump line="398" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" />
+      <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
