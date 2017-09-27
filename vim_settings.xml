@@ -66,12 +66,7 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1506459371193">
-        <mark key="[" line="394" column="0" />
-        <mark key="]" line="400" column="0" />
-        <mark key="." line="400" column="0" />
-        <mark key="^" line="400" column="0" />
-      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1506459371193" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" timestamp="1505320401317">
         <mark key="'" line="26" column="21" />
       </file>
@@ -205,7 +200,7 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506458378829">
+      <file name="/Dummy.txt" timestamp="1506513256253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -239,6 +234,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" timestamp="1506513047904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/mocks/mock_profile_client.py" timestamp="1504714904629">
         <mark key="'" line="13" column="16" />
@@ -277,12 +279,17 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shifttemplate.py" timestamp="1505238114365">
         <mark key="'" line="204" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_page/edit_employee.feature" timestamp="1506513036990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/model/test_hppd.py" timestamp="1505999476084">
         <mark key="'" line="22" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="122" column="8" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="123" column="56" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="127" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
@@ -382,6 +389,7 @@
       <jump line="390" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
       <jump line="394" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
       <jump line="398" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
