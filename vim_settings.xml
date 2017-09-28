@@ -100,6 +100,7 @@
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD_389_profile_model_changes.sql" timestamp="1506612042381" />
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
         <mark key="]" line="20" column="93" />
@@ -125,11 +126,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506611404420">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="0" column="86" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506612215419">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -178,7 +180,7 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506611051920">
+      <file name="/Dummy.txt" timestamp="1506612356571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -265,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
-      <jump line="148" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="211" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="213" column="28" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="219" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
@@ -365,13 +365,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" />
       <jump line="460" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/myaccount_controllers.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
+      <jump line="14" column="32" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURF</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</text>
@@ -503,6 +505,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
