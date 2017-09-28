@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506618830845">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" timestamp="1506081142335">
         <mark key="'" line="147" column="2" />
         <mark key="[" line="149" column="1" />
@@ -84,12 +90,6 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506081702350">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="796" column="0" />
-        <mark key="]" line="796" column="0" />
-        <mark key="." line="796" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/static/javascript/widgets/hppd_day_chart.js" timestamp="1505995167808">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -126,12 +126,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506612723092">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="6" column="86" />
-        <mark key="]" line="6" column="86" />
-        <mark key="." line="6" column="86" />
-        <mark key="^" line="14" column="27" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506618763122">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -168,19 +168,13 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/landing_page.py" timestamp="1505995085056">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/myaccount_controllers.py" timestamp="1506611081861">
         <mark key="'" line="460" column="12" />
       </file>
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506612356571">
+      <file name="/Dummy.txt" timestamp="1506618730111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -253,6 +247,7 @@
         <mark key="." line="547" column="39" />
         <mark key="^" line="547" column="39" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1506533351556">
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="48" />
@@ -369,44 +364,44 @@
       <jump line="14" column="32" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tZm9yZWlnbiBrZXkgcHJvZmlsZV9pZCBhbmQgc2FtZSBvcmdfaWQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RFJPUCBUWVBFCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tZm9yZWlnbiBrZXkgcHJvZmlsZV9pZCBhbmQgc2FtZSBvcmdfaWQ=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIGlzX2Fsd2F5c19mb3J3YXJkX3RvX3Ntc19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">b3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX3Byb2ZpbGVfaWRfZmtleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RFJPUCBUWVBFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgcHJvZmlsZS5wYXlfdHlwZSBBUyBFTlVNKCdFWEVNUFQnLCAnTk9OLUVYRU1QVCcsICdDT05UUkFDVE9SJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkZGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiNbL10KI2h0dHBzX2ZpbHRlci5vbiA9IFRydWUKIyBZb3UgY2FuIG9tbWl0IHRoZSBmb2xsb3dpbmcgc2V0dGluZyBpZiB5b3Ugc2V0CiMgYmFzZV91cmxfZmlsdGVyLnVzZV94X2ZvcndhcmRlZF9ob3N0IHRvIFRydWUuIEluIHRoaXMgY2FzZSwgdGhlIEhUVFBTRmlsdGVyCiMgd2lsbCBqdXN0IHVzZSB0aGUgWC1Gb3J3YXJkZWQtSG9zdCBoZWFkZXIgdmFsdWUgc28gdGhlcmUgaXMgbm8gbmVlZCB0byBoYXJkCiMgY29kZSB5b3VyIHVybC4gSWYgeW91IGRvIHNwZWNpZnkgYSB2YWx1ZSBmb3IgaHR0cHNfZmlsdGVyLnNlY3VyZV9iYXNlX3VybCBpdAojIHdpbGwgdGFrZSBwcmVmZXJlbmNlIG92ZXIgdGhlIFgtRm9yd2FyZGVkLUhvc3QgaGVhZGVyLgojIGh0dHBzX2ZpbHRlci5zZWN1cmVfYmFzZV91cmwgPSAiaHR0cHM6Ly9zZWN1cmUuc2l0ZS5leGFtcGxlIgoKW3Rlc3RzXQp2aXJ0dWFsX2Vudl9wYXRoID0gJy9ob21lL3N0YWZma25leC8udmlydHVhbGV2bnMvc3RhZmZrbmV4L2xpYi9weXRob24yLjUvc2l0ZS1wYWNrYWdlcycKcHJvamVjdF9wYXRoID0gJy9ob21lL3N0YWZma25leC9wcm9qZWN0cy9PblNoaWZ0L2Jhem1hbicKClsvc3RhdGljXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9dCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMiCgpbL3RnX3dpZGdldHMvYmF6bWFuXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9lcnJvcnNdCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMvZXJyb3ItcGFnZXMi</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHdpcAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3RlbXBsYXRlX2J1aWxkZXIgaW1wb3J0IFNoaWZ0VGVtcGxhdGVCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hpZnRfdGVtcGxhdGVfYnVpbGRlciA9IFNoaWZ0VGVtcGxhdGVCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBXSVAgZmVhdHVyZSB0ZXN0Cg==</text>
+        <text encoding="base64">IHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
