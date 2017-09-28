@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506618830845">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="26" column="1" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506620007101">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="10" column="59" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" timestamp="1506081142335">
         <mark key="'" line="147" column="2" />
@@ -365,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RFJPUCBUWVBFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -377,31 +377,31 @@
         <text encoding="base64">b3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX3Byb2ZpbGVfaWRfZmtleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RFJPUCBUWVBFCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q1JFQVRFIFRZUEUgcHJvZmlsZS5wYXlfdHlwZSBBUyBFTlVNKCdFWEVNUFQnLCAnTk9OLUVYRU1QVCcsICdDT05UUkFDVE9SJyk7Cg==</text>
+        <text encoding="base64">Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudAotLSBBREQgQ09OU1RSQUlOVCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9zY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfcHJvZmlsZV9pZF9ma2V5Ci0tIEZPUkVJR04gS0VZIChzY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfaWQpCi0tIFJFRkVSRU5DRVMgcHJvZmlsZS5wcm9maWxlKGlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsK</text>
+        <text encoding="base64">CgotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBzY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfaWQ7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIGhvdXJfdGhyZXNob2xkX292ZXJyaWRlX2hvdXJzIE5VTUVSSUMoNSwyKTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fc21zX2VuYWJsZWQgQk9PTEVBTiBOT1QgTlVMTCBERUZBVUxUIEZBTFNFOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBpc19hbHdheXNfZm9yd2FyZF90b19lbWFpbF9lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBpc19zY2hlZHVsZWRfaG91cnNfdXNlZF9mb3JfcmVwb3J0aW5nX2VuYWJsZWQgQk9PTEVBTiBOT1QgTlVMTCBERUZBVUxUIEZBTFNFOwotLUNSRUFURSBUWVBFIHByb2ZpbGUucGF5X3R5cGUgQVMgRU5VTSgnRVhFTVBUJywgJ05PTi1FWEVNUFQnLCAnQ09OVFJBQ1RPUicpOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUuZW1wbG95bWVudCBBREQgQ09MVU1OIGNhcGFjaXR5X2hvdXJzIE5VTUVSSUMoNSwyKTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBwYXlfdHlwZSBwcm9maWxlLnBheV90eXBlIE5PVCBOVUxMIERFRkFVTFQgJ05PTi1FWEVNUFQnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">dXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">dXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">RFJPUCBUWVBFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Q1JFQVRFIFRZUEUgcHJvZmlsZS5wYXlfdHlwZSBBUyBFTlVNKCdFWEVNUFQnLCAnTk9OLUVYRU1QVCcsICdDT05UUkFDVE9SJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQK</text>
+        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
