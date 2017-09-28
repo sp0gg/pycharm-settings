@@ -72,7 +72,6 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" timestamp="1506459371193" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" timestamp="1505320401317">
         <mark key="'" line="26" column="21" />
       </file>
@@ -151,8 +150,8 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506537085892">
-        <mark key="[" line="9" column="120" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506599411066">
+        <mark key="[" line="9" column="127" />
         <mark key="]" line="9" column="126" />
         <mark key="." line="9" column="126" />
         <mark key="^" line="9" column="126" />
@@ -281,7 +280,6 @@
         <mark key="^" line="75" column="22" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/base_staff_page.py" timestamp="1506515099417" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" timestamp="1506536304649">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="107" column="14" />
