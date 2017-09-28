@@ -126,11 +126,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506612215419">
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506612723092">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+        <mark key="[" line="6" column="86" />
+        <mark key="]" line="6" column="86" />
+        <mark key="." line="6" column="86" />
         <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
@@ -370,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURF</text>
+        <text encoding="base64">IC0tZm9yZWlnbiBrZXkgcHJvZmlsZV9pZCBhbmQgc2FtZSBvcmdfaWQ=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9OIERFTEVURSBDQVNDQURF</text>
+        <text encoding="base64">IC0tZm9yZWlnbiBrZXkgcHJvZmlsZV9pZCBhbmQgc2FtZSBvcmdfaWQ=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</text>
