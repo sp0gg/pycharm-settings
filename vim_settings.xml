@@ -125,11 +125,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506599411066">
-        <mark key="[" line="9" column="127" />
-        <mark key="]" line="9" column="126" />
-        <mark key="." line="9" column="126" />
-        <mark key="^" line="9" column="126" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506611404420">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="0" column="86" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
@@ -172,10 +172,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/myaccount_controllers.py" timestamp="1506611081861">
+        <mark key="'" line="460" column="12" />
+      </file>
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506515459833">
+      <file name="/Dummy.txt" timestamp="1506611051920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -262,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="56" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="127" column="9" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="148" column="15" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
       <jump line="211" column="17" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" />
@@ -362,55 +364,56 @@
       <jump line="398" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman-docker.cfg" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" />
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/3834500e-67ed-4621-a668-8325d5686a49/console.sql" />
+      <jump line="460" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/myaccount_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkZGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tg_user</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>\[\/</text>
+        <text encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgcHJvZmlsZS5waG9uZSBBREQgQ09MVU1OIGlzX3Nob3J0X2NvZGVfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgVFJVRTsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIGlzX2Fsd2F5c19mb3J3YXJkX3RvX3Ntc19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkZGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiNbL10KI2h0dHBzX2ZpbHRlci5vbiA9IFRydWUKIyBZb3UgY2FuIG9tbWl0IHRoZSBmb2xsb3dpbmcgc2V0dGluZyBpZiB5b3Ugc2V0CiMgYmFzZV91cmxfZmlsdGVyLnVzZV94X2ZvcndhcmRlZF9ob3N0IHRvIFRydWUuIEluIHRoaXMgY2FzZSwgdGhlIEhUVFBTRmlsdGVyCiMgd2lsbCBqdXN0IHVzZSB0aGUgWC1Gb3J3YXJkZWQtSG9zdCBoZWFkZXIgdmFsdWUgc28gdGhlcmUgaXMgbm8gbmVlZCB0byBoYXJkCiMgY29kZSB5b3VyIHVybC4gSWYgeW91IGRvIHNwZWNpZnkgYSB2YWx1ZSBmb3IgaHR0cHNfZmlsdGVyLnNlY3VyZV9iYXNlX3VybCBpdAojIHdpbGwgdGFrZSBwcmVmZXJlbmNlIG92ZXIgdGhlIFgtRm9yd2FyZGVkLUhvc3QgaGVhZGVyLgojIGh0dHBzX2ZpbHRlci5zZWN1cmVfYmFzZV91cmwgPSAiaHR0cHM6Ly9zZWN1cmUuc2l0ZS5leGFtcGxlIgoKW3Rlc3RzXQp2aXJ0dWFsX2Vudl9wYXRoID0gJy9ob21lL3N0YWZma25leC8udmlydHVhbGV2bnMvc3RhZmZrbmV4L2xpYi9weXRob24yLjUvc2l0ZS1wYWNrYWdlcycKcHJvamVjdF9wYXRoID0gJy9ob21lL3N0YWZma25leC9wcm9qZWN0cy9PblNoaWZ0L2Jhem1hbicKClsvc3RhdGljXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9dCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMiCgpbL3RnX3dpZGdldHMvYmF6bWFuXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9lcnJvcnNdCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMvZXJyb3ItcGFnZXMi</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHdpcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3RlbXBsYXRlX2J1aWxkZXIgaW1wb3J0IFNoaWZ0VGVtcGxhdGVCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkZGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2hpZnRfdGVtcGxhdGVfYnVpbGRlciA9IFNoaWZ0VGVtcGxhdGVCdWlsZGVyKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiNbL10KI2h0dHBzX2ZpbHRlci5vbiA9IFRydWUKIyBZb3UgY2FuIG9tbWl0IHRoZSBmb2xsb3dpbmcgc2V0dGluZyBpZiB5b3Ugc2V0CiMgYmFzZV91cmxfZmlsdGVyLnVzZV94X2ZvcndhcmRlZF9ob3N0IHRvIFRydWUuIEluIHRoaXMgY2FzZSwgdGhlIEhUVFBTRmlsdGVyCiMgd2lsbCBqdXN0IHVzZSB0aGUgWC1Gb3J3YXJkZWQtSG9zdCBoZWFkZXIgdmFsdWUgc28gdGhlcmUgaXMgbm8gbmVlZCB0byBoYXJkCiMgY29kZSB5b3VyIHVybC4gSWYgeW91IGRvIHNwZWNpZnkgYSB2YWx1ZSBmb3IgaHR0cHNfZmlsdGVyLnNlY3VyZV9iYXNlX3VybCBpdAojIHdpbGwgdGFrZSBwcmVmZXJlbmNlIG92ZXIgdGhlIFgtRm9yd2FyZGVkLUhvc3QgaGVhZGVyLgojIGh0dHBzX2ZpbHRlci5zZWN1cmVfYmFzZV91cmwgPSAiaHR0cHM6Ly9zZWN1cmUuc2l0ZS5leGFtcGxlIgoKW3Rlc3RzXQp2aXJ0dWFsX2Vudl9wYXRoID0gJy9ob21lL3N0YWZma25leC8udmlydHVhbGV2bnMvc3RhZmZrbmV4L2xpYi9weXRob24yLjUvc2l0ZS1wYWNrYWdlcycKcHJvamVjdF9wYXRoID0gJy9ob21lL3N0YWZma25leC9wcm9qZWN0cy9PblNoaWZ0L2Jhem1hbicKClsvc3RhdGljXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9dCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMiCgpbL3RnX3dpZGdldHMvYmF6bWFuXQpzdGF0aWNfZmlsdGVyLm9uID0gVHJ1ZQpzdGF0aWNfZmlsdGVyLmRpciA9ICIvc3RhdGljIgoKWy9lcnJvcnNdCnN0YXRpY19maWx0ZXIub24gPSBUcnVlCnN0YXRpY19maWx0ZXIuZGlyID0gIi9zdGF0aWMvZXJyb3ItcGFnZXMi</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBXSVAgZmVhdHVyZSB0ZXN0Cg==</text>
+        <text encoding="base64">QHdpcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24ubmV3X2J1aWxkZXJzLnNoaWZ0X3RlbXBsYXRlX2J1aWxkZXIgaW1wb3J0IFNoaWZ0VGVtcGxhdGVCdWlsZGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">c2hpZnRfdGVtcGxhdGVfYnVpbGRlciA9IFNoaWZ0VGVtcGxhdGVCdWlsZGVyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHdpcAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBXSVAgZmVhdHVyZSB0ZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
       </register>
     </registers>
     <search>
-      <last-search>\[\/</last-search>
+      <last-search encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</last-search>
       <last-offset />
-      <last-pattern>\[\/</last-pattern>
+      <last-pattern encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxocHBkX2RheV9jaGFydF93aWRnZXRcPg==</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>%(</entry>
         <entry>projected_hours_log</entry>
@@ -438,6 +440,7 @@
         <entry>[/]</entry>
         <entry>\[</entry>
         <entry>\[\/</entry>
+        <entry encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
