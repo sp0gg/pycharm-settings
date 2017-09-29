@@ -128,11 +128,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506704478162">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506708543412">
         <mark key="'" line="774" column="38" />
-        <mark key="[" line="791" column="0" />
-        <mark key="]" line="791" column="0" />
-        <mark key="." line="791" column="0" />
+        <mark key="[" line="790" column="0" />
+        <mark key="]" line="790" column="0" />
+        <mark key="." line="790" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-401_user_name_unique.sql" timestamp="1506620815214" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-419_add_communication_fields.sql" timestamp="1506620524416" />
@@ -280,8 +280,8 @@
         <mark key="^" line="58" column="61" />
         <mark key="." line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1506685500558">
-        <mark key="'" line="23" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1506708552449">
+        <mark key="'" line="124" column="12" />
         <mark key="[" line="27" column="36" />
         <mark key="]" line="28" column="18" />
         <mark key="." line="28" column="18" />
@@ -332,6 +332,7 @@
         <mark key="^" line="547" column="39" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506708760078" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1506533351556">
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="48" />
@@ -353,8 +354,6 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506705626562" />
     </filemarks>
     <jumps>
-      <jump line="1478" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
-      <jump line="1504" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="1578" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="1613" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
       <jump line="1638" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
@@ -453,10 +452,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="248" column="8" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="455" column="8" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
+      <jump line="119" column="51" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
+      <jump line="124" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSlVTVElOIHZpZXdpbmcgc3R1ZmYnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -468,28 +469,28 @@
         <text encoding="base64">b3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX3Byb2ZpbGVfaWRfZmtleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnSlVTVElOIHZpZXdpbmcgc3R1ZmYnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX2luZGV4ZXMgV0hFUkUgc2NoZW1hbmFtZSA9ICdwcm9maWxlJyBBTkQgaW5kZXhuYW1lID0gJ3ByZWZlcmVuY2VzX3Byb2ZpbGVfaWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX2luZGV4ZXMgV0hFUkUgc2NoZW1hbmFtZSA9ICdwcm9maWxlJyBBTkQgaW5kZXhuYW1lID0gJ3ByZWZlcmVuY2VzX3Byb2ZpbGVfaWR4Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9tb2RpZmllZF9hdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9jcmVhdGVkX2F0Jyk7Cg==</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9tb2RpZmllZF9hdCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9jcmVhdGVkX2F0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
