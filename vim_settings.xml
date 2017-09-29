@@ -128,11 +128,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506684998829">
-        <mark key="'" line="674" column="4" />
-        <mark key="[" line="796" column="0" />
-        <mark key="]" line="796" column="0" />
-        <mark key="." line="796" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506704478162">
+        <mark key="'" line="774" column="38" />
+        <mark key="[" line="791" column="0" />
+        <mark key="]" line="791" column="0" />
+        <mark key="." line="791" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-401_user_name_unique.sql" timestamp="1506620815214" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-419_add_communication_fields.sql" timestamp="1506620524416" />
@@ -250,7 +250,7 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506691410854">
+      <file name="/Dummy.txt" timestamp="1506704080792">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -350,10 +350,9 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/model/test_hppd.py" timestamp="1505999476084">
         <mark key="'" line="22" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506704877653" />
     </filemarks>
     <jumps>
-      <jump line="358" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
-      <jump line="357" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="356" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="355" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
       <jump line="353" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_user_service.py" />
@@ -452,55 +451,57 @@
       <jump line="28" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="36" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
+      <jump line="721" column="4" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
+      <jump line="774" column="38" filename="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX2luZGV4ZXMgV0hFUkUgc2NoZW1hbmFtZSA9ICdwcm9maWxlJyBBTkQgaW5kZXhuYW1lID0gJ3ByZWZlcmVuY2VzX3Byb2ZpbGVfaWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>def view</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">b3JnYW5pemF0aW9uX2Fzc2lnbm1lbnRfc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX3Byb2ZpbGVfaWRfZmtleQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX2luZGV4ZXMgV0hFUkUgc2NoZW1hbmFtZSA9ICdwcm9maWxlJyBBTkQgaW5kZXhuYW1lID0gJ3ByZWZlcmVuY2VzX3Byb2ZpbGVfaWR4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX2luZGV4ZXMgV0hFUkUgc2NoZW1hbmFtZSA9ICdwcm9maWxlJyBBTkQgaW5kZXhuYW1lID0gJ3ByZWZlcmVuY2VzX3Byb2ZpbGVfaWR4Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9tb2RpZmllZF9hdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9jcmVhdGVkX2F0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9tb2RpZmllZF9hdCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEKICAgICAgICAgICAgICAgICBGUk9NIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VycwogICAgICAgICAgICAgICAgV0hFUkUgZXZlbnRfb2JqZWN0X3NjaGVtYSA9ICdwcm9maWxlJwogICAgICAgICAgICAgICAgICBBTkQgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ3ByZWZlcmVuY2VzJwogICAgICAgICAgICAgICAgICBBTkQgdHJpZ2dlcl9uYW1lID0gJ3ByZWZlcmVuY2VzX3NldF9jcmVhdGVkX2F0Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3R5cGUgV0hFUkUgdHlwdHlwZSA9ICdlJyBBTkQgdHlwbmFtZSA9ICdwYXlfdHlwZScpOwo=</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIEVYSVNUUyAoU0VMRUNUIDEgRlJPTSBwZ19jYXRhbG9nLnBnX3RhYmxlcyBXSEVSRSBzY2hlbWFuYW1lID0gJ3Byb2ZpbGUnIEFORCB0YWJsZW5hbWUgPSAncHJlZmVyZW5jZXMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/on(EmployeeWeeklyViewPage)/page</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>def view</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>def view</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -522,12 +523,12 @@
         <entry>\[</entry>
         <entry>\[\/</entry>
         <entry encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</entry>
-        <entry>view</entry>
-        <entry>def view</entry>
         <entry encoding="base64">ZGVmIA==</entry>
         <entry>save</entry>
         <entry>save_form</entry>
         <entry>mock</entry>
+        <entry>view</entry>
+        <entry>def view</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
