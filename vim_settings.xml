@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" timestamp="1505328839173">
         <mark key="'" line="220" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506620007101">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="10" column="59" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506966315185">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/docker-compose.yml" timestamp="1506081142335">
         <mark key="'" line="147" column="2" />
@@ -174,12 +174,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506954839804">
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506965853771">
         <mark key="'" line="6" column="114" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="119" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="21" column="33" />
+        <mark key="^" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
@@ -246,18 +246,18 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506956121146">
+      <file name="/Dummy.txt" timestamp="1506968592680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/employment.py" timestamp="1506956400801">
+      <file name="$USER_HOME$/projects/profile-service/server/models/employment.py" timestamp="1506968252159">
         <mark key="'" line="19" column="34" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="18" column="73" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="48" />
+        <mark key="^" line="18" column="48" />
+        <mark key="." line="18" column="48" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
         <mark key="'" line="19" column="8" />
@@ -276,12 +276,12 @@
         <mark key="." line="968" column="0" />
         <mark key="^" line="802" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1506956521670">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="16" column="76" />
-        <mark key="^" line="16" column="76" />
-        <mark key="." line="16" column="76" />
+      <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1506968664011">
+        <mark key="'" line="19" column="55" />
+        <mark key="[" line="21" column="71" />
+        <mark key="]" line="21" column="85" />
+        <mark key="." line="21" column="85" />
+        <mark key="^" line="21" column="85" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1505156376531">
         <mark key="'" line="0" column="0" />
@@ -364,8 +364,6 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506705626562" />
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
@@ -464,46 +462,48 @@
       <jump line="8" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
       <jump line="14" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="17" column="55" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="2" column="79" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05PTi1FWEVNUFQnLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3ZlciA9IHJlbGF0aW9uc2hpcCgnRW1wbG95bWVudCcsICkK</text>
       </register>
       <register name="-" type="4">
-        <text>anization</text>
+        <text>sms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29sZWFuXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ClNFTEVDVCBFWElTVFMgKAogICBTRUxFQ1QgMQogICAgIEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMKICAgIFdIRVJFIHRhYmxlX3NjaGVtYSA9ICdwcm9maWxlJwogICAgICBBTkQgdGFibGVfbmFtZSA9ICdvcmdhbml6YXRpb25fYXNzaWdubWVudCcKICAgICAgQU5EIGNvbHVtbl9uYW1lID0gJ2hvdXJfdGhyZXNob2xkX292ZXJyaWRlX2hvdXJzJwogICAgICBBTkQgaXNfbnVsbGFibGUgPSAnWUVTJyk7Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlzX2Fsd2F5c19mb3J3YXJkX3RvX3Ntc19lbmFibGVkID0gQ29sdW1uKEJvb2xlYW4sIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05PTi1FWEVNUFQnLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3ZlciA9IHJlbGF0aW9uc2hpcCgnRW1wbG95bWVudCcsICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3ZlciA9IHJlbGF0aW9uc2hpcCgnRW1wbG95bWVudCcsIGJhY2tfcG9wdWxhdGVkPSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fZW1haWxfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZDsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaG91cl90aHJlc2hvbGRfb3ZlcnJpZGVfaG91cnMgTlVNRVJJQyg1LDIpOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBpc19hbHdheXNfZm9yd2FyZF90b19zbXNfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05PTi1FWEVNUFQnLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKCi0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gaXNfc2NoZWR1bGVkX2hvdXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsKCgoKLS0KLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Ci0tICBBREQgQ09OU1RSQUlOVCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9zY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfcHJvZmlsZV9pZF9ma2V5Ci0tICBGT1JFSUdOIEtFWSAoc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkKQotLSAgUkVGRVJFTkNFUyBwcm9maWxlLnByb2ZpbGUoaWQpOwo=</text>
+        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fZW1haWxfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZDsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaG91cl90aHJlc2hvbGRfb3ZlcnJpZGVfaG91cnMgTlVNRVJJQyg1LDIpOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBpc19hbHdheXNfZm9yd2FyZF90b19zbXNfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
+        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKCi0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gaXNfc2NoZWR1bGVkX2hvdXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsKCgoKLS0KLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Ci0tICBBREQgQ09OU1RSQUlOVCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9zY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfcHJvZmlsZV9pZF9ma2V5Ci0tICBGT1JFSUdOIEtFWSAoc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkKQotLSAgUkVGRVJFTkNFUyBwcm9maWxlLnByb2ZpbGUoaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
