@@ -138,19 +138,15 @@
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-401_user_name_unique.sql" timestamp="1506620815214" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-419_add_communication_fields.sql" timestamp="1506620524416" />
-      <file name="$USER_HOME$/projects/OnShift/static/javascript/widgets/hppd_day_chart.js" timestamp="1505995167808">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/OnShift/Jenkinsfile" timestamp="1505828490258">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD_389_profile_model_changes.sql" timestamp="1506612042381" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
         <mark key="'" line="50" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/models/phone.py" timestamp="1506956084357">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
@@ -167,11 +163,6 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
         <mark key="'" line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" timestamp="1506609541894">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="/Python Console" timestamp="1506951551322">
         <mark key="[" line="0" column="0" />
@@ -255,11 +246,18 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506953048406">
+      <file name="/Dummy.txt" timestamp="1506956121146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/models/employment.py" timestamp="1506956400801">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="25" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/preferences.py" timestamp="1503872824133">
         <mark key="'" line="19" column="8" />
@@ -277,6 +275,13 @@
         <mark key="]" line="968" column="0" />
         <mark key="." line="968" column="0" />
         <mark key="^" line="802" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" timestamp="1506956521670">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="16" column="76" />
+        <mark key="^" line="16" column="76" />
+        <mark key="." line="16" column="76" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/docker/Dockerstart.sh" timestamp="1505156376531">
         <mark key="'" line="0" column="0" />
@@ -337,7 +342,7 @@
         <mark key="^" line="547" column="39" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506708760078" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506955577753" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/sqitch.plan" timestamp="1506533351556">
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="48" />
@@ -359,16 +364,6 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506705626562" />
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="34" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
@@ -459,55 +454,65 @@
       <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="7" column="114" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
+      <jump line="18" column="51" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
+      <jump line="29" column="25" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
+      <jump line="2" column="61" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
+      <jump line="19" column="34" filename="$USER_HOME$/projects/profile-service/server/models/employment.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/profile-service/server/models/organization_assignment.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05PTi1FWEVNUFQnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>anization</text>
       </register>
       <register name="/" type="4">
-        <text>test_update_profile_information</text>
+        <text encoding="base64">XDxCb29sZWFuXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ClNFTEVDVCBFWElTVFMgKAogICBTRUxFQ1QgMQogICAgIEZST00gaW5mb3JtYXRpb25fc2NoZW1hLmNvbHVtbnMKICAgIFdIRVJFIHRhYmxlX3NjaGVtYSA9ICdwcm9maWxlJwogICAgICBBTkQgdGFibGVfbmFtZSA9ICdvcmdhbml6YXRpb25fYXNzaWdubWVudCcKICAgICAgQU5EIGNvbHVtbl9uYW1lID0gJ2hvdXJfdGhyZXNob2xkX292ZXJyaWRlX2hvdXJzJwogICAgICBBTkQgaXNfbnVsbGFibGUgPSAnWUVTJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ05PTi1FWEVNUFQnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fZW1haWxfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZDsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaG91cl90aHJlc2hvbGRfb3ZlcnJpZGVfaG91cnMgTlVNRVJJQyg1LDIpOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBpc19hbHdheXNfZm9yd2FyZF90b19zbXNfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
+        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fZW1haWxfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5vcmdhbml6YXRpb25fYXNzaWdubWVudCBBREQgQ09MVU1OIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZDsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaG91cl90aHJlc2hvbGRfb3ZlcnJpZGVfaG91cnMgTlVNRVJJQyg1LDIpOwotLUFMVEVSIFRBQkxFIHByb2ZpbGUub3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQgQUREIENPTFVNTiBpc19hbHdheXNfZm9yd2FyZF90b19zbXNfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKCi0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gaXNfc2NoZWR1bGVkX2hvdXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsKCgoKLS0KLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Ci0tICBBREQgQ09OU1RSQUlOVCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9zY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfcHJvZmlsZV9pZF9ma2V5Ci0tICBGT1JFSUdOIEtFWSAoc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkKQotLSAgUkVGRVJFTkNFUyBwcm9maWxlLnByb2ZpbGUoaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS1DUkVBVEUgVFlQRSBwcm9maWxlLnBheV90eXBlIEFTIEVOVU0oJ0VYRU1QVCcsICdOT04tRVhFTVBUJywgJ0NPTlRSQUNUT1InKTsKCi0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gaXNfc2NoZWR1bGVkX2hvdXJzX3VzZWRfZm9yX3JlcG9ydGluZ19lbmFibGVkIEJPT0xFQU4gTk9UIE5VTEwgREVGQVVMVCBGQUxTRTsKLS1BTFRFUiBUQUJMRSBwcm9maWxlLmVtcGxveW1lbnQgQUREIENPTFVNTiBjYXBhY2l0eV9ob3VycyBOVU1FUklDKDUsMik7Ci0tQUxURVIgVEFCTEUgcHJvZmlsZS5lbXBsb3ltZW50IEFERCBDT0xVTU4gcGF5X3R5cGUgcHJvZmlsZS5wYXlfdHlwZSBOT1QgTlVMTCBERUZBVUxUICdOT04tRVhFTVBUJzsKCgoKLS0KLS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Ci0tICBBREQgQ09OU1RSQUlOVCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9zY2hlZHVsZV9leGNlcHRpb25fYXBwcm92ZXJfcHJvZmlsZV9pZF9ma2V5Ci0tICBGT1JFSUdOIEtFWSAoc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkKQotLSAgUkVGRVJFTkNFUyBwcm9maWxlLnByb2ZpbGUoaWQpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>test_update_profile_information</last-search>
+      <last-search encoding="base64">XDxCb29sZWFuXD4=</last-search>
       <last-offset />
-      <last-pattern>test_update_profile_information</last-pattern>
+      <last-pattern encoding="base64">XDxCb29sZWFuXD4=</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">Pj4+</entry>
-        <entry encoding="base64">XDxhc3NlcnRfdGhhdFw+</entry>
         <entry encoding="base64">XDxoYXNfa2V5XD4=</entry>
         <entry encoding="base64">XDxoYXNfbGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxoYXNfZW50cmllc1w+</entry>
@@ -535,6 +538,8 @@
         <entry>view</entry>
         <entry>def view</entry>
         <entry>test_update_profile_information</entry>
+        <entry>probab</entry>
+        <entry encoding="base64">XDxCb29sZWFuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
