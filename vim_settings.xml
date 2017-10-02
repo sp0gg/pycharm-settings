@@ -183,12 +183,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506618763122">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" timestamp="1506953673917">
+        <mark key="'" line="7" column="114" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="7" column="119" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
         <mark key="'" line="421" column="58" />
@@ -255,7 +255,7 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506947136868">
+      <file name="/Dummy.txt" timestamp="1506953048406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -359,7 +359,6 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506705626562" />
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="72" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="69" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
       <jump line="67" column="0" filename="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" />
@@ -459,13 +458,14 @@
       <jump line="51" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="66" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" />
+      <jump line="7" column="114" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS1BTFRFUiBUQUJMRSBwcm9maWxlLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50IEFERCBDT0xVTU4gaXNfYWx3YXlzX2ZvcndhcmRfdG9fZW1haWxfZW5hYmxlZCBCT09MRUFOIE5PVCBOVUxMIERFRkFVTFQgRkFMU0U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>anization</text>
       </register>
       <register name="-" type="4">
-        <text>YES</text>
+        <text>anization</text>
       </register>
       <register name="/" type="4">
         <text>test_update_profile_information</text>
