@@ -337,11 +337,12 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507038486288">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507039207180">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="158" column="86" />
+        <mark key="]" line="158" column="114" />
+        <mark key="." line="158" column="114" />
+        <mark key="^" line="158" column="114" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506955577753" />
@@ -371,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD-427_add_advanced_tab_columns.sql" />
       <jump line="19" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_employment_dao.py" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_employment_dao.py" />
       <jump line="25" column="4" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_employment_dao.py" />
@@ -471,10 +470,12 @@
       <jump line="109" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
       <jump line="41" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
       <jump line="46" column="21" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="148" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwob3JnX2Fzc2lnbm1lbnQuc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkLCBwcm9maWxlX3Jlc3VsdC5zY2hlZHVsZV9yb2xlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>schedule_role</text>
       </register>
       <register name="-" type="4">
         <text>schedule_role</text>
