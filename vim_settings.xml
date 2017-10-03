@@ -337,9 +337,9 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507034072786">
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507037963147">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="153" column="72" />
+        <mark key="[" line="157" column="84" />
         <mark key="]" line="153" column="79" />
         <mark key="." line="153" column="79" />
         <mark key="^" line="153" column="79" />
