@@ -344,11 +344,9 @@
         <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507207664232">
-        <mark key="'" line="413" column="0" />
-        <mark key="[" line="451" column="37" />
-        <mark key="]" line="452" column="40" />
-        <mark key="." line="452" column="40" />
-        <mark key="^" line="452" column="40" />
+        <mark key="]" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+        <mark key="^" line="64" column="40" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506955577753" />
