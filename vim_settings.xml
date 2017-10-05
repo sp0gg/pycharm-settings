@@ -139,6 +139,9 @@
         <mark key="]" line="790" column="0" />
         <mark key="." line="790" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/protos/profile.proto" timestamp="1507148593395">
+        <mark key="'" line="62" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-401_user_name_unique.sql" timestamp="1506620815214" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-419_add_communication_fields.sql" timestamp="1506620524416" />
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/deploy/KBD_389_profile_model_changes.sql" timestamp="1506612042381" />
@@ -157,12 +160,9 @@
         <mark key="." line="20" column="93" />
         <mark key="^" line="20" column="91" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1507034047136">
-        <mark key="'" line="46" column="21" />
-        <mark key="[" line="254" column="38" />
-        <mark key="]" line="255" column="31" />
-        <mark key="." line="255" column="31" />
-        <mark key="^" line="255" column="31" />
+      <file name="$USER_HOME$/projects/profile-service/server/daos/profile.py" timestamp="1507148246758">
+        <mark key="'" line="167" column="55" />
+        <mark key="^" line="256" column="31" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
         <mark key="'" line="50" column="0" />
@@ -340,8 +340,12 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507145654163">
-        <mark key="'" line="390" column="28" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507148605470">
+        <mark key="'" line="269" column="63" />
+        <mark key="[" line="489" column="100" />
+        <mark key="]" line="489" column="105" />
+        <mark key="." line="489" column="105" />
+        <mark key="^" line="489" column="105" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD_389_profile_model_changes.sql" timestamp="1506618383368" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/factories/client/profile_client_factory.py" timestamp="1506955577753" />
@@ -371,43 +375,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="355" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="347" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="330" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="328" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="320" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="313" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="305" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="298" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="290" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="283" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="267" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="263" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="255" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="247" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="213" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="206" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="202" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="199" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="194" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="179" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="168" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="165" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="129" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="122" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="119" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="115" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="11" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="30" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="44" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
@@ -468,58 +441,89 @@
       <jump line="21" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="17" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="12" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="19" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="390" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="124" column="21" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="28" column="15" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="461" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="398" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="414" column="8" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="429" column="48" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="413" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="451" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="404" column="49" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="430" column="24" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="62" column="58" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="393" column="13" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="469" column="35" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="478" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="486" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="167" column="55" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
+      <jump line="489" column="67" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="212" column="63" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="227" column="63" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="242" column="63" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="269" column="63" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="21" column="13" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="27" column="8" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="20" column="12" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="53" column="22" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
+      <jump line="62" column="13" filename="$USER_HOME$/projects/profile-service/protos/profile.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>schedule_role</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>schedule_role</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY3JlYXRlX3Byb2ZpbGVfZGF0YVw+</text>
+        <text encoding="base64">XDxQaG9uZU51bWJlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG9yZ19hc3NpZ25tZW50LnNjaGVkdWxlX3JvbGUsIHByb2ZpbGVfcmVzdWx0LnNjaGVkdWxlX3JvbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhZGRyZXNzZXMpLCAyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwob3JnX2Fzc2lnbm1lbnQuc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkLCBwcm9maWxlX3Jlc3VsdC5zY2hlZHVsZV9yb2xlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHByZWZlcmVuY2VzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZCA9IENvbHVtbihVVUlEKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3ZlciA9IHJlbGF0aW9uc2hpcCgnRW1wbG95bWVudCcsIGZvcmVpZ25fa2V5cz1bc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZCA9IENvbHVtbihVVUlELCBGb3JlaWduS2V5KCdwcm9maWxlLmVtcGxveW1lbnQuaWQnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZCA9IENvbHVtbihVVUlELCBGb3JlaWduS2V5KCdwcm9maWxlLmVtcGxveW1lbnQuaWQnKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuYXNzZXJ0RXF1YWwob3JnX2Fzc2lnbm1lbnQuc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkLCBwcm9maWxlX3Jlc3VsdC5zY2hlZHVsZV9yb2xlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVtcGxveW1lbnQgPSByZWxhdGlvbnNoaXAoJ0VtcGxveW1lbnQnLCBiYWNrX3BvcHVsYXRlcz0nb3JnYW5pemF0aW9uX2Fzc2lnbm1lbnQnLCBmb3JlaWduX2tleXM9W2VtcGxveW1lbnRfaWRdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlX3VzZXJfaWQgPSBDb2x1bW4oSW50ZWdlcikK</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3Zlcl9pZCA9IENvbHVtbihVVUlEKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlkCg==</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlX2V4Y2VwdGlvbl9hcHByb3ZlciA9IHJlbGF0aW9uc2hpcCgnRW1wbG95bWVudCcsIGZvcmVpZ25fa2V5cz1bc2NoZWR1bGVfZXhjZXB0aW9uX2FwcHJvdmVyX2lkXSkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY3JlYXRlX3Byb2ZpbGVfZGF0YVw+</last-search>
+      <last-search encoding="base64">XDxQaG9uZU51bWJlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY3JlYXRlX3Byb2ZpbGVfZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxQaG9uZU51bWJlclw+</last-pattern>
       <last-replace>page</last-replace>
       <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
       <last-dir>1</last-dir>
@@ -527,17 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcXVhbF90b1w+</entry>
-        <entry>#get</entry>
-        <entry>CNA</entry>
-        <entry>react</entry>
-        <entry>[/]</entry>
-        <entry>\[</entry>
-        <entry>\[\/</entry>
-        <entry encoding="base64">XDxhbHdheXNfZm9yd2FyZF9yZXNwb25zZXNfdG9fc21zXD4=</entry>
-        <entry encoding="base64">ZGVmIA==</entry>
-        <entry>save</entry>
-        <entry>save_form</entry>
         <entry>mock</entry>
         <entry>view</entry>
         <entry>def view</entry>
@@ -546,7 +539,18 @@
         <entry encoding="base64">XDxCb29sZWFuXD4=</entry>
         <entry>def</entry>
         <entry>_get_profile</entry>
+        <entry>phone</entry>
+        <entry>Phone</entry>
         <entry encoding="base64">XDxfY3JlYXRlX3Byb2ZpbGVfZGF0YVw+</entry>
+        <entry>short</entry>
+        <entry encoding="base64">XDxfYXNzZXJ0X3Byb2ZpbGVfZmllbGRzX3VwZGF0ZWRcPg==</entry>
+        <entry>destina</entry>
+        <entry encoding="base64">XDxjYWxsX2Rlc3RpbmF0aW9uXD4=</entry>
+        <entry>destin</entry>
+        <entry>.Valu</entry>
+        <entry>.Name</entry>
+        <entry encoding="base64">XDxQaG9uZVR5cGVcPg==</entry>
+        <entry encoding="base64">XDxQaG9uZU51bWJlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
