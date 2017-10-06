@@ -124,12 +124,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507316336318">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="51" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507317228642">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="51" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/joe-docker-compose.yml" timestamp="1507145424167">
         <mark key="'" line="0" column="0" />
@@ -165,12 +165,11 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507315244949">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="36" />
-        <mark key="." line="130" column="36" />
-        <mark key="^" line="130" column="36" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507317675826">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="123" column="46" />
+        <mark key="]" line="123" column="46" />
+        <mark key="." line="123" column="46" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
@@ -246,12 +245,12 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose.yml" timestamp="1506971412232">
         <mark key="[" line="15" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" timestamp="1507305530165">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="42" />
-        <mark key="^" line="29" column="93" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" timestamp="1507317518482">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
         <mark key="'" line="213" column="1" />
@@ -383,12 +382,12 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507315120022">
-        <mark key="'" line="368" column="41" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507317601322">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="51" />
-        <mark key="." line="3" column="51" />
-        <mark key="^" line="477" column="68" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="49" />
+        <mark key="^" line="3" column="49" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/daos/employment.py" timestamp="1507292682247">
         <mark key="'" line="23" column="0" />
@@ -423,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="194" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="183" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="179" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
@@ -523,13 +521,14 @@
       <jump line="109" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="103" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVtcGxveW1lbnRfcGIyLCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9wYjI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>commit</text>
@@ -538,31 +537,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZVsnbWVzc2FnZSddKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLnF1ZXJ5KEVtcGxveW1lbnQpLmNvdW50KCksIGVxdWFsX3RvKDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLnF1ZXJ5KFByb2ZpbGUpLmNvdW50KCksIGVxdWFsX3RvKDApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
