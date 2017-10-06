@@ -124,11 +124,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507306152353">
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="15" />
+      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507307024285">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/joe-docker-compose.yml" timestamp="1507145424167">
         <mark key="'" line="0" column="0" />
@@ -164,12 +164,12 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507306962280">
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507309463388">
         <mark key="'" line="120" column="25" />
-        <mark key="[" line="141" column="31" />
-        <mark key="]" line="141" column="31" />
-        <mark key="." line="141" column="31" />
-        <mark key="^" line="141" column="31" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="74" column="29" />
+        <mark key="." line="74" column="29" />
+        <mark key="^" line="74" column="29" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
@@ -524,8 +524,8 @@
       <jump line="120" column="25" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -537,31 +537,31 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLnF1ZXJ5KFByb2ZpbGUpLmNvdW50KCksIGVxdWFsX3RvKDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLmV4ZWN1dGUoJ1NFTEVDVCBjb3VudCgqKSBGUk9NIGVtcGxveW1lbnQnKS5mZXRjaG9uZSgpWzBdLCBlcXVhbF90bygwKSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLmV4ZWN1dGUoJ1NFTEVDVCBjb3VudCgqKSBGUk9NIHByb2ZpbGUnKS5mZXRjaG9uZSgpWzBdLCBlcXVhbF90bygwKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLmV4ZWN1dGUoJ1NFTEVDVCBjb3VudCgqKSBGUk9NIGVtcGxveW1lbnQnKS5mZXRjaG9uZSgpWzBdLCBlcXVhbF90bygwKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChzZWxmLl9zZXNzaW9uLmV4ZWN1dGUoJ1NFTEVDVCBjb3VudCgqKSBGUk9NIHByb2ZpbGUnKS5mZXRjaG9uZSgpWzBdLCBlcXVhbF90bygwKSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZ2FuaXphdGlvbl9pZD1vcmcuaWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYWluX2lkPWNoYWluLmlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZ2FuaXphdGlvbl9pZD1vcmcuaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZVsnbWVzc2FnZSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYWluX2lkPWNoYWluLmlkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHJlbW92ZSBwcmludCBiZWxvdwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZVsnbWVzc2FnZSddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
