@@ -124,11 +124,11 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507293853778">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507298759509">
+        <mark key="[" line="30" column="77" />
+        <mark key="]" line="31" column="83" />
+        <mark key="." line="31" column="83" />
+        <mark key="^" line="31" column="83" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/joe-docker-compose.yml" timestamp="1507145424167">
         <mark key="'" line="0" column="0" />
@@ -139,8 +139,21 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506708543412">
+        <mark key="'" line="774" column="38" />
+        <mark key="[" line="790" column="0" />
+        <mark key="]" line="790" column="0" />
+        <mark key="." line="790" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/protos/profile.proto" timestamp="1507148593395">
         <mark key="'" line="62" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/requirements.pip" timestamp="1507296464636">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
         <mark key="'" line="50" column="66" />
@@ -151,10 +164,10 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507293655529">
-        <mark key="'" line="85" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="32" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507295576520">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="97" column="9" />
         <mark key="." line="92" column="32" />
         <mark key="^" line="92" column="32" />
       </file>
@@ -173,6 +186,12 @@
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
         <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" timestamp="1507296391375">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Python Console" timestamp="1506951551322">
         <mark key="[" line="0" column="0" />
@@ -226,6 +245,12 @@
       <file name="$USER_HOME$/projects/profile-service/docker-compose.yml" timestamp="1506971412232">
         <mark key="[" line="15" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" timestamp="1507298701901">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="128" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="29" column="93" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
         <mark key="'" line="213" column="1" />
       </file>
@@ -246,6 +271,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_schedule_steps.py" timestamp="1505225115482">
         <mark key="'" line="26" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/landing_page.py" timestamp="1505995085056">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" timestamp="1505320516054">
         <mark key="'" line="7" column="5" />
       </file>
@@ -255,7 +286,7 @@
       <file name="/dummy.sql" timestamp="1506536709650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506970581411">
+      <file name="/Dummy.txt" timestamp="1507297371216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -389,25 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="14" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="163" column="20" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="258" column="20" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="270" column="20" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="139" column="24" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="161" column="20" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
-      <jump line="19" column="28" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="280" column="30" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="461" column="8" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="490" column="173" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="486" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="478" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="465" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="455" column="8" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="25" column="13" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="393" column="13" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="394" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="398" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="413" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="468" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
@@ -452,7 +464,6 @@
       <jump line="82" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="69" column="9" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="92" column="45" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="0" column="94" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="15" column="61" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="25" column="39" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
       <jump line="17" column="29" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
@@ -488,47 +499,67 @@
       <jump line="87" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="22" column="21" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_employment_dao.py" />
       <jump line="84" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="11" column="46" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" />
+      <jump line="25" column="37" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/requirements.pip" />
+      <jump line="24" column="8" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="17" column="45" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
+      <jump line="27" column="88" filename="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmYWN0b3JpZXMuY2hhaW5fZmFjdG9yeSBpbXBvcnQgQ2hhaW5GYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdkYW9zLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Lk9yZ2FuaXphdGlvbkFzc2lnbm1lbnREQU8uY3JlYXRlJywgcmV0dXJuX3ZhbHVlPW1vY2suTWFnaWNNb2NrKGlkPSJnb19sZW9fd2Vsc2giKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>flush</text>
+        <text>jackets</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGFpbkZhY3RvcnlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBmYWN0b3JpZXMuY2hhaW5fZmFjdG9yeSBpbXBvcnQgQ2hhaW5GYWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChlbXBsb3ltZW50X2Rhb19tb2NrLmNhbGxfYXJnc1swXVswXS5wcm9maWxlX2lkLCBlcXVhbF90bygnZ29famFja2V0cycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdkYW9zLm9yZ2FuaXphdGlvbl9hc3NpZ25tZW50Lk9yZ2FuaXphdGlvbkFzc2lnbm1lbnREQU8uY3JlYXRlJywgcmV0dXJuX3ZhbHVlPW1vY2suTWFnaWNNb2NrKGlkPSJnb19sZW9fd2Vsc2giKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdkYW9zLnByb2ZpbGUuUHJvZmlsZURBTy5jcmVhdGUnLCByZXR1cm5fdmFsdWU9bW9jay5NYWdpY01vY2soaWQ9ImdvX2phY2tldHMiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVtcGxveW1lbnRfcmVxdWVzdC5wcm9maWxlXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZ19hc3NpZ25tZW50X2RhbyA9IE9yZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkPSdzdXAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdCBpbXBvcnQgbW9jaywgVGVzdENhc2UK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByZWZlcmVuY2VzID0gUHJlZmVyZW5jZXMocHJvZmlsZV9pZD1wcm9maWxlLmlkLCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRfdGhhdChlbXBsb3ltZW50X2Rhb19tb2NrLmNhbGxfYXJncy5wcm9maWxlX2lkLCBlcXVhbF90bygnZ29famFja2V0cycpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGxfZGVzdCA9IHByb2ZpbGVfcGIyLlByb2ZpbGVPYmplY3QuUGhvbmVOdW1iZXIuUGhvbmVUeXBlLk5hbWUocHJlZmVyZW5jZXNfcmVxdWVzdC5jYWxsX2Rlc3RpbmF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgIGltcG9ydCBpcGRiOyAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByZWZlcmVuY2VzID0gUHJlZmVyZW5jZXMocHJvZmlsZV9pZD1wcm9maWxlLmlkLCBpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQ9cHJlZmVyZW5jZXNfcmVxdWVzdC5pc19jb21tdW5pY2F0aW9uX2VuYWJsZWQsICkK</text>
+        <text encoding="base64">ICAgICMgQG1vY2sucGF0Y2goJ2V4dGVuc2lvbnMuc2Vzc2lvbl9zY29wZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
