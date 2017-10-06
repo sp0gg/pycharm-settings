@@ -124,12 +124,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507314918483">
+      <file name="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" timestamp="1507316336318">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="25" column="15" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="51" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/joe-docker-compose.yml" timestamp="1507145424167">
         <mark key="'" line="0" column="0" />
@@ -525,8 +525,8 @@
       <jump line="94" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGVtcGxveW1lbnRfcGIyLCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9wYjI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGVtcGxveW1lbnRfcGIyLCBvcmdhbml6YXRpb25fYXNzaWdubWVudF9wYjI=</text>
@@ -535,7 +535,7 @@
         <text>commit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzZXJ2ZXIubW9kZWxzLnByb2ZpbGUgaW1wb3J0IFByb2ZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
