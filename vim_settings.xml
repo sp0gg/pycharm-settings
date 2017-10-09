@@ -369,11 +369,12 @@
         <mark key="^" line="226" column="5" />
         <mark key="." line="226" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/client/python/requirements.pip" timestamp="1507552062775">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/client/python/requirements.pip" timestamp="1507555701370">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1506434787077">
         <mark key="'" line="95" column="7" />
@@ -436,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="40" column="14" filename="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" />
       <jump line="60" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" />
@@ -536,6 +536,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="178" column="0" filename="$USER_HOME$/projects/profile-service/client/python/src/profile_service_client/profile.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/profile-service/client/python/requirements.pip" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
