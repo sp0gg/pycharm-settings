@@ -165,11 +165,12 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507317675826">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="123" column="46" />
-        <mark key="]" line="123" column="46" />
-        <mark key="." line="123" column="46" />
+      <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507319863978">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="50" column="110" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/employee_weekly_view_page.py" timestamp="1505246004847">
         <mark key="[" line="20" column="93" />
@@ -361,6 +362,13 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1506685038938">
         <mark key="'" line="447" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/client/python/src/profile_service_client/profile.py" timestamp="1507319984311">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="226" column="5" />
+        <mark key="]" line="226" column="5" />
+        <mark key="^" line="226" column="5" />
+        <mark key="." line="226" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/org_staging_steps.py" timestamp="1506434787077">
         <mark key="'" line="95" column="7" />
         <mark key="[" line="2" column="0" />
@@ -422,43 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="179" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="172" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
-      <jump line="10" column="30" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="47" column="21" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="27" column="21" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="107" column="61" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="10" column="71" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="130" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="40" column="14" filename="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" />
       <jump line="61" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" />
@@ -513,7 +484,6 @@
       <jump line="143" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="141" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="133" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="123" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="121" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="114" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
@@ -522,46 +492,84 @@
       <jump line="103" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="94" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" />
+      <jump line="140" column="36" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="127" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="45" column="10" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="25" column="30" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="108" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" />
+      <jump line="178" column="0" filename="$USER_HOME$/projects/profile-service/client/python/src/profile_service_client/profile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gUHJvZmlsZUZhY3Rvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>employment_id=employment.id</text>
       </register>
       <register name="/" type="4">
         <text>commit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>get_int_from_date(date.today() - timedelta(days=10))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gUHJvZmlsZUZhY3Rvcgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">eQogICAgICAgIHByb2ZpbGVfaW5mb3JtYXRpb24gPSBwcm9maWxlX3BiMi5Qcm9maWxlSW5mb3JtYXRpb24oCiAgICAgICAgICAgIHByb2ZpbGU9cHJvZmlsZV9vYmplY3QsCiAgICAgICAgICAgIGVtcGxveW1lbnQ9ZW1wbG95bWVudF9vYmplY3QKICAgICAgICApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KAogICAgICAgIGVtcGxveW1lbnQgPSBFbXBsb3ltZW50RmFjdG9yeShwcm9maWxlPXByb2ZpbGUpCiAgICAgICAgZW1wbG95bWVudF9vYmplY3QgPSBlbXBsb3ltZW50X3BiMi5FbXBsb3ltZW50T2JqZWN0KAogICAgICAgICAgICBpZD1lbXBsb3ltZW50LmlkCiAgICAgICAgKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZVsnbWVzc2FnZSddKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KQogICAgICAgIHByb2ZpbGVfb2JqZWN0ID0gcHJvZmlsZV9wYjIuUHJvZmlsZU9iamVjdCgKICAgICAgICAgICAgaWQ9cHJvZmlsZS5pZCwKICAgICAgICAgICAgdXNlcl9uYW1lPXByb2ZpbGUudXNlcl9uYW1lCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">CmNsYXNzIFRlc3RQcm9maWxlSW5mb3JtYXRpb25Db29yZGluYXRvcihCYXNlVGVzdENhc2UpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgc3VwZXIoVGVzdFByb2ZpbGVJbmZvcm1hdGlvbkNvb3JkaW5hdG9yLCBzZWxmKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi5fcHJvZmlsZV9pbmZvcm1hdGlvbl9jb29yZGluYXRvciA9IFByb2ZpbGVJbmZvcm1hdGlvbkNvb3JkaW5hdG9yKCkKICAgICAgICBzZWxmLl9zZXNzaW9uID0gc2VsZi5nZXRfc2Vzc2lvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24uYmVnaW4oc3VidHJhbnNhY3Rpb25zPVRydWUpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdGVzdF91cGRhdGVfcHJvZmlsZV9pbmZvcm1hdGlvbl9zdWNjZXNzKHNlbGYpOgogICAgICAgIHByb2ZpbGUgPSBQcm9maWxlRmFjdG9yeSgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW1wbG95bWVudD1lbXBsb3ltZW50X29iamVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlX2luZm9ybWF0aW9uID0gcHJvZmlsZV9wYjIuUHJvZmlsZUluZm9ybWF0aW9uKAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
