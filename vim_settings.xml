@@ -194,6 +194,9 @@
         <mark key="]" line="11" column="66" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1506951551322">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/punch/punches_not_scheduled.kid" timestamp="1505318731767">
         <mark key="'" line="12" column="83" />
         <mark key="[" line="36" column="0" />
@@ -240,6 +243,9 @@
         <mark key="." line="84" column="80" />
         <mark key="^" line="84" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/docker-compose.yml" timestamp="1506971412232">
+        <mark key="[" line="15" column="15" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/unit/coordinators/test_profile_information_coordinator.py" timestamp="1507317518482">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="9" column="0" />
@@ -273,13 +279,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1507638677361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" timestamp="1505320516054">
         <mark key="'" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1504876120906">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507638190526">
+      <file name="/dummy.sql" timestamp="1507638671331">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1507638677378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
