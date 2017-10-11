@@ -156,6 +156,11 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" timestamp="1507746027079">
+        <mark key="[" line="124" column="30" />
+        <mark key="]" line="124" column="30" />
+        <mark key="." line="124" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
         <mark key="'" line="50" column="66" />
       </file>
@@ -291,7 +296,7 @@
       <file name="/dummy.sql" timestamp="1507638671331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507638677378">
+      <file name="/Dummy.txt" timestamp="1507745833488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -373,7 +378,6 @@
         <mark key="." line="226" column="5" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/test_xref_dao.py" timestamp="1507724868294">
-        <mark key="'" line="32" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -446,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/profile-service/server/coordinators/profile_information_coordinator.py" />
       <jump line="155" column="0" filename="$USER_HOME$/projects/profile-service/server/daos/profile.py" />
@@ -546,13 +549,14 @@
       <jump line="25" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/test_xref_dao.py" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/test_xref_dao.py" />
       <jump line="32" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/test_xref_dao.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0cy5mcmFtZXdvcmsuaW50ZWdyYXRpb24uZGF0YWJhc2UgaW1wb3J0IERhdGFiYXNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>suepr</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>commit</text>
