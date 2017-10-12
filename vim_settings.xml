@@ -360,12 +360,12 @@
         <mark key="^" line="58" column="61" />
         <mark key="." line="58" column="61" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1507837714627">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/profile_service.py" timestamp="1507838292095">
         <mark key="'" line="96" column="0" />
-        <mark key="[" line="122" column="73" />
-        <mark key="]" line="121" column="18" />
-        <mark key="." line="121" column="18" />
-        <mark key="^" line="121" column="18" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="111" />
+        <mark key="." line="120" column="111" />
+        <mark key="^" line="120" column="108" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/my_account/edit_my_account.feature" timestamp="1506513047904">
         <mark key="'" line="0" column="0" />
@@ -417,12 +417,12 @@
         <mark key="^" line="75" column="22" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" timestamp="1507837425869">
-        <mark key="'" line="173" column="33" />
-        <mark key="[" line="150" column="31" />
-        <mark key="]" line="151" column="7" />
-        <mark key="^" line="151" column="7" />
-        <mark key="." line="151" column="7" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" timestamp="1507838841668">
+        <mark key="'" line="157" column="33" />
+        <mark key="[" line="156" column="55" />
+        <mark key="]" line="143" column="116" />
+        <mark key="^" line="143" column="116" />
+        <mark key="." line="143" column="116" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" timestamp="1507314710391">
         <mark key="'" line="42" column="0" />
@@ -588,16 +588,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>v2organization_id</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>v2organization_id</text>
       </register>
       <register name="/" type="4">
         <text>v2organization</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm9maWxlX3NlcnZpY2VfeHJlZl9kYW8ucmV0cmlldmVfeHJlZl9vcmdhbml6YXRpb24odXNlci52Mm9yZ2FuaXphdGlvbklEKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0Wyd2Mm9yZ2FuaXphdGlvbl9pZCddID0gNjc3Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLnYyb3JnYW5pemF0aW9uLmNoYWluX2lkCg==</text>
