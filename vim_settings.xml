@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" timestamp="1505328839173">
+        <mark key="'" line="220" column="24" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/revert/KBD-427_add_advanced_tab_columns.sql" timestamp="1506966315185">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -22,6 +25,9 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" timestamp="1507817232267">
+        <mark key="'" line="106" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/shifttemplates/copy.kid" timestamp="1505225940399">
         <mark key="[" line="75" column="82" />
         <mark key="]" line="75" column="86" />
@@ -33,6 +39,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shifttemplatecontrollers.py" timestamp="1505226517675">
+        <mark key="'" line="330" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/static/Dockerfile" timestamp="1505758720074">
         <mark key="[" line="1" column="0" />
@@ -59,6 +68,9 @@
         <mark key="^" line="70" column="3" />
         <mark key="." line="70" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/shiftcontrollers.py" timestamp="1505327729385">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/external-code/requirements-internal.txt" timestamp="1504093382145">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="29" />
@@ -73,6 +85,9 @@
         <mark key="." line="14" column="54" />
         <mark key="^" line="14" column="54" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/message_controllers.py" timestamp="1505320401317">
+        <mark key="'" line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/unit/test_profile_client.py" timestamp="1506945665669">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="44" />
@@ -86,6 +101,9 @@
         <mark key="^" line="151" column="3" />
         <mark key="." line="151" column="3" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/__init__.py" timestamp="1505319448038">
+        <mark key="'" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1506081080478">
         <mark key="'" line="5" column="53" />
         <mark key="[" line="1" column="0" />
@@ -94,6 +112,12 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_organization_employment_type_dao.py" timestamp="1507813239657" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" timestamp="1505392776033">
+        <mark key="'" line="1702" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/assign_emp_popup.kid" timestamp="1505221224945">
+        <mark key="'" line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/database/migrations/verify/KBD-427_add_advanced_tab_columns.sql" timestamp="1506952175414">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="26" column="30" />
@@ -108,17 +132,20 @@
         <mark key="^" line="28" column="15" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/joe-docker-compose.yml" timestamp="1507145424167">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" timestamp="1507816486084">
+        <mark key="'" line="620" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/calloffs.py" timestamp="1505738793467">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/employee_controllers.py" timestamp="1506708543412">
-        <mark key="'" line="774" column="38" />
-        <mark key="[" line="790" column="0" />
-        <mark key="]" line="790" column="0" />
-        <mark key="." line="790" column="0" />
+      <file name="$USER_HOME$/projects/profile-service/protos/profile.proto" timestamp="1507148593395">
+        <mark key="'" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_user_dao.py" timestamp="1507815138694">
         <mark key="'" line="6" column="16" />
@@ -140,11 +167,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/empshiftfinderwidget.py" timestamp="1505327219664">
+        <mark key="'" line="50" column="66" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/server/models/phone.py" timestamp="1506956084357">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" timestamp="1507816682745">
+        <mark key="'" line="412" column="6" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/integration/coordinators/test_profile_information_coordinator.py" timestamp="1507319863978">
         <mark key="'" line="0" column="0" />
@@ -166,11 +199,8 @@
         <mark key="^" line="161" column="15" />
         <mark key="." line="161" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/profile-service/server/tests/unit/servicers/test_profile_servicer.py" timestamp="1507296391375">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="66" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="/Python Console" timestamp="1506951551322">
         <mark key="[" line="0" column="0" />
@@ -189,6 +219,9 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="65" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/v2shift_controllers.py" timestamp="1505329124944">
+        <mark key="'" line="421" column="58" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/setup.py" timestamp="1503869069451">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
@@ -202,6 +235,9 @@
         <mark key="]" line="75" column="165" />
         <mark key="^" line="75" column="165" />
         <mark key="." line="75" column="165" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/steps/scheduling_employee_page_steps.py" timestamp="1505246176300">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/support/pages/staff_page.py" timestamp="1504710199898">
         <mark key="'" line="81" column="12" />
@@ -220,6 +256,9 @@
         <mark key="^" line="22" column="7" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
+        <mark key="'" line="213" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1506706027893">
         <mark key="'" line="455" column="8" />
         <mark key="[" line="211" column="17" />
@@ -234,21 +273,21 @@
         <mark key="^" line="353" column="0" />
         <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/landing_page.py" timestamp="1505995085056">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_schedule_steps.py" timestamp="1505225115482">
+        <mark key="'" line="26" column="51" />
       </file>
       <file name="/a.sql" timestamp="1507638677361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507816070115">
-        <mark key="'" line="127" column="42" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="122" column="22" />
-        <mark key="." line="122" column="22" />
-        <mark key="^" line="122" column="22" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" timestamp="1505320516054">
+        <mark key="'" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507817544532">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="123" column="52" />
+        <mark key="]" line="124" column="11" />
+        <mark key="^" line="124" column="11" />
+        <mark key="." line="124" column="11" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507808908432">
         <mark key="'" line="160" column="0" />
@@ -260,7 +299,7 @@
       <file name="/dummy.sql" timestamp="1507638671331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507745833488">
+      <file name="/Dummy.txt" timestamp="1507817197793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -279,6 +318,9 @@
         <mark key="]" line="14" column="30" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/features/steps/rest_calendar_steps.py" timestamp="1505225151182">
+        <mark key="'" line="186" column="42" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/hppd.py" timestamp="1505999291799">
         <mark key="'" line="875" column="19" />
@@ -327,6 +369,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1506685038938">
+        <mark key="'" line="447" column="60" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/src/profile_service_client/profile.py" timestamp="1507319984311">
         <mark key="'" line="178" column="0" />
@@ -395,11 +440,17 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shifttemplate.py" timestamp="1505238114365">
+        <mark key="'" line="204" column="52" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/tests/features_ui/staff_page/edit_employee.feature" timestamp="1506513036990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/model/test_hppd.py" timestamp="1505999476084">
+        <mark key="'" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/docker-compose-test.yml" timestamp="1506971115186">
         <mark key="[" line="11" column="7" />
@@ -409,26 +460,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="156" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="159" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="23" column="89" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="116" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
-      <jump line="122" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="249" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="270" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
       <jump line="296" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" />
@@ -498,7 +529,6 @@
       <jump line="99" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" />
-      <jump line="150" column="32" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="25" column="25" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_user_dao.py" />
       <jump line="2" column="24" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_user_dao.py" />
       <jump line="56" column="12" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_user_dao.py" />
@@ -509,70 +539,83 @@
       <jump line="124" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="126" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="125" column="42" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="148" column="22" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="149" column="12" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="150" column="16" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="32" column="28" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="159" column="22" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="161" column="22" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="257" column="23" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="445" column="19" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="620" column="30" filename="$USER_HOME$/.PyCharm2017.1/system/remote_sources/822170779/-399156964/sqlobject/sqlbuilder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="298" column="53" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="327" column="10" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="346" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="350" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="170" column="39" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="8" column="41" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="412" column="6" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/__init__.py" />
+      <jump line="201" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="106" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbCBpbXBvcnQgZW5jcnlwdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>v2organization</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBiYXptYW4udXRpbCBpbXBvcnQgZW5jcnlwdG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9tb2RlbCA9IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IHNlbGYuX3JlcG9zaXRvcnkoKipyZXF1ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN0cmlwIG91dCB0aGluZ3MgdGhhdCB3aWxsIGNhdXNlIFVzZXIoKSB0byBlcnJvci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwb3N0X3VwZGF0ZV9tb2RlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAjIGlmICdwZXJtaXNzaW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3Blcm1pc3Npb25zJ10pCiAgICAgICAgIyBpZiAnc3Vic2NyaXB0aW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3N1YnNjcmlwdGlvbnMnXSkKICAgICAgICAjIGlmICdhdXRob3JzaGlwcycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ2F1dGhvcnNoaXBzJ10pCiAgICAgICAgIyBpZiAnb3ZlcnRpbWVfcnVsZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ292ZXJ0aW1lX3J1bGUnXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nIGluIG1vZGVsOiBkZWwgKG1vZGVsWydqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9pZCcgaW4gbW9kZWw6CiAgICAgICAgIyAgICAgZGVsIChtb2RlbFsnam9iX2NvZGVfc3RhbmRhcmRfaWQnXSkKICAgICAgICAjIGlmICdwYXlfdHlwZV9jb2RlX2lkJyBpbiBtb2RlbDogZGVsIChtb2RlbFsncGF5X3R5cGVfY29kZV9pZCddKQogICAgICAgICMgaWYgJ3BheV90eXBlX2NvZGVfbmFtZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3BheV90eXBlX2NvZGVfbmFtZSddKQogICAgICAgICMgaWYgInB1bmNoX3N5c3RlbV9pZCIgaW4gbW9kZWw6IGRlbCAobW9kZWxbInB1bmNoX3N5c3RlbV9pZCJdKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/model/request</text>
+        <text>s/bazman_model.User/self._repository</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
-      <last-replace>request</last-replace>
-      <last-substitute>model</last-substitute>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</last-pattern>
+      <last-replace>self._repository</last-replace>
+      <last-substitute>bazman_model.User</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>org_ass</entry>
-        <entry>uuid</entry>
-        <entry encoding="base64">XDxDaGFpbkZhY3RvcnlcPg==</entry>
-        <entry>\'s</entry>
-        <entry>ham</entry>
-        <entry>chain</entry>
-        <entry>;suc</entry>
-        <entry>'suc</entry>
         <entry encoding="base64">XDxfYXNzZXJ0X3Byb2ZpbGVfZmllbGRzX3VwZGF0ZWRcPg==</entry>
         <entry>update</entry>
         <entry>session</entry>
@@ -585,6 +628,14 @@
         <entry>profile_dao.create</entry>
         <entry>commit</entry>
         <entry>model</entry>
+        <entry>bazman_model.User</entry>
+        <entry>AND</entry>
+        <entry>def ABD</entry>
+        <entry>def AND</entry>
+        <entry>def Group</entry>
+        <entry>Group</entry>
+        <entry>by_grou</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -601,6 +652,7 @@
         <entry>q</entry>
         <entry>reg</entry>
         <entry>s/model/request</entry>
+        <entry>s/bazman_model.User/self._repository</entry>
       </history-cmd>
       <history-expr />
       <history-input />
