@@ -282,12 +282,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/v2shift/v2shift_popup.kid" timestamp="1505320516054">
         <mark key="'" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507817544532">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507819423101">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="123" column="52" />
-        <mark key="]" line="124" column="11" />
-        <mark key="^" line="124" column="11" />
-        <mark key="." line="124" column="11" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="^" line="149" column="3" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507808908432">
         <mark key="'" line="160" column="0" />
@@ -299,7 +299,7 @@
       <file name="/dummy.sql" timestamp="1507638671331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507817197793">
+      <file name="/Dummy.txt" timestamp="1507819238267">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -563,10 +563,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v2organization</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</text>
@@ -575,31 +575,31 @@
         <text encoding="base64">ZnJvbSBiYXptYW4udXRpbCBpbXBvcnQgZW5jcnlwdG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
+        <text encoding="base64">IyBmcm9tIGJhem1hbiBpbXBvcnQgbW9kZWwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9tb2RlbCA9IE5vbmUK</text>
+        <text encoding="base64">ZnJvbSBiYXptYW4ubW9kZWwuZ3JvdQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9tb2RlbCA9IE5vbmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwb3N0X3VwZGF0ZV9tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9tb2RlbCA9IE5vbmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcmVxdWVzdC5nZXQoJ3Bhc3N3b3JkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfbW9kZWwgPSBzZWxmLl9yZXBvc2l0b3J5KCoqcmVxdWVzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/bazman_model.User/self._repository</text>
