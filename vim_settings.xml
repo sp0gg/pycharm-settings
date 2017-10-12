@@ -289,12 +289,12 @@
         <mark key="^" line="149" column="3" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507808908432">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="268" column="9" />
-        <mark key="]" line="269" column="7" />
-        <mark key="^" line="269" column="7" />
-        <mark key="." line="269" column="7" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507820270660">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="40" column="45" />
+        <mark key="]" line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="42" column="32" />
       </file>
       <file name="/dummy.sql" timestamp="1507638671331">
         <mark key="[" line="0" column="0" />
@@ -413,12 +413,12 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" timestamp="1507815987958">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" timestamp="1507820060874">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="144" column="99" />
-        <mark key="^" line="144" column="99" />
+        <mark key="[" line="144" column="10" />
+        <mark key="]" line="144" column="16" />
+        <mark key="." line="144" column="16" />
+        <mark key="^" line="144" column="16" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/tests/integration/daos/test_profile_dao.py" timestamp="1507317601322">
         <mark key="'" line="21" column="0" />
@@ -562,11 +562,11 @@
       <jump line="106" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>model</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9yYW5kb21cPg==</text>
