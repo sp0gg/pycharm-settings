@@ -243,12 +243,12 @@
       <file name="/a.sql" timestamp="1507638677361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507815481944">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="184" column="7" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" timestamp="1507816070115">
+        <mark key="'" line="127" column="42" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="122" column="22" />
+        <mark key="." line="122" column="22" />
+        <mark key="^" line="122" column="22" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507808908432">
         <mark key="'" line="160" column="0" />
@@ -368,10 +368,10 @@
         <mark key="." line="107" column="14" />
         <mark key="^" line="107" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" timestamp="1507812458808">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/rest/user.py" timestamp="1507815987958">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="144" column="99" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="33" />
         <mark key="." line="144" column="99" />
         <mark key="^" line="144" column="99" />
       </file>
@@ -409,9 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
       <jump line="141" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
       <jump line="156" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/daos/user_dao_test.py" />
@@ -509,63 +506,65 @@
       <jump line="144" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="142" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
       <jump line="138" column="0" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="124" column="19" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="126" column="34" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
+      <jump line="125" column="42" filename="$USER_HOME$/projects/OnShift/bazman/bazman/daos/user.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbCBpbXBvcnQgZW5jcnlwdG9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sani</text>
-      </register>
-      <register name="/" type="4">
-        <text>commit</text>
-      </register>
-      <register name="0" type="4">
         <text>request</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="/" type="4">
+        <text>model</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAjIGlmICdwZXJtaXNzaW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3Blcm1pc3Npb25zJ10pCiAgICAgICAgIyBpZiAnc3Vic2NyaXB0aW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3N1YnNjcmlwdGlvbnMnXSkKICAgICAgICAjIGlmICdhdXRob3JzaGlwcycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ2F1dGhvcnNoaXBzJ10pCiAgICAgICAgIyBpZiAnb3ZlcnRpbWVfcnVsZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ292ZXJ0aW1lX3J1bGUnXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nIGluIG1vZGVsOiBkZWwgKG1vZGVsWydqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9pZCcgaW4gbW9kZWw6CiAgICAgICAgIyAgICAgZGVsIChtb2RlbFsnam9iX2NvZGVfc3RhbmRhcmRfaWQnXSkKICAgICAgICAjIGlmICdwYXlfdHlwZV9jb2RlX2lkJyBpbiBtb2RlbDogZGVsIChtb2RlbFsncGF5X3R5cGVfY29kZV9pZCddKQogICAgICAgICMgaWYgJ3BheV90eXBlX2NvZGVfbmFtZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3BheV90eXBlX2NvZGVfbmFtZSddKQogICAgICAgICMgaWYgInB1bmNoX3N5c3RlbV9pZCIgaW4gbW9kZWw6IGRlbCAobW9kZWxbInB1bmNoX3N5c3RlbV9pZCJdKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBiYXptYW4udXRpbCBpbXBvcnQgZW5jcnlwdG9yCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBVc2VyREFPKGJhem1hbl9tb2RlbC51c2VyLlVzZXIpLmNyZWF0ZV91c2VyKG1vZGVsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdW5jaF9zeXN0ZW1faWQgPSBtb2RlbC5nZXQoInB1bmNoX3N5c3RlbV9pZCIsIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IHNlbGYuX3JlcG9zaXRvcnkoKipyZXF1ZXN0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGJhem1hbi5kYW9zLm9yZ2FuaXphdGlvbl9lbXBsb3ltZW50X3R5cGVfZGFvIGltcG9ydCBPcmdhbml6YXRpb25FbXBsb3ltZW50VHlwZURBTwo=</text>
+        <text encoding="base64">ICAgICAgICAjIFN0cmlwIG91dCB0aGluZ3MgdGhhdCB3aWxsIGNhdXNlIFVzZXIoKSB0byBlcnJvci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhbyA9IE9yZ2FuaXphdGlvbkVtcGxveW1lbnRUeXBlREFPKHNlbGYubW9ja19kYl9jb25uZWN0aW9uLCBzZWxmLm1vY2tfcmVwb3NpdG9yeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAjIFN0cmlwIG91dCB0aGluZ3MgdGhhdCB3aWxsIGNhdXNlIFVzZXIoKSB0byBlcnJvci4KICAgICAgICBwZXJtaXNzaW9ucyA9IG1vZGVsLmdldCgncGVybWlzc2lvbnMnLCBbXSkKICAgICAgICBzdWJzY3JpcHRpb25zID0gbW9kZWwuZ2V0KCdzdWJzY3JpcHRpb25zJywgW10pCiAgICAgICAgYXV0aG9yc2hpcHMgPSBtb2RlbC5nZXQoJ2F1dGhvcnNoaXBzJywgW10pCiAgICAgICAgb3ZlcnRpbWVfcnVsZV9pZCA9IG1vZGVsLmdldCgnb3ZlcnRpbWVfcnVsZScsIHt9KS5nZXQoJ2lkJywgJ29yZ19ydWxlJykKCiAgICAgICAgaWYgJ3Blcm1pc3Npb25zJyBpbiBtb2RlbDogZGVsKG1vZGVsWydwZXJtaXNzaW9ucyddKQogICAgICAgIGlmICdzdWJzY3JpcHRpb25zJyBpbiBtb2RlbDogZGVsKG1vZGVsWydzdWJzY3JpcHRpb25zJ10pCiAgICAgICAgaWYgJ2F1dGhvcnNoaXBzJyBpbiBtb2RlbDogZGVsKG1vZGVsWydhdXRob3JzaGlwcyddKQogICAgICAgIGlmICdvdmVydGltZV9ydWxlJyBpbiBtb2RlbDogZGVsKG1vZGVsWydvdmVydGltZV9ydWxlJ10pCiAgICAgICAgaWYgJ2pvYl9jb2RlX3N0YW5kYXJkX3Nob3J0X2pvYl9kZXNjcmlwdGlvbicgaW4gbW9kZWw6IGRlbChtb2RlbFsnam9iX2NvZGVfc3RhbmRhcmRfc2hvcnRfam9iX2Rlc2NyaXB0aW9uJ10pCiAgICAgICAgaWYgJ2pvYl9jb2RlX3N0YW5kYXJkX2lkJyBpbiBtb2RlbDoKICAgICAgICAgICAgbW9kZWxbJ2pvYl9jb2RlX3N0YW5kYXJkJ10gPSBiYXptYW5fbW9kZWwuSm9iQ29kZVN0YW5kYXJkLmdldChtb2RlbFsnam9iX2NvZGVfc3RhbmRhcmRfaWQnXSkKICAgICAgICAgICAgZGVsKG1vZGVsWydqb2JfY29kZV9zdGFuZGFyZF9pZCddKQogICAgICAgIGlmICdwYXlfdHlwZV9jb2RlX2lkJyBpbiBtb2RlbDogZGVsKG1vZGVsWydwYXlfdHlwZV9jb2RlX2lkJ10pCiAgICAgICAgaWYgJ3BheV90eXBlX2NvZGVfbmFtZScgaW4gbW9kZWw6IGRlbChtb2RlbFsncGF5X3R5cGVfY29kZV9uYW1lJ10pCgogICAgICAgIHB1bmNoX3N5c3RlbV9pZCA9IG1vZGVsLmdldCgicHVuY2hfc3lzdGVtX2lkIiwgTm9uZSkKICAgICAgICBpZiAicHVuY2hfc3lzdGVtX2lkIiBpbiBtb2RlbDogZGVsKG1vZGVsWyJwdW5jaF9zeXN0ZW1faWQiXSkKCiAgICAgICAgaWYga3dhcmdzLmdldCgncGFzc3dvcmRfYnlwYXNzJywgRmFsc2UpOgogICAgICAgICAgICAjIEtpbmRhIGhhY2t5LiBTZXQgdGhlIHBhc3N3b3JkIHRvIHNvbWV0aGluZyB2YWxpZCBhbmQgdGhlbiBmb3JjZQogICAgICAgICAgICAjIHRoZSB1c2VyIHRvIGhhdmUgdGhlIHBhc3N3b3JkIHNwZWNpZmllZCBieSB0aGUgbW9kZWwuCiAgICAgICAgICAgIHBhc3N3b3JkID0gbW9kZWwuZ2V0KCdwYXNzd29yZCcpCiAgICAgICAgICAgIG1vZGVsWydwYXNzd29yZCddID0gYmF6bWFuX21vZGVsLnVzZXIuZ2VuZXJhdGVfcGFzc3dvcmQoKQogICAgICAgICAgICBtb2RlbFsnZm9yY2VfcGFzc3dvcmRfcmVzZXQnXSA9IFRydWUKICAgICAgICAgICAgdXNlciA9IFVzZXJEQU8oYmF6bWFuX21vZGVsLnVzZXIuVXNlcikuY3JlYXRlX3VzZXIobW9kZWwpCiAgICAgICAgICAgIHVzZXIuX1NPX3NldF9wYXNzd29yZChlbmNyeXB0b3IuaGFzaF9wYXNzd29yZChwYXNzd29yZCkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdXNlciA9IFVzZXJEQU8oYmF6bWFuX21vZGVsLnVzZXIuVXNlcikuY3JlYXRlX3VzZXIobW9kZWwpCgogICAgICAgICMgbWVyZ2UgaW5mZXJyZWQgZW1wbG95ZWVzIHdpdGggZHVwbGljYXRlIHB1bmNoIGlkcwogICAgICAgIGlmIHB1bmNoX3N5c3RlbV9pZDoKICAgICAgICAgICAgcmVzdWx0cyA9IGJhem1hbl9tb2RlbC5Vc2VyLnNlbGVjdChiYXptYW5fbW9kZWwuQU5EKAogICAgICAgICAgICAgICAgYmF6bWFuX21vZGVsLlVzZXIucS52Mm9yZ2FuaXphdGlvbiA9PSB1c2VyLnYyb3JnYW5pemF0aW9uLAogICAgICAgICAgICAgICAgYmF6bWFuX21vZGVsLlVzZXIucS5wdW5jaF9zeXN0ZW1faWQgPT0gcHVuY2hfc3lzdGVtX2lkCiAgICAgICAgICAgICkpCiAgICAgICAgICAgIHJlc3VsdHMgPSBsaXN0KHJlc3VsdHMpCiAgICAgICAgICAgIGlmIHJlc3VsdHM6CiAgICAgICAgICAgICAgICBmb3IgZHVwX2VtcCBpbiByZXN1bHRzOgogICAgICAgICAgICAgICAgICAgIGlmIGR1cF9lbXAucGFydGljaXBhdGlvbnN0YXR1cy5pZCA9PSA5OgogICAgICAgICAgICAgICAgICAgICAgICB1c2VyLm1lcmdlX2VtcGxveWVlcyh1c2VyLCBkdXBfZW1wKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgdXNlci5wdW5jaF9zeXN0ZW1faWQgPSBwdW5jaF9zeXN0ZW1faWQKCiAgICAgICAgIyBBZGQgcGVybWlzc2lvbnMsIHN1YnNjcmlwdGlvbnMsIGF1dGhvcnNoaXBzCiAgICAgICAgZm9yIHBlcm1pc3Npb24gaW4gcGVybWlzc2lvbnM6CiAgICAgICAgICAgIHVzZXIuYWRkR3JvdXAoYmF6bWFuX21vZGVsLkdyb3VwLmJ5X2dyb3VwX25hbWUocGVybWlzc2lvbi5nZXQoImdyb3VwX25hbWUiKSkpCiAgICAgICAgZm9yIHN1YnNjcmlwdGlvbiBpbiBzdWJzY3JpcHRpb25zOgogICAgICAgICAgICBjYXRlZ29yeSA9IGJhem1hbl9tb2RlbC5WMmNhdGVnb3J5LmdldChzdWJzY3JpcHRpb24uZ2V0KCJpZCIpKQogICAgICAgICAgICB1c2VyLmFkZFYyc3Vic2NyaXB0aW9uKGNhdGVnb3J5KQogICAgICAgICAgICBpZiBzdWJzY3JpcHRpb24uZ2V0KCdwcmltYXJ5X3JvbGUnKToKICAgICAgICAgICAgICAgIHVzZXIucHJpbWFyeV9yb2xlID0gY2F0ZWdvcnkKICAgICAgICBmb3IgYXV0aG9yc2hpcCBpbiBhdXRob3JzaGlwczoKICAgICAgICAgICAgdXNlci5hZGRWMmF1dGhvcnNoaXAoYmF6bWFuX21vZGVsLlYyY2F0ZWdvcnkuZ2V0KGF1dGhvcnNoaXAuZ2V0KCJpZCIpKSkKCiAgICAgICAgIyBtYWtlIHN1cmUgcm9sZSBnZXRzIHNldCBwcm9wZXJseQogICAgICAgIHVzZXIucm9sZSA9IHVzZXIucm9sZQoKICAgICAgICAjIEFkZCBvdmVydGltZSBydWxlCiAgICAgICAgdXNlci51cGRhdGVfb3RfcnVsZShvdmVydGltZV9ydWxlX2lkKQ==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmICdwZXJtaXNzaW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3Blcm1pc3Npb25zJ10pCiAgICAgICAgIyBpZiAnc3Vic2NyaXB0aW9ucycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3N1YnNjcmlwdGlvbnMnXSkKICAgICAgICAjIGlmICdhdXRob3JzaGlwcycgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ2F1dGhvcnNoaXBzJ10pCiAgICAgICAgIyBpZiAnb3ZlcnRpbWVfcnVsZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ292ZXJ0aW1lX3J1bGUnXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nIGluIG1vZGVsOiBkZWwgKG1vZGVsWydqb2JfY29kZV9zdGFuZGFyZF9zaG9ydF9qb2JfZGVzY3JpcHRpb24nXSkKICAgICAgICAjIGlmICdqb2JfY29kZV9zdGFuZGFyZF9pZCcgaW4gbW9kZWw6CiAgICAgICAgIyAgICAgZGVsIChtb2RlbFsnam9iX2NvZGVfc3RhbmRhcmRfaWQnXSkKICAgICAgICAjIGlmICdwYXlfdHlwZV9jb2RlX2lkJyBpbiBtb2RlbDogZGVsIChtb2RlbFsncGF5X3R5cGVfY29kZV9pZCddKQogICAgICAgICMgaWYgJ3BheV90eXBlX2NvZGVfbmFtZScgaW4gbW9kZWw6IGRlbCAobW9kZWxbJ3BheV90eXBlX2NvZGVfbmFtZSddKQogICAgICAgICMgaWYgInB1bmNoX3N5c3RlbV9pZCIgaW4gbW9kZWw6IGRlbCAobW9kZWxbInB1bmNoX3N5c3RlbV9pZCJdKQ==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/model/request</text>
       </register>
     </registers>
     <search>
-      <last-search>commit</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>commit</last-pattern>
-      <last-replace>page</last-replace>
-      <last-substitute>on(EmployeeWeeklyViewPage)</last-substitute>
+      <last-pattern>model</last-pattern>
+      <last-replace>request</last-replace>
+      <last-substitute>model</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XCA9XCA=</entry>
         <entry>org_ass</entry>
         <entry>uuid</entry>
         <entry encoding="base64">XDxDaGFpbkZhY3RvcnlcPg==</entry>
@@ -585,6 +584,7 @@
         <entry>create</entry>
         <entry>profile_dao.create</entry>
         <entry>commit</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -600,6 +600,7 @@
         <entry>s/on(EmployeeWeeklyViewPage)/page</entry>
         <entry>q</entry>
         <entry>reg</entry>
+        <entry>s/model/request</entry>
       </history-cmd>
       <history-expr />
       <history-input />
