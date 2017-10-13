@@ -417,12 +417,13 @@
         <mark key="^" line="75" column="22" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" timestamp="1507838841668">
-        <mark key="'" line="157" column="33" />
-        <mark key="[" line="156" column="55" />
-        <mark key="]" line="143" column="116" />
-        <mark key="^" line="143" column="116" />
-        <mark key="." line="143" column="116" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" timestamp="1507839581002">
+        <mark key="p" line="171" column="3" />
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="168" column="54" />
+        <mark key="]" line="168" column="51" />
+        <mark key="." line="168" column="88" />
+        <mark key="^" line="168" column="51" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/server/daos/organization_assignment.py" timestamp="1507314710391">
         <mark key="'" line="42" column="0" />
@@ -485,10 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
       <jump line="39" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
@@ -585,13 +582,17 @@
       <jump line="412" column="59" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="414" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="416" column="21" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="157" column="74" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
+      <jump line="166" column="29" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
+      <jump line="155" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/services/test_profile_service.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v2organization_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>v2organization_id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>v2organization</text>
@@ -600,31 +601,31 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0Wyd2Mm9yZ2FuaXphdGlvbl9pZCddID0gNjc3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnYyb3JnYW5pemF0aW9uLmNoYWluX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgIHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBzZWxmLl9zZXJ2aWNlLmNyZWF0ZV9wcm9maWxlX2luZm9ybWF0aW9uKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gbW9jay5NYWdpY01vY2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnYyb3JnYW5pemF0aW9uLmNoYWluX2lkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBzZWxmLl9zZXJ2aWNlLmNyZWF0ZV9wcm9maWxlX2luZm9ybWF0aW9uKHVzZXIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhc3N3b3JkIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/bazman_model.User/self._repository</text>
