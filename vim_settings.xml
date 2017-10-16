@@ -222,6 +222,9 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/scripts2/selenium_test_setup.py" timestamp="1505237861105">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" timestamp="1508164725007">
+        <mark key="'" line="23" column="3032" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/punch/punches_not_scheduled.kid" timestamp="1505318731767">
         <mark key="'" line="12" column="83" />
         <mark key="[" line="36" column="0" />
@@ -319,7 +322,7 @@
         <mark key="^" line="249" column="49" />
         <mark key="." line="249" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508160746602">
+      <file name="/Dummy.txt" timestamp="1508164115499">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -488,8 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2416" column="11" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="3498" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="358" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="500" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1087" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
@@ -588,6 +589,8 @@
       <jump line="2438" column="24" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="2497" column="13" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="3211" column="18" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" />
+      <jump line="23" column="3032" filename="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -597,7 +600,7 @@
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text>role</text>
+        <text>CreateProfileInformation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCcpCg==</text>
@@ -634,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search>role</last-search>
+      <last-search>CreateProfileInformation</last-search>
       <last-offset />
-      <last-pattern>role</last-pattern>
+      <last-pattern>CreateProfileInformation</last-pattern>
       <last-replace>self._repository</last-replace>
       <last-substitute>bazman_model.User</last-substitute>
       <last-dir>1</last-dir>
@@ -644,10 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
-        <entry>communication_method</entry>
-        <entry>communication</entry>
-        <entry>send_me</entry>
         <entry>this</entry>
         <entry>this_</entry>
         <entry>this_number</entry>
@@ -664,6 +663,10 @@
         <entry>is_en</entry>
         <entry>employment</entry>
         <entry>role</entry>
+        <entry>profile</entry>
+        <entry>createprofile</entry>
+        <entry>CreateProfile</entry>
+        <entry>CreateProfileInformation</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
