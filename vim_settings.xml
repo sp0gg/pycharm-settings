@@ -315,12 +315,11 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508163135948">
-        <mark key="'" line="229" column="23" />
-        <mark key="[" line="249" column="42" />
-        <mark key="]" line="249" column="49" />
-        <mark key="^" line="249" column="49" />
-        <mark key="." line="249" column="49" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508166095740">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="^" line="247" column="49" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1508164115499">
         <mark key="[" line="0" column="0" />
@@ -593,53 +592,53 @@
       <jump line="23" column="3032" filename="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text>CreateProfileInformation</text>
+        <text>$$$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCckJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoaXJlX2RhdGUnOiB1c2VyLmhpcmVfZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRyZXNzX3N0YXRlJzowMDAwMDAwMDAwMDAwMDAwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdoaXJlX2RhdGUnOiB1c2VyLmhpcmVfZGF0ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRyZXNzX2NpdHknOiAwMDAwMDAwMDAwMDAwMDAwMDAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/bazman_model.User/self._repository</text>
       </register>
     </registers>
     <search>
-      <last-search>CreateProfileInformation</last-search>
+      <last-search>$$$</last-search>
       <last-offset />
-      <last-pattern>CreateProfileInformation</last-pattern>
+      <last-pattern>$$$</last-pattern>
       <last-replace>self._repository</last-replace>
       <last-substitute>bazman_model.User</last-substitute>
       <last-dir>1</last-dir>
@@ -647,7 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this</entry>
         <entry>this_</entry>
         <entry>this_number</entry>
         <entry>call_</entry>
@@ -667,6 +665,7 @@
         <entry>createprofile</entry>
         <entry>CreateProfile</entry>
         <entry>CreateProfileInformation</entry>
+        <entry>$$$</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
