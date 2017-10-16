@@ -104,6 +104,11 @@
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/job_code_standard.py" timestamp="1508154167007">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/util/mappers/service_mappers.py" timestamp="1507901780860">
         <mark key="'" line="156" column="128" />
         <mark key="[" line="164" column="9" />
@@ -121,7 +126,6 @@
         <mark key="^" line="212" column="74" />
         <mark key="." line="212" column="74" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/unit_tests/daos/test_organization_employment_type_dao.py" timestamp="1507813239657" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" timestamp="1505392776033">
         <mark key="'" line="1702" column="45" />
       </file>
@@ -264,12 +268,12 @@
       <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
         <mark key="'" line="213" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/user_service_test.py" timestamp="1507924905831">
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/user_service_test.py" timestamp="1508154329950">
         <mark key="'" line="240" column="0" />
-        <mark key="[" line="216" column="45" />
-        <mark key="]" line="216" column="46" />
-        <mark key="." line="216" column="46" />
-        <mark key="^" line="216" column="46" />
+        <mark key="[" line="241" column="40" />
+        <mark key="]" line="241" column="40" />
+        <mark key="." line="241" column="40" />
+        <mark key="^" line="241" column="49" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1506706027893">
         <mark key="'" line="455" column="8" />
@@ -298,12 +302,12 @@
         <mark key="^" line="123" column="29" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1507924829100">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508154308898">
         <mark key="'" line="329" column="0" />
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="68" column="61" />
-        <mark key="." line="68" column="61" />
-        <mark key="^" line="68" column="61" />
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1507924741125">
         <mark key="[" line="0" column="0" />
@@ -382,7 +386,6 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/user.py" timestamp="1507831833946" />
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/templates/myaccount/myaccount2.kid" timestamp="1506685038938">
         <mark key="'" line="447" column="60" />
       </file>
@@ -578,10 +581,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>23</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>23</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>call_this</text>
@@ -590,31 +593,31 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIGxhYm9yX2NhdGVnb3J5X2NvZGUgPSBTdHJpbmdDb2wobm90Tm9uZT1GYWxzZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2UuY3JlYXRlX3VzZXIoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNb2NrCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2UuY3JlYXRlX3VzZXIoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgYXNzZXJ0X3RoYXQsIGNvbnRhaW5zX2luYW55b3JkZXIsIGVxdWFsX3RvCg==</text>
+        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNb2NrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
+        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgYXNzZXJ0X3RoYXQsIGNvbnRhaW5zX2luYW55b3JkZXIsIGVxdWFsX3RvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBiYXptYW4ubW9kZWwgaW1wb3J0IHVzZXIsIGNoYWluLCB2Mm9yZ2FuaXphdGlvbiwgZXhlY3V0aXZlCg==</text>
+        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
       </register>
       <register name=":" type="4">
         <text>s/bazman_model.User/self._repository</text>
