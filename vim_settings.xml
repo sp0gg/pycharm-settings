@@ -302,12 +302,12 @@
         <mark key="^" line="123" column="29" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508154308898">
-        <mark key="'" line="329" column="0" />
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="34" />
-        <mark key="." line="47" column="34" />
-        <mark key="^" line="47" column="46" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508155308881">
+        <mark key="'" line="331" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="^" line="237" column="0" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1507924741125">
         <mark key="[" line="0" column="0" />
@@ -580,8 +580,8 @@
       <jump line="239" column="0" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/user_service_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -593,31 +593,31 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhYm9yX2NhdGVnb3J5X2NvZGUgPSBTdHJpbmdDb2wobm90Tm9uZT1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdoaXJlX2RhdGUnOiB1c2VyLmhpcmVfZGF0ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRyZXNzX3N0YXRlJzowMDAwMDAwMDAwMDAwMDAwMDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2UuY3JlYXRlX3VzZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRyZXNzX2NpdHknOiAwMDAwMDAwMDAwMDAwMDAwMDAwLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtb2NrIGltcG9ydCBNb2NrCg==</text>
+        <text encoding="base64">ICAgIGxhYm9yX2NhdGVnb3J5X2NvZGUgPSBTdHJpbmdDb2wobm90Tm9uZT1GYWxzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBoYW1jcmVzdCBpbXBvcnQgYXNzZXJ0X3RoYXQsIGNvbnRhaW5zX2luYW55b3JkZXIsIGVxdWFsX3RvCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwcm9maWxlX3NlcnZpY2VfY2xpZW50LmdlbmVyYXRlZCBpbXBvcnQgcHJvZmlsZV9wYjIK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjtpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/bazman_model.User/self._repository</text>
