@@ -276,12 +276,10 @@
       <file name="$USER_HOME$/projects/OnShift/Jenkins.groovy" timestamp="1505828427696">
         <mark key="'" line="213" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/user_service_test.py" timestamp="1508154329950">
-        <mark key="'" line="240" column="0" />
-        <mark key="[" line="241" column="40" />
-        <mark key="]" line="241" column="40" />
-        <mark key="." line="241" column="40" />
-        <mark key="^" line="241" column="49" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/service/user_service_test.py" timestamp="1508167666866">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/projects/profile-service/client/python/tests/integration/test_profile_client.py" timestamp="1506706027893">
         <mark key="'" line="455" column="8" />
@@ -315,13 +313,13 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508166095740">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="^" line="247" column="49" />
-        <mark key="." line="229" column="0" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508166752637">
+        <mark key="[" line="238" column="33" />
+        <mark key="]" line="238" column="50" />
+        <mark key="^" line="238" column="50" />
+        <mark key="." line="238" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508164115499">
+      <file name="/Dummy.txt" timestamp="1508167780574">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -593,10 +591,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>$$$</text>
@@ -605,28 +603,28 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCckJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCckJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoaXJlX2RhdGUnOiB1c2VyLmhpcmVfZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
