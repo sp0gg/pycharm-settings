@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/v2shift.py" timestamp="1505328839173">
@@ -124,12 +124,12 @@
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/widgets/__init__.py" timestamp="1505319448038">
         <mark key="'" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1507901672458">
-        <mark key="'" line="40" column="37" />
-        <mark key="[" line="212" column="68" />
-        <mark key="]" line="212" column="74" />
-        <mark key="^" line="212" column="74" />
-        <mark key="." line="212" column="74" />
+      <file name="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" timestamp="1508168245286">
+        <mark key="'" line="263" column="8" />
+        <mark key="[" line="264" column="8" />
+        <mark key="]" line="264" column="8" />
+        <mark key="^" line="262" column="12" />
+        <mark key="." line="264" column="12" />
       </file>
       <file name="$USER_HOME$/projects/OnShift/bazman/bazman/model/shift.py" timestamp="1505392776033">
         <mark key="'" line="1702" column="45" />
@@ -313,7 +313,7 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508166752637">
+      <file name="$USER_HOME$/projects/OnShift/bazman/bazman/services/user_service.py" timestamp="1508168137909">
         <mark key="[" line="238" column="33" />
         <mark key="]" line="238" column="50" />
         <mark key="^" line="238" column="50" />
@@ -488,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="14" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
-      <jump line="500" column="45" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1087" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1106" column="37" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="1108" column="27" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
@@ -588,63 +586,64 @@
       <jump line="3211" column="18" filename="$USER_HOME$/projects/OnShift/bazman/bazman/model/user.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" />
       <jump line="23" column="3032" filename="$USER_HOME$/projects/profile-service/server/servicers/generated/profile_pb2.py" />
+      <jump line="262" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
+      <jump line="263" column="8" filename="$USER_HOME$/projects/OnShift/bazman/tests/integration_tests/util/mappers/service_mapper_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>$$$</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCckJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCdyZXF1ZXN0OiB7fScuZm9ybWF0KHJlcXVlc3QpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXhjZXB0aW9uKCckJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjYWxsX2Rlc3RpbmF0aW9uID0gY2FsbF9kZXN0aW5hdGlvbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYWxsX2Rlc3RpbmF0aW9uJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2QsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpc19jb21tdW5pY2F0aW9uX2VuYWJsZWQnOiAwMDAwMDAwMDAwMDAwMDAsCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ3ByZWZlcnJlZF9zZW5kX21ldGhvZElEJzogdXNlci5wcmVmZXJyZWRfc2VuZF9tZXRob2RJRCwK</text>
+      </register>
       <register name=":" type="4">
-        <text>s/bazman_model.User/self._repository</text>
+        <text>s/:/=</text>
       </register>
     </registers>
     <search>
-      <last-search>$$$</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>$$$</last-pattern>
-      <last-replace>self._repository</last-replace>
-      <last-substitute>bazman_model.User</last-substitute>
+      <last-pattern>:</last-pattern>
+      <last-replace>=</last-replace>
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this_</entry>
         <entry>this_number</entry>
         <entry>call_</entry>
         <entry>destina</entry>
@@ -664,6 +663,7 @@
         <entry>CreateProfile</entry>
         <entry>CreateProfileInformation</entry>
         <entry>$$$</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -681,6 +681,7 @@
         <entry>reg</entry>
         <entry>s/model/request</entry>
         <entry>s/bazman_model.User/self._repository</entry>
+        <entry>s/:/=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
