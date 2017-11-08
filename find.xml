@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -31,6 +28,12 @@
       <mask>(*.py)</mask>
       <mask>(*.py</mask>
       <mask>*.py</mask>
+      <mask>t*.py</mask>
+      <mask>tr*.py</mask>
+      <mask>trol*.py</mask>
+      <mask>troll*.py</mask>
+      <mask>trolle*.py</mask>
+      <mask>*trolle*.py</mask>
     </recentFileMasks>
   </component>
 </application>
