@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -24,16 +25,16 @@
       <mask>(*</mask>
       <mask>(</mask>
       <mask>.</mask>
-      <mask>.py</mask>
       <mask>(*.py)</mask>
       <mask>(*.py</mask>
-      <mask>*.py</mask>
       <mask>t*.py</mask>
       <mask>tr*.py</mask>
       <mask>trol*.py</mask>
       <mask>troll*.py</mask>
       <mask>trolle*.py</mask>
       <mask>*trolle*.py</mask>
+      <mask>.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
