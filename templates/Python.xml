@@ -4,7 +4,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="printdebug" value="&#10;#TODO: remove print statement&#10;&#10;print('$VAR_NAME$: {}'.format($VAR_NAME$))&#10;" description="print a variable for debugging" toReformat="false" toShortenFQNames="true">
+  <template name="printdebug" value="&#10;#TODO: remove print statement&#10;print('$VAR_NAME$: {}'.format($VAR_NAME$))&#10;" description="print a variable for debugging" toReformat="false" toShortenFQNames="true">
     <variable name="VAR_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
