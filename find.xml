@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -32,6 +32,7 @@
       <mask>troll*.py</mask>
       <mask>trolle*.py</mask>
       <mask>*trolle*.py</mask>
+      <mask>*.py$</mask>
       <mask>.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
