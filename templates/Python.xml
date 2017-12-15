@@ -10,4 +10,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="stopwatch" value="# TODO: remove stopwatch code        &#10;from datetime import datetime&#10;start_time = datetime.now()&#10;print('start: {}'.format(start_time))&#10;print('total time: {}'.format((datetime.now() - start_time).total_seconds() * 1000))&#10;" description="quick stopwatch for performance testing" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
