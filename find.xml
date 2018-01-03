@@ -3,17 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*controller*" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*te</mask>
-      <mask>*test</mask>
-      <mask>*test*</mask>
-      <mask>*r</mask>
-      <mask>*re</mask>
       <mask>*req</mask>
       <mask>*req*</mask>
       <mask>*</mask>
@@ -34,6 +25,16 @@
       <mask>*.py$</mask>
       <mask>.py</mask>
       <mask>*.py</mask>
+      <mask>c</mask>
+      <mask>con</mask>
+      <mask>cont</mask>
+      <mask>contro</mask>
+      <mask>control</mask>
+      <mask>controll</mask>
+      <mask>controlle</mask>
+      <mask>controller</mask>
+      <mask>controller*</mask>
+      <mask>*controller*</mask>
     </recentFileMasks>
   </component>
 </application>
