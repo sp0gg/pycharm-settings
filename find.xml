@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*req</mask>
-      <mask>*req*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>(*.p</mask>
-      <mask>(*.</mask>
-      <mask>(*</mask>
-      <mask>(</mask>
-      <mask>.</mask>
-      <mask>(*.py)</mask>
-      <mask>t*.py</mask>
-      <mask>tr*.py</mask>
-      <mask>trol*.py</mask>
-      <mask>troll*.py</mask>
-      <mask>trolle*.py</mask>
-      <mask>*trolle*.py</mask>
-      <mask>*.py$</mask>
-      <mask>.py</mask>
-      <mask>c</mask>
-      <mask>con</mask>
-      <mask>cont</mask>
-      <mask>contro</mask>
-      <mask>control</mask>
-      <mask>controll</mask>
-      <mask>controlle</mask>
-      <mask>controller</mask>
-      <mask>controller*</mask>
-      <mask>*controller*</mask>
-      <mask>(*.py</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
