@@ -8,6 +8,7 @@
       <mapping ext="gz" type="Native" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
       <mapping pattern="script4" type="SQL" />
