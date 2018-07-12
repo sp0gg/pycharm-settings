@@ -4,6 +4,7 @@
     <option name="FONT_FAMILY" value="Hack" />
   </component>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
   </component>
 </application>
