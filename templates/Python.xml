@@ -15,4 +15,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="wip" value="&#10;# TODO: remove WIP&#10;from pytest import mark&#10;@mark.wip" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
