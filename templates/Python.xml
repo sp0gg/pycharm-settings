@@ -20,4 +20,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="sleep" value="&#10;# TODO: remove sleep&#10;from time import sleep; sleep(5)&#10;" description="sleep debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
