@@ -4,11 +4,12 @@
     <extensionMap>
       <mapping pattern="*Dockerfile*" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="kid" type="HTML" />
       <mapping pattern=".coveragerc" type="Ini" />
       <mapping ext="whl" type="Native" />
       <mapping ext="gz" type="Native" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pip" type="PLAIN_TEXT" />
