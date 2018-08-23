@@ -1,5 +1,15 @@
 <application>
   <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Change Signature...">
+        <Item>
+          <IdeaActionID>ChangeSignature</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Change Signature...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
     <option name="suppressed">
       <Statistic Action="Back">
         <Item>
