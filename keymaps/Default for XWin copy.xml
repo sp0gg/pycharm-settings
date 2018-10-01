@@ -42,6 +42,7 @@
   <action id="Tool_External Tools_Run unit tests in docker container">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
