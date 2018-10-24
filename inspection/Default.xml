@@ -2,7 +2,7 @@
   <option name="myName" value="Default" />
   <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="LongLine" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="LongLine" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PyClassHasNoInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -22,6 +22,13 @@
           <item index="9" class="java.lang.String" itemvalue="twilio" />
         </list>
       </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoredErrors">
+      <list>
+        <option value="line too long" />
+      </list>
     </option>
   </inspection_tool>
   <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
