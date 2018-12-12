@@ -6,7 +6,7 @@
           <IdeaActionID>Vcs.Log.AnnotateRevisionAction</IdeaActionID>
           <ShortCut>'Alt+A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
