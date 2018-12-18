@@ -2,6 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
