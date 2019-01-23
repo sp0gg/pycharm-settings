@@ -22,6 +22,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="IpnbRunAllCellsAction" />
