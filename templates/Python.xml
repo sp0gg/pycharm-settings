@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="ipdb" value="&#10;# TODO: remove ipdb&#10;import ipdb; ipdb.set_trace()&#10;" description="set breakpoint" toReformat="false" toShortenFQNames="true">
+  <template name="ipdb" value="&#10;# TODO: debug ipdb&#10;import ipdb; ipdb.set_trace()&#10;" description="set breakpoint" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
@@ -15,12 +15,22 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="wip" value="&#10;# TODO: remove WIP&#10;from pytest import mark&#10;@mark.wip" description="" toReformat="false" toShortenFQNames="true">
+  <template name="wip" value="&#10;# TODO: debug WIP&#10;from pytest import mark&#10;@mark.wip" description="tag test as wip" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
   </template>
   <template name="sleep" value="&#10;# TODO: remove sleep&#10;from time import sleep; sleep(5)&#10;" description="sleep debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="commit" value="&#10;# TODO: debug commit&#10;from bazman.model import hub; hub.commit()&#10;" description="debug commit" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="breakpoint" value="&#10;# TODO: debug ipdb&#10;import ipdb; ipdb.set_trace()&#10;" description="set breakpoint" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
