@@ -169,14 +169,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Reload Page">
-        <Item>
-          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
-          <ShortCut>'Ctrl+F5'</ShortCut>
-          <Description>Reload Page</Description>
-          <Count>34</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Remove">
         <Item>
           <IdeaActionID>UsageView.Remove</IdeaActionID>
@@ -241,6 +233,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
