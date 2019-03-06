@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="VCS Operations Popup...">
         <Item>
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
